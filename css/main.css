@@ -24,7 +24,7 @@ h4 {
 
 h1 {
   font: 4em "Roboto Condensed", sans-serif;
-  padding: 1.7em .5em .65em;
+  padding: 1.7em 0 .65em;
   text-transform: uppercase;
 }
 
@@ -114,6 +114,8 @@ a {
   #header__container {
     display: table-cell;
     vertical-align: middle;
+    max-width: 800px;
+    width: 80%;
   }
 
   #header__container__titles {
