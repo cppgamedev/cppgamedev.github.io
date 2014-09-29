@@ -79,6 +79,42 @@ h5 {
     }
 }
 
+.share-toolbar {
+  background: rgba(51, 51, 51, 0.5);
+  border-radius: 0 0 0 5px;
+  padding: 10px;
+  height: 40px;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1; }
+  .share-toolbar .eventable {
+    float: left;
+    margin-right: 10px; }
+    @media (max-width: 1024px) {
+      .share-toolbar .eventable {
+        display: none; } }
+  .share-toolbar .twitter-follow-button {
+    display: block;
+    float: left;
+    margin-right: 10px; }
+    @media (max-width: 1024px) {
+      .share-toolbar .twitter-follow-button {
+        margin-right: 0; } }
+  .share-toolbar .fb-like {
+    float: left;
+    display: table !important;
+    height: 20px !important;
+    width: auto !important; }
+    @media (max-width: 1024px) {
+      .share-toolbar .fb-like {
+        float: right; } }
+  @media (max-width: 1024px) {
+    .share-toolbar {
+      background: #333333;
+      border-radius: 0;
+      position: static; } }
+
 a {
   border-bottom: 1px dotted #777;
   color: #59ABE3;
@@ -87,6 +123,7 @@ a {
      -moz-transition: all .2s;
           transition: all .2s;
 }
+
 #faq a {
     border-bottom: 1px dotted #fff;
     color: orange;
