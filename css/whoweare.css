@@ -1,0 +1,105 @@
+.nav-whoweare {
+  background: #222;
+}
+.highlight {
+  color: #222;
+  font-family: 'pixelmix', sans-serif;
+}
+.mission,
+.ourteam {
+  padding: 95px 6% 70px 6%;
+}
+.mission {
+  background: #27ae60;
+  color: #fff;
+  font-family: 'code bold', sans-serif;
+  letter-spacing: 3px;
+}
+.mission h1{
+  font-family: 'geometos', sans-serif;
+}
+.mission hr {
+  margin: 30px 0 35px 0;
+  padding: 0;
+  border: none;
+  border-top: 1px solid #fff;
+}
+.mission .description {
+  margin: 0;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: justify;
+}
+.ourteam h2 {
+  margin: 0 0 25px 0;
+  padding: 0;
+  text-transform: uppercase;
+  font-family: 'geometos';
+  letter-spacing: 3px;
+}
+.ourteam .description {
+  margin: 0;
+  font-size: 17px;
+  line-height: 25px;
+  font-family: 'code bold', sans-serif;
+  letter-spacing: 3px;
+  text-align: justify;
+}
+.ourteam .photos {
+  width: 100%;
+  margin-top: 50px;
+  text-align: center;
+}
+.ourteam .single-member {
+  width: 190px;
+  height: 190px;
+  display: inline-block;
+  position: relative;
+}
+.ourteam .single-member:hover >div {
+  visibility: visible;
+}
+.ourteam .single-member .photo,
+.ourteam .single-member .info {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.ourteam .single-member .info {
+  position: absolute;
+  top: 0;
+  text-align: center;
+  color: #fff;
+  font-size: 22px;
+  font-family: 'pixelmix';
+  letter-spacing: 1px;
+  visibility: hidden;
+}
+.ourteam .single-member .info div {
+  position: absolute;
+  right: 0;
+  bottom: 20px;
+  left: 0;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+@media only screen and (max-width: 480px) {
+  .mission .orglist li {
+    margin: 0 20px 20px 0;
+    font-size: 20px;
+  }
+  .mission .topiclist li {
+    font-size: 26px;
+  }
+  .ourteam .single-member {
+    width: 160px;
+    height: 160px;
+  }
+}
+
+ /*# sourceMappingURL=whoweare.css.map */

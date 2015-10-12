@@ -1,0 +1,93 @@
+.nav-contact {
+  background: #222;
+}
+.contact {
+  height: 100%;
+  text-align: center;
+  background: #27ae60;
+  color: #fff;
+}
+.contact-block {
+  position: relative;
+  top: -150px;
+}
+.icon {
+  width: 80px;
+}
+.talktous {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-size: 24px;
+  letter-spacing: 3px;
+  font-family: 'pixelmix', sans-serif;
+}
+.hello {
+  margin-bottom: 42px;
+  text-transform: uppercase;
+  font-size: 36px;
+  letter-spacing: 3px;
+}
+.hello a {
+  text-decoration: none;
+  color: #fff;
+}
+.hello a:hover{
+  color:black;
+}
+.wantupdates {
+  margin-bottom: 16px;
+  text-transform: uppercase;
+  font-size: 24px;
+  letter-spacing: 3px;
+  font-family: 'pixelmix', sans-serif;
+}
+.contact-email {
+  margin-bottom: 20px;
+  font-size: 0;
+  font-family: 'pixelmix', sans-serif;
+  letter-spacing: 3px;
+}
+.contact-email * {
+  padding: 0;
+  display: inline;
+  border-radius: 0;
+}
+.contact-email .email-form {
+  width: 340px;
+  padding: 10px;
+  border: none;
+  vertical-align: text-bottom;
+  font-size: 24px;
+  letter-spacing: normal;
+  color: #222;
+}
+.contact-email .email-submit {
+  height: 44px;
+  margin-left: 0px;
+  padding: 0 22px;
+  border: 1px solid #fff;
+  vertical-align: text-bottom;
+  text-transform: uppercase;
+  font-size: 18px;
+  background: none;
+}
+.contact-email .socialmedia {
+  width: 64px;
+  height: 64px;
+  margin: 20px 20px;
+}
+/* media queries */
+@media only screen and (max-width: 480px) {
+  .hello {
+    margin-bottom: 32px;
+    font-size: 24px;
+  }
+  .wantupdates {
+    font-size: 20px;
+  }
+  .email {
+    width: 190px !important;
+  }
+}
+
+ /*# sourceMappingURL=contact.css.map */

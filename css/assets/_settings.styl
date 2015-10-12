@@ -1,0 +1,68 @@
+/* general */
+/* -------------------- */
+
+$desktop-min-height = 640px
+$mobile-min-height = 320px
+
+$menu-width = 110px
+$menu-padding-lr = 10px
+$menu-padding-tb = 30px
+$menu-item-height-mobile = 85px
+
+content-box()
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+
+noselect()
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+/* media queries */
+/* -------------------- */
+
+$mobile-bp-lg = 992px
+// $mobile-bp-md = 640px
+$mobile-bp-sm = 480px
+
+
+/* fonts */
+/* -------------------- */
+
+// font stack
+
+$proxima-nova = "Proxima Nova", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif
+$helvetica-neue = "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif
+$helvetica = "Helvetica Neue", Helvetica, Arial, sans-serif
+$georgia = Georgia, Cambria, "Times New Roman", Times, serif
+$lucidia-grande = "Lucida Grande", Tahoma, Verdana, Arial, sans-serif
+$monospace = unquote("'Bitstream Vera Sans Mono', Consolas, Courier, monospace")
+$verdana = Verdana, Geneva, sans-serif
+
+// default font stack
+
+$font-stack = $proxima-nova
+$font-size = 16
+
+// ligatures
+$ligatures = false
+
+/* colors */
+/* -------------------- */
+
+$spark-yellow = #FDBD15
+$spark-black = #111111
+$spark-black-transparent = rgba(17,17,17,0.95)
+
+// text highlight color
+$highlight-color = $spark-yellow
+
+/* roots */
+/* -------------------- */
+
+// custom image base path for roots mixins
+$img-path = ''

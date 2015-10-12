@@ -1,0 +1,123 @@
+.nav-home {
+  background: #222;
+}
+.splash {
+  height: 100%;
+  position: relative;
+  text-align: right;
+}
+video.bgvid {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  background-size: cover;
+}
+img.bgvid {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  background-size: cover;
+}
+.letterhead {
+  width: 80%;
+  max-width: 480px;
+  display: none;
+}
+.title {
+  width: 100%;
+  padding: 15px 30px;
+  position: relative;
+  top: -200px;
+  display: block;
+  background: rgba(0,0,0,0.35);
+  font-size: 24px;
+  letter-spacing: 4px;
+  line-height: 34px;
+  color: #fff;
+  text-align: center;
+  font-family: 'geometos', sans-serif;
+}
+.title h3{
+    font-style: italic;
+}
+.title .highlight {
+  color: #2ecc71;
+}
+.start{
+  font-size: 24px;
+  letter-spacing: 1px;
+  line-height: 34px;
+  color: #fff;
+  text-align: center;
+  border-radius: 40px;
+  font-family: 'pixelmix', sans-serif;
+  position:relative;
+	width:200px;
+	display:block;
+	text-decoration:none;
+	margin:0 auto;
+	border:solid 1px #2ecc71;
+	background:#2ecc71;
+	text-align:center;
+	padding:20px 30px;
+	
+	-webkit-transition: all 0.1s;
+	-moz-transition: all 0.1s;
+	transition: all 0.1s;
+	
+	-webkit-box-shadow: 0px 7px 0px #27ae60;
+        -moz-box-shadow: 0px 7px 0px #27ae60;
+        box-shadow: 0px 7px 0px #27ae60;
+}
+.start:active{
+    -webkit-box-shadow: 0px 2px 0px #27ae60;
+    -moz-box-shadow: 0px 2px 0px #27ae60;
+    box-shadow: 0px 2px 0px #27ae60;
+    position:relative;
+  top:7px;
+}   
+/* media queries */
+@media only screen and (max-width: 992px) {
+  .splash {
+    text-align: center;
+  }
+  .spacer-50 {
+    height: 25%;
+  }
+  .title {
+    width: 96%;
+    position: absolute;
+    top: auto;
+    bottom: 10px;
+    right: 2%;
+    font-size: 21px;
+    line-height: 36px;
+  }
+    .start{
+    width: 10%;
+    position: absolute;
+    top: auto;
+    bottom: 250px;
+    right: 50%;
+    font-size: 21px;
+    line-height: 36px;
+  }
+}
+
+ /*# sourceMappingURL=index.css.map */

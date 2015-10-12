@@ -1,0 +1,79 @@
+@import '_settings'
+
+.nav-home
+    background #222
+
+.splash
+  height 100%
+  position relative
+  text-align right
+
+video.bgvid
+  position fixed
+  top 50%
+  left 50%
+  min-width 100%
+  min-height 100%
+  width auto
+  height auto
+  z-index -100
+  transform translateX(-50%) translateY(-50%)
+  // background url(polina.jpg) no-repeat
+  background-size cover
+
+img.bgvid
+  position fixed
+  top 50%
+  left 50%
+  min-width 100%
+  min-height 100%
+  width auto
+  height auto
+  z-index -100
+  transform translateX(-50%) translateY(-50%)
+  // background url(polina.jpg) no-repeat
+  background-size cover
+
+.letterhead
+    width 80%
+    max-width 480px
+    display none
+
+.mission
+    width 620px
+    padding: 15px 30px
+    position relative
+    top -90px;
+    display inline-block
+    background rgba(0,0,0,.35)
+    font-size 24px
+    letter-spacing 1px
+    line-height 34px
+    color white
+
+    .highlight
+        color $spark-yellow
+
+    .box
+        padding 1px 2px
+        border 1px solid white
+
+/* media queries */
+
+@media only screen and (max-width: $mobile-bp-lg)
+    .splash
+        text-align center
+    .spacer-50
+        height 25%
+    // .letterhead
+    //     position relative
+    //     display inline-block
+    .mission
+        width 96%
+        position absolute
+        top auto; bottom 10px; right 2%
+        font-size 21px
+        line-height 36px
+
+        .box
+            padding .5px 1.5px
