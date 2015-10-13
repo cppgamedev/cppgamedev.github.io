@@ -115,8 +115,8 @@
     height: 325px;
   }
   .event .oneliner {
-    display: none;
     letter-spacing: 3px;
+    padding-top: 30px;
   }
   .image-inner {
     height: 345px;

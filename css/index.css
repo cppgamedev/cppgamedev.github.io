@@ -101,21 +101,23 @@ img.bgvid {
     height: 25%;
   }
   .title {
-    width: 96%;
+    width: 90%;
     position: absolute;
     top: auto;
     bottom: 10px;
     right: 2%;
-    font-size: 21px;
-    line-height: 36px;
+    font-size: 18px;
+    line-height: 1.5;
   }
+    .title h1{
+     font-size: 30px;   
+    }
     .start{
-    width: 10%;
-    position: absolute;
+    position: relative;
     top: auto;
-    bottom: 250px;
-    right: 50%;
-    font-size: 21px;
+    bottom: 400px;
+    right: 15%;
+    font-size: 18px;
     line-height: 36px;
   }
 }

@@ -21,46 +21,6 @@ var isMobile = {
 };
 // var x_html = $('.event-page').html();
 
-$(".event").each(function() {
-    $(this).click(function() {
-
-        var event_name = $(this).attr('id').split("/")[2];
-        if(isMobile.any()) {
-            window.location.href = '/events/'+event_name;
-        } else {
-            $.ajax({
-                url: '/fragments/'+event_name,
-                dataType: "html",
-                success: function(response) {
-                    // Load fragment into event page div and get container height
-                    var event_page = $('#event-page').append(response);
-                    var event_info = $('.event-info');
-                    event_info.css("background:rgba(0,0,0,0)");
-
-                    var height = $('.container').height();
-
-                   // Move event page to bottom of page
-                    event_page.offset({
-                        top: height
-                    });
-
-                    // Animate the event page back to the top
-                    event_page.animate({
-                        top: 0
-                    }, 800, function() {
-                        // Change browser history after animation completes
-                        window.history.pushState({page: window.location.href}, 'events/'+event_name.split(".")[0]+'.html', '/events/'+event_name.split(".")[0]+'.html');
-                    });
-
-                }
-
-            });
-        }
-
-    });
-
-});
-
 // Handles forwards and backwards on this page
 if( !isMobile.any() ) {
     $(window).on('popstate', function(e) {
