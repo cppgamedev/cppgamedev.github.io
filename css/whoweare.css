@@ -80,13 +80,15 @@
   position: absolute;
   right: 0;
   bottom: 20px;
-  left: 0;
+  left: 0; 
 }
 a {
   text-decoration: none;
+  color:white;
 }
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  color:#2ecc71;
 }
 @media only screen and (max-width: 480px) {
   .mission .description {
