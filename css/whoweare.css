@@ -78,6 +78,7 @@
 }
 .ourteam .single-member .info div {
   position: absolute;
+  line-height: 1.2;
   right: 0;
   bottom: 20px;
   left: 0; 
