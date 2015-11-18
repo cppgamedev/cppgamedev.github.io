@@ -89,7 +89,7 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color:#2ecc71;
+  color: #27ae60;
 }
 @media only screen and (max-width: 480px) {
   .mission .description {
