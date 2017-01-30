@@ -64,8 +64,8 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(1px);
+          filter: blur(1px);
 }
 .name {
   padding: 30px 20px;

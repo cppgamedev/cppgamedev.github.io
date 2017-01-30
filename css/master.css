@@ -255,7 +255,7 @@ body ::selection {
 }
 .menu {
   width: 110px;
-  min-height: 640px;
+  min-height: 700px;
   position: fixed;
   top: 0;
   bottom: 0;
@@ -316,6 +316,7 @@ body ::selection {
   color: #2ecc71;
 }
 .menu .sm {
+      height: 190px;
   width: 90px;
   right: 10px;
   bottom: 30px;
