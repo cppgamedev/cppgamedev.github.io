@@ -1,0 +1,134 @@
+.nav-portfolio {
+  background: #222;
+}
+.container {
+  padding: 2px;
+}
+.events {
+  width: 100%;
+}
+.gutter {
+  padding: 2px;
+}
+.event {
+  height: 260px;
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+}
+.event:after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.25s ease-out;
+  cursor: pointer;
+}
+.event:hover:after {
+  background: #2ecc71;
+  opacity: 0.8;
+}
+.event:hover .oneliner {
+  opacity: 1;
+}
+.event .oneliner {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  padding: 140px 20px 0 20px;
+  z-index: 1;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  letter-spacing: 3px;
+  line-height: 22px;
+  transition: opacity 0.25s ease-out;
+  opacity: 0;
+  cursor: pointer;
+}
+.image {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden !important;
+}
+.image .image-inner {
+  width: 110%;
+  height: 395px;
+  margin-top: -10px;
+  margin-left: -5%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-filter: blur(1px);
+          filter: blur(1px);
+}
+.name {
+  padding: 30px 20px;
+  position: absolute;
+  color: #fff;
+  font-size: 24px;
+  font-family: 'geometos', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  z-index: 1;
+}
+.event-info {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 110px;
+  background: rgba(0,0,0,0.6);
+  overflow: scroll;
+  z-index: 10;
+}
+.event-page {
+  width: 100%;
+  position: relative;
+  background: #fff;
+  border-top: 12px solid rgba(0,0,0,0);
+  border-right: 12px solid rgba(0,0,0,0);
+  border-left: 12px solid rgba(0,0,0,0);
+  background-clip: padding-box;
+}
+.event-page-close a {
+  position: absolute;
+  top: 20px;
+  right: 25px;
+  font-size: 42px;
+  text-decoration: none;
+  list-style: none;
+  color: #fff;
+  text-shadow: 2px 2px 2px #222;
+  cursor: pointer;
+  z-index: 999999;
+}
+@media only screen and (max-width: 992px) {
+  .event {
+    height: 325px;
+  }
+  .event .oneliner {
+    letter-spacing: 3px;
+    padding-top: 30px; 
+  }
+  .image-inner {
+    height: 345px;
+  }
+  .event-info {
+    left: 0;
+  }
+  .name {
+    right: 0;
+    bottom: 0;
+    text-align: right;
+  }
+}
+
+ /*# sourceMappingURL=events.css.map */
