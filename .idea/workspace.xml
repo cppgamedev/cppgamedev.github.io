@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="276e8d3d-dd82-4945-969a-2eeea3795e3c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/christopher-harris-160425.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/christopher-harris-160425.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mock-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/teemu-paananen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/img/city_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/img/city_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/img/city_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/img/industrial_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/img/industrial_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/img/industrial_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/img/nature_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/img/nature_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/img/nature_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/images/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/images/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/src/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/src/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/src/images/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/src/images/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cppgamedev.github.io.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar-events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.codekit3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/B4CSS/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/B4CSS/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/B4CSS/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/B4JS/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/B4JS/jquery.slim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/B4JS/parallax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/B4JS/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/B4JS/tether.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/NotifierJS/notifier.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/ender.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ar-dz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ar-kw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ar-ly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ar-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ar-sa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ar-tn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/bm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/bo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/cv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/de-at.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/de-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/dv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/en-ie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/en-nz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/es-do.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/es-us.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/fr-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/fy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/gd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/gom-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/hy-am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/jv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/kn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/lo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/mi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ms-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/nl-be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/nn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/pa-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/sd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/se.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/sr-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/te.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/tet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/tl-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/tlh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/tzl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/tzm-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/tzm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/ur.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/uz-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/x-pseudo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/yo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/zh-hk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/locale/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/min/locales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/min/locales.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/min/moment-with-locales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/min/moment-with-locales.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/min/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/moment.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/check-overflow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/date-from-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/from-anything.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/from-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/from-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/from-string-and-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/from-string-and-format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/from-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/local.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/parsing-flags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/utc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/create/valid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/abs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/add-subtract.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/as.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/bubble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/clone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/constructor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/duration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/get.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/humanize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/iso-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/duration/valid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/format/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/base-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/constructor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/formats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/invalid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/lists.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/locales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/ordinal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/pre-post-format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/relative.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/locale/set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/add-subtract.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/clone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/compare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/constructor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/creation-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/from.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/get-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/min-max.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/now.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/start-end-of.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/to-type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/to.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/moment/valid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/parse/regex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/parse/token.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/aliases.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/day-of-month.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/day-of-week.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/day-of-year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/hour.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/millisecond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/minute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/month.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/priorities.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/quarter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/timestamp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/timezone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/units.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/week-calendar-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/week-year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/week.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/units/year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/abs-ceil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/abs-floor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/abs-round.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/compare-arrays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/deprecate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/has-own-prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/hooks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/index-of.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/is-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/is-date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/is-function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/is-number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/is-object-empty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/is-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/is-undefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/mod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/some.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/to-int.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/lib/utils/zero-fill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ar-dz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ar-kw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ar-ly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ar-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ar-sa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ar-tn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/bm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/bo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/cv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/de-at.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/de-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/dv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/en-ie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/en-nz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/es-do.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/es-us.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/fr-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/fy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/gd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/gom-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/hy-am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/jv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/kn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/lo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/mi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ms-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/nl-be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/nn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/pa-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/sd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/se.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/sr-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/te.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/tet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/tl-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/tlh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/tzl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/tzm-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/tzm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/ur.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/uz-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/x-pseudo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/yo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/zh-hk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/locale/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules/moment/src/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/UnderscoreJS/node_modules/underscore/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/UnderscoreJS/node_modules/underscore/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/UnderscoreJS/node_modules/underscore/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/UnderscoreJS/node_modules/underscore/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/UnderscoreJS/node_modules/underscore/underscore-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/UnderscoreJS/node_modules/underscore/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR dependencies/UnderscoreJS/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/clndr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/demo/css/clndr.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/demo/css/clndr.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/demo/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/src/clndr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/tests/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/CLNDR/tests/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/filterizr/jquery.filterizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/filterizr/jquery.filterizr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dev_example/js/controls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/dist/jquery.filterizr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Filterizr-master/src/jquery.filterizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/DEPLOY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/ROADMAP.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/css/lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/css/lightbox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/js/lightbox-plus-jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/js/lightbox-plus-jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/js/lightbox-plus-jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/js/lightbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/js/lightbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/dist/js/lightbox.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/src/css/lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightbox2-master/src/js/lightbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/attribute-selectors/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/attribute-selectors/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/basic-ie-8/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/basic-ie-8/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/basic/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/basic/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/dataset-empty-container/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/dataset-empty-container/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/dataset-pre-rendered-targets/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/dataset-pre-rendered-targets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/filtering-by-text-input/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/filtering-by-text-input/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/filtering-by-url/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/filtering-by-url/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/grid-columns/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/grid-columns/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/grid-flex-box-matching-heights/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/grid-flex-box-matching-heights/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/grid-flex-box/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/grid-flex-box/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/grid-floats/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/grid-floats/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/grid-inline-block/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/grid-inline-block/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/insertion-non-target-elements/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/insertion-non-target-elements/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/loading-animation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/loading-animation/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/mixitup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/mock-api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/multiple-instances-global-control-scoping/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/multiple-instances-global-control-scoping/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/multiple-instances-local-control-scoping/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/multiple-instances-local-control-scoping/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/removal-by-reference/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/removal-by-reference/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/sorting-by-attribute/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/sorting-by-attribute/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/sorting-by-default/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/sorting-by-default/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/sorting-by-multiple-attributes/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/sorting-by-multiple-attributes/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/toggle-filtering-and-logic/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/toggle-filtering-and-logic/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/toggle-filtering-or-logic/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/demos/toggle-filtering-or-logic/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/dist/mixitup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/dist/mixitup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/docs/mixitup-3-migration-guide.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/docs/mixitup.Config.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/docs/mixitup.Events.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/docs/mixitup.Mixer.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/docs/mixitup.State.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/docs/mixitup.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/banner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/base-static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/collection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/command-change-layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/command-dataset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/command-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/command-insert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/command-multimix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/command-remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/command-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-behavior.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-class-names.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-controls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-render.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-selectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config-templates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/control-definition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/facade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/features.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/h.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/i-move-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/messages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/mixer-dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/mixer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/module-definitions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/operation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/polyfills.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/queue-item.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/style-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/target-dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/target.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/transform-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/transform-defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/ui-class-names.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/user-instruction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/src/wrapper.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/functional/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/functional/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/functional/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/mock/dataset.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/mock/dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/mock/extension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/controls-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/controls-live.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/controls-multimix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/controls-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/controls-toggle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/extension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/h.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/mixer-change-layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/mixer-dataset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/mixer-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/mixer-get-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/mixer-get-state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/mixer-insert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/mixer-multimix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/mixer-remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/mixer-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/mixitup/tests/unit/queue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event-photos.html" afterPath="$PROJECT_DIR$/event-photos.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/events.html" afterPath="$PROJECT_DIR$/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whoweare.html" afterPath="$PROJECT_DIR$/whoweare.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="calendar-events.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calendar-events.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="event-photos.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/event-photos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="628">
+              <caret line="313" column="16" lean-forward="false" selection-start-line="313" selection-start-column="16" selection-end-line="313" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>source</find>
+      <find>hamburger</find>
+      <find>.cal</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/Event-Photos.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/events.html" />
+        <option value="$PROJECT_DIR$/whoweare.html" />
+        <option value="$USER_HOME$/Desktop/AnimatedImageGallery/js/script.js" />
+        <option value="$PROJECT_DIR$/dependencies/AnimatedImageGallery/js/script.js" />
+        <option value="$PROJECT_DIR$/dependencies/lightbox2-master/src/js/lightbox.js" />
+        <option value="$USER_HOME$/Desktop/Filterizr-master/dev_example/index.html" />
+        <option value="$PROJECT_DIR$/event-photos.html" />
+        <option value="$PROJECT_DIR$/calendar-events.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/resources/CLNDR dependencies/MomentJS/node_modules" />
+    <handled-path value="$PROJECT_DIR$/resources/CLNDR dependencies/UnderscoreJS/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1700" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cppgamedev.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cppgamedev.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cppgamedev.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cppgamedev.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cppgamedev.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cppgamedev.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="276e8d3d-dd82-4945-969a-2eeea3795e3c" name="Default" comment="" />
+      <created>1507784584041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507784584041</updated>
+      <workItem from="1507784586265" duration="503000" />
+      <workItem from="1507785098469" duration="6934000" />
+      <workItem from="1507866312395" duration="307000" />
+      <workItem from="1507876366949" duration="1485000" />
+      <workItem from="1507957635867" duration="4905000" />
+      <workItem from="1508129615111" duration="7998000" />
+      <workItem from="1508217400086" duration="4878000" />
+      <workItem from="1508294824977" duration="896000" />
+      <workItem from="1508378854559" duration="1089000" />
+      <workItem from="1508387025473" duration="6500000" />
+      <workItem from="1508440287068" duration="190000" />
+      <workItem from="1508467592117" duration="4887000" />
+      <workItem from="1508529347493" duration="221000" />
+      <workItem from="1508646921241" duration="7015000" />
+      <workItem from="1508731490707" duration="3350000" />
+      <workItem from="1508735510054" duration="3105000" />
+      <workItem from="1508823044406" duration="30000" />
+      <workItem from="1508911224439" duration="2394000" />
+      <workItem from="1508956803803" duration="152000" />
+      <workItem from="1508998681836" duration="2809000" />
+      <workItem from="1509768463663" duration="3036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62684000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1700" height="1176" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14190821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289225" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289225" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.68525517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/( Blank )Bootstrap4StartTemplate/index.html" />
+    <entry file="file://$PROJECT_DIR$/images/old photos/1613959_10202470416361284_280890893185952999_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/old photos/10502539_961890987157279_2533322701167592144_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/old photos/10980702_10202383836676846_3073409498602984781_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/old photos/10981736_10202414326439071_2132823791145041855_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/old photos/11885363_10203205042366475_1470543865710097774_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/old photos/community2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/old photos/hackathon2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/old photos/jam2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/old photos/old logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/old photos/techtour2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/old photos/1184766_10202252551874808_974545285082227789_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/whoweare.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Sams-Websites/CPP OldWebsite/index.html" />
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/community.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/email.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/hackathon.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/giphy.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/insta.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/jam333.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/jam.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/meeting.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/new logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/techtour.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/placeholder-user.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/workshop.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="44" column="34" lean-forward="true" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-353">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/master.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="242" column="18" lean-forward="true" selection-start-line="242" selection-start-column="18" selection-end-line="242" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoweare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="78" lean-forward="true" selection-start-line="26" selection-start-column="78" selection-end-line="26" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="78" lean-forward="false" selection-start-line="26" selection-start-column="78" selection-end-line="26" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/AnimatedImageGallery/index.html" />
+    <entry file="file://$PROJECT_DIR$/Assets/AnimatedImageGallery/js/script.js" />
+    <entry file="file://$USER_HOME$/Desktop/AnimatedImageGallery/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dependencies/AnimatedImageGallery/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/dependencies/lightbox2-master/src/js/lightbox.js" />
+    <entry file="file://$USER_HOME$/Desktop/Filterizr-master/dev_example/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/MixItTest/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="150" column="23" lean-forward="true" selection-start-line="150" selection-start-column="23" selection-end-line="150" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar-events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event-photos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="313" column="16" lean-forward="false" selection-start-line="313" selection-start-column="16" selection-end-line="313" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -6,29 +6,43 @@
     <meta name="description" content="Game Developers and Designers at Cal Poly Pomona.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CPPGDDC &middot; Game Design and Development Club</title>
-    <link rel="icon" href="/img/favicon.ico">
-    <link rel="stylesheet" href="/css/master.css">
-    <link rel="stylesheet" href="/css/lib/grid.css">
-    <link rel="stylesheet" href="/css/events.css">
+    <link rel="icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="css/master.css">
+    <link rel="stylesheet" href="css/lib/grid.css">
+    <link rel="stylesheet" href="css/events.css">
+
+    <!--Bootstrap 4 Min CSS Sheet-->
+    <!--<link rel="stylesheet" href="css/B4CSS/bootstrap.min.css">-->
+    <!--Bootstrap User across all pages-->
+    <link rel="stylesheet" href="css/styles.css">
+    <!--Animate CSS CDN-->
+    <link rel="stylesheet" href="css/B4CSS/animate.css">
+    <!--Font Awesome CDN-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
   </head>
   <body>
     <div id="menu-icon" class="menu-icon">
       <div class="hamburger"></div>
     </div>
-    <div id="menu" class="menu"><a href="/"><img src="/images/logo-web.png" alt="GDDC" class="logo"></a>
+    <div id="menu" class="menu"><a href="index.html"><img src="images/logo-web.png" alt="GDDC" class="logo"></a>
       <nav id="nav" class="nav">
         <ul>
-          <li class="nav-home"><a href="/">Home</a></li>
-          <li class="nav-whatwedo"><a href="/events.html">What We Do</a></li>
-          <li class="nav-whoweare"><a href="/whoweare.html">Who We Are</a></li>
+          <li class="nav-home"><a href="index.html">Home</a></li>
+          <li class="nav-whatwedo"><a href="events.html">What We Do</a></li>
+          <li class="nav-whoweare"><a href="whoweare.html">Who We Are</a></li>
           <!--<li class="nav-portfolio"><a href="/portfolio.html">Projects</a></li>-->
-          <li class="nav-contact"><a href="/contact.html">Contact</a></li>
+          <li class="nav-calendar"><a href="calendar-events.html">Events</a></li>
+          <!--Gallery Page Here-->
+          <li class="nav-calendar"><a href="event-photos.html">Photos</a></li>
+          <li class="nav-contact"><a href="contact.html">Contact</a></li>
         </ul>
       </nav>
       <section id="sm" class="sm">
         <ul>
-          <li><a href="https://www.facebook.com/groups/cppgamedev/" target="_blank"><img src="/images/facebook.png" alt="facebook"></a></li>
-          <li><a href="https://instagram.com/cppgamedev" target="_blank"><img src="/images/insta.png" alt="instagram"></a></li>
+          <li><a href="https://www.facebook.com/groups/cppgamedev/" target="_blank"><img src="images/facebook.png" alt="facebook"></a></li>
+          <li><a href="https://instagram.com/cppgamedev" target="_blank"><img src="images/insta.png" alt="instagram"></a></li>
         </ul>
       </section>
     </div>
@@ -39,7 +53,7 @@
             <div class="name">General Meetings</div>
             <div class="oneliner" onclick="void(0)">We currently meet during u-hour (12-12:50pm) in building 6-227 every Tuesday</div>
             <div class="image">
-              <div style="background-image:url(/images/meeting.jpg)" class="image-inner"></div>
+              <div style="background-image:url(images/meeting.jpg)" class="image-inner"></div>
             </div>
           </div>
         </div>
@@ -48,7 +62,7 @@
             <div class="name">Workshops</div>
             <div class="oneliner" onclick="void(0)">We help students every week by hosting interactive workshops, guest speakers, tech talks, and guided projects geared toward learning by doing.</div>
             <div class="image">
-              <div style="background-image:url(/images/workshop.jpg)" class="image-inner"></div>
+              <div style="background-image:url(images/workshop.jpg)" class="image-inner"></div>
             </div>
           </div>
         </div>
@@ -57,7 +71,7 @@
             <div class="name">Community Service</div>
             <div class="oneliner" onclick="void(0)">We reach out to the surrounding Los Angeles community and expose youths to the joys of game design and development.</div>
             <div class="image">
-              <div style="background-image:url(/images/community.jpg)" class="image-inner"></div>
+              <div style="background-image:url(images/community.jpg)" class="image-inner"></div>
             </div>
           </div>
         </div>
@@ -67,7 +81,7 @@
             <div class="name">Hackathons</div>
             <div class="oneliner" onclick="void(0)">We participate in hackathons together all over Southern California and are also partnered with HackPoly, Cal Poly Pomona's collegiate hackathon.</div>
             <div class="image">
-              <div style="background-image:url(/images/hackathon.jpg)" class="image-inner"></div>
+              <div style="background-image:url(images/hackathon.jpg)" class="image-inner"></div>
             </div>
           </div>
         </div>
@@ -76,7 +90,7 @@
             <div class="name">Game Jams</div>
             <div class="oneliner" onclick="void(0)">We host quarterly "hackathon-esque" competitions where people make games in accordance to a certain theme.</div>
             <div class="image">
-              <div style="background-image:url(/images/jam.jpg)" class="image-inner"></div>
+              <div style="background-image:url(images/jam.jpg)" class="image-inner"></div>
             </div>
           </div>
         </div>
@@ -85,7 +99,7 @@
             <div class="name">Tech Tours</div>
             <div class="oneliner" onclick="void(0)">We organize trips to local companies we think are awesome for our members!</div>
             <div class="image">
-              <div style="background-image:url(/images/techtour.jpg)" class="image-inner"></div>
+              <div style="background-image:url(images/techtour.jpg)" class="image-inner"></div>
             </div>
           </div>
         </div>
@@ -97,8 +111,15 @@
         </div>
       </div>
     </div>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
     <script type="text/javascript" src="/js/events.js"></script>
+
+    <!--Bootstrap Scripts-->
+    <script src="js/B4JS/scripts.js"></script>
+    <script src="js/B4JS/jquery.slim.js"></script>
+    <script src="js/B4JS/tether.min.js"></script>
+    <script src="js/B4JS/bootstrap.min.js"></script>
+
   </body>
 </html>

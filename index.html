@@ -6,36 +6,152 @@
     <meta name="description" content="Game Developers and Designers at Cal Poly Pomona.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CPPGDDC &middot; Game Design and Development Club</title>
-    <link rel="icon" href="/img/favicon.ico">
-    <link rel="stylesheet" href="/css/master.css">
-    <link rel="stylesheet" href="/css/lib/grid.css">
-    <link rel="stylesheet" href="/css/index.css">
+    <link rel="icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="css/master.css">
+    <link rel="stylesheet" href="css/lib/grid.css">
+    <link rel="stylesheet" href="css/index.css">
+    <!--Link to Main Stylesheet across all pages-->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!--Bootstrap 4 Min CSS Sheet-->
+    <link rel="stylesheet" href="css/B4CSS/bootstrap.min.css">
+    <!--Bootstrap User across all pages-->
+    <link rel="stylesheet" href="css/styles.css">
+    <!--Animate CSS CDN-->
+    <link rel="stylesheet" href="css/B4CSS/animate.css">
+    <!--Font Awesome CDN-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!--Calendar Link & Dependencies-->
+    <!--<script src="resources/CLNDR%20dependencies/MomentJS/node_modules/moment/min/moment.min.js" type="text/javascript"></script>-->
+    <!--<script src="resources/CLNDR%20dependencies/UnderscoreJS/node_modules/underscore/underscore-min.js" type="text/javascript"></script>-->
+    <!--<script src="resources/CLNDR/src/clndr.js" type="text/javascript"></script>-->
+
+
+
   </head>
   <body>
+
+  <!--Notification Modal Here With the Calendar Included-->
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-2 offset-8 col-md-1 offset-md-11  offset-sm-8 mt-3 no-gutters">
+        <button class="btn btn-primary p-3" data-toggle="modal" data-target="#show-calendar" aria-hidden="true">
+          <i class="fa fa-calendar fa-2x text-white"></i>
+        </button>
+
+        <!--Modal Calendar with Event Links Information Here-->
+        <!-- Modal Body -->
+        <div class="modal fade" id="show-calendar" tabindex="-1" role="dialog" aria-labelledby="show-calendar" aria-hidden="true">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Calendar Title Here</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus facere labore maxime nesciunt
+                  quod recusandae! Accusantium amet animi cupiditate dolore, exercitationem, expedita explicabo,
+                  magni minima nesciunt odit perferendis ullam voluptatibus.</p>
+
+                <!--Events Quick Link Information Table-->
+
+                <table class="table table-bordered table-sm">
+                  <thead class="table-inverse">
+                  <tr>
+                    <th>#</th>
+                    <th>Event Title</th>
+                    <th>Description</th>
+                    <th>More Info</th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                  <tr>
+                    <th scope="row">1</th>
+                    <td>Event 1</td>
+                    <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis, reiciendis!</td>
+                    <td>
+                      <button class="btn btn-secondary">
+                        <a href="https://www.google.com" target="_blank">
+                          <i class="fa fa-external-link"></i>
+                        </a>
+                      </button>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">2</th>
+                    <td>Event 2</td>
+                    <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis, reiciendis!</td>
+                    <td>
+                      <button class="btn btn-secondary">
+                        <i class="fa fa-external-link"></i>
+                      </button>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">3</th>
+                    <td>Event 3</td>
+                    <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis, reiciendis!</td>
+                    <td>
+                      <button class="btn btn-secondary">
+                        <i class="fa fa-external-link"></i>
+                      </button>
+                    </td>
+                  </tr>
+                  </tbody>
+                </table>
+
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div> <!-- .container -->
+
+
+
+
     <div id="menu-icon" class="menu-icon">
       <div class="hamburger"></div>
     </div>
-    <div id="menu" class="menu"><a href="/"><img src="/images/logo-web.png" alt="GDDC" class="logo"></a>
+    <div id="menu" class="menu"><a href="index.html"><img src="images/logo-web.png" alt="GDDC" class="logo"></a>
       <nav id="nav" class="nav">
         <ul>
-          <li class="nav-home"><a href="/">Home</a></li>
-          <li class="nav-whatwedo"><a href="/events.html">What We Do</a></li>
-          <li class="nav-whoweare"><a href="/whoweare.html">Who We Are</a></li>
+          <li class="nav-home"><a href="index.html">Home</a></li>
+          <li class="nav-whatwedo"><a href="events.html">What We Do</a></li>
+          <li class="nav-whoweare"><a href="whoweare.html">Who We Are</a></li>
           <!--<li class="nav-portfolio"><a href="/portfolio.html">Projects</a></li>-->
-          <li class="nav-contact"><a href="/contact.html">Contact</a></li>
+          <!--Calendar Events page here-->
+          <li class="nav-calendar"><a href="calendar-events.html">Events</a></li>
+          <!--Gallery Page Here-->
+          <li class="nav-calendar"><a href="event-photos.html">Photos</a></li>
+          <li class="nav-contact"><a href="contact.html">Contact</a></li>
         </ul>
       </nav>
       <section id="sm" class="sm">
         <ul>
-          <li><a href="https://www.facebook.com/groups/cppgamedev/" target="_blank"><img src="/images/facebook.png" alt="facebook"></a></li>
-          <li><a href="https://instagram.com/cppgamedev" target="_blank"><img src="/images/insta.png" alt="instagram"></a></li>
+          <li><a href="https://www.facebook.com/groups/cppgamedev/" target="_blank"><img src="images/facebook.png" alt="facebook"></a></li>
+          <li><a href="https://instagram.com/cppgamedev" target="_blank"><img src="images/insta.png" alt="instagram"></a></li>
         </ul>
       </section>
     </div>
     <div id="content" class="content">
-      <section class="splash"><img id="gif" src="/images/giphy.gif" style="display:none" class="bgvid">
-        <video autoplay loop muted poster="/images/giphy.gif" class="bgvid">
-          <source src="/images/giphy.gif" type="gif">
+
+
+
+
+      <!--Page Background Here-->
+      <section class="splash"><img id="gif" src="images/giphy.gif" style="display:none" class="bgvid">
+        <video autoplay loop muted poster="images/giphy.gif" class="bgvid">
+          <source src="images/giphy.gif" type="gif">
         </video>
         <div class="spacer-50"></div>
         <section class="title">
@@ -45,9 +161,45 @@
           <a href="events.html" class="start" align="center">START
               </a>
       </section>
-    </div>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script type="text/javascript" src="/js/main.js"></script>
-    <script type="text/javascript" src="/js/index.js"></script>
+
+      <!--&lt;!&ndash;Notification System Dashboard Goes Here&ndash;&gt;-->
+      <!--<div class="container-fluid notify-system">-->
+        <!--<div class="row mb-5">-->
+          <!--<div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1 dash-toolbar">-->
+            <!--<p>  <i class="fa fa-window-close fa-2x float-right p-2 " aria-hidden="true"></i> </p>-->
+          <!--</div>-->
+
+          <!--&lt;!&ndash;Notification Info&ndash;&gt;-->
+          <!--<div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1 notify-dash p-3">-->
+            <!--<div class="dash-notification col-md-12 rounded p-2">-->
+              <!--<p class="col-md-10 lead">Event Heding Here</p>-->
+              <!--<p class="col-md-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda eaque facere facilis fuga fugit,-->
+                <!--nam nesciunt optio perspiciatis repudiandae suscipit. Accusantium atque cum quam quidem....</p>-->
+              <!--<div class="col-md-6 col-sm-6 text-center notify-show p-2">Show Me</div>-->
+              <!--<div class="col-md-6 col-sm-6 text-center notify-show p-2">Close</div>-->
+            <!--</div>-->
+          <!--</div>-->
+        <!--</div> &lt;!&ndash; .notify-system &ndash;&gt;-->
+    
+
+
+      </div> <!-- .container-fluid -->
+      
+    </div> <!-- .content -->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+
+    <!--Bootstrap Scripts-->
+    <script src="js/B4JS/scripts.js"></script>
+    <script src="js/B4JS/jquery.slim.js"></script>
+    <script src="js/B4JS/tether.min.js"></script>
+    <script src="js/B4JS/bootstrap.min.js"></script>
+
+  <!--NotiferJS-->
+    <!--<script src="js/NotifierJS/notifier.js"></script>-->
+
+
   </body>
 </html>

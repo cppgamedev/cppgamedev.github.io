@@ -1,1 +1,169 @@
 /** Styles Go Here **/
+
+/*Index Page*/
+.nav-calendar {
+  background: #131313;
+}
+
+/*Notification Dashboard*/
+.notify-dash{
+  background-color: #f6f9f8;
+  color: white;
+  background: rgba(0,0,0,0.5);
+}
+
+.notify-system{
+  margin-top: -20%;
+}
+
+.dash-toolbar{
+  background-color: #27ae60;
+}
+
+.fa-window-close:hover{
+  transition: 0.5s ease-in;
+  color: #EBB232;
+}
+
+.dash-notification{
+  color: black;
+  font-weight: 700;
+  background-color: #f6f9f8;
+}
+
+.notify-show{
+  height: auto;
+  color: #f6f9f8;
+  background-color: #1d1e1f;
+}
+
+
+.notify-show:hover{
+  background-color: #b53d54;
+}
+
+.btn-primary{
+  z-index: 200;
+  transition: 1s ease;
+  background-color: #27ae60;
+  position: relative;
+  border: none;
+  border-radius: 0;
+  /*margin-left: 90%;*/
+}
+
+.btn-primary:hover{
+  transition: background-color 1s ease;
+  background-color: #1d1e1f;
+  cursor: pointer;
+}
+
+.btn-primary:hover .fa-level-down{
+  transition: background-color 1s ease;
+  background-color: #1d1e1f;
+  cursor: pointer;
+}
+
+.more-info:hover .fa-plus{
+  transition: 0.9s;
+  color: red;
+  transform: rotate(0.5turn);
+  -moz-transform: rotate(0.5turn);
+  -ms-transform: rotate(0.5turn);
+  -webkit-transform: rotate(0.5turn);
+}
+
+/*Calendar-Events Page*/
+.content-background{
+  background-color: #EFEDED;
+  margin-top: 5%;
+  border-radius: 25px 25px 0 0;
+}
+
+/*Responds to the Events Page Events to adjust responsiveness when scaled down*/
+@media (max-width: 700px) {
+  .event-manager-pic{
+    width: 35% !important;
+  }
+
+  .event-start, .event-end, .event-date{
+    font-size: .75rem;
+  }
+
+  .more-info{
+    font-size: 1rem;
+    /*margin-left: 20%;*/
+  }
+
+}
+
+.event-manager-pic img{
+  border-radius: 50%;
+  width: 90%;
+}
+
+.horizontal-rule{
+  margin-top: 5%;
+  color: #1d1e1f !important;
+  background-color: #1d1e1f !important;
+}
+
+.event-start, .event-end{
+  border-radius: 15px !important;
+}
+
+.more-info{
+  background-color: #27ae60;
+  color: white;
+}
+
+.more-info:hover{
+  transition: background-color 1s ease;
+  background-color: #1d1e1f;
+  cursor: pointer;
+}
+
+.more-info:active{
+  background-color: salmon;
+}
+
+/*Event Photos Galley Page*/
+.photo-ui{
+  background-color: rgba(39,174,96, .7);
+  position: fixed;
+  z-index: 10;
+}
+
+.photo-ui:hover > span > a > i{
+  text-decoration: none;
+  color: #ebb232;
+  transition: .75s ease-in;
+  -moz-transition: .75s ease-in;
+  -webkit-transition: .75s ease-in;
+  transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+}
+
+.photo-ui > div > a{
+  color: white;
+  text-decoration: none
+}
+
+.photo-ui > div > a:hover{
+  background-color: #1d1e1f ;
+  border-radius: 15px;
+  transition: background-color 1s ease;
+}
+
+@media (max-width: 575px) {
+  .photo-content{
+    /*//margin-top: 75%;*/
+    margin-top: 10%;
+  }
+}
+
+#collapseExample{
+  transition: .80s ease-in;
+}

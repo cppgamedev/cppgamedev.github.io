@@ -1,10 +1,344 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+  <meta charset="utf8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+  <meta name="description" content="Game Developers and Designers at Cal Poly Pomona.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CPPGDDC &middot; Game Design and Development Club</title>
+  <link rel="icon" href="img/favicon.ico">
+  <link rel="stylesheet" href="css/master.css">
+  <link rel="stylesheet" href="css/lib/grid.css">
+  <link rel="stylesheet" href="css/index.css">
+
+  <!--Bootstrap 4 Min CSS Sheet-->
+  <link rel="stylesheet" href="css/B4CSS/bootstrap.min.css">
+  <!--Bootstrap User across all pages-->
+  <link rel="stylesheet" href="css/styles.css">
+  <!--Animate CSS CDN-->
+  <link rel="stylesheet" href="css/B4CSS/animate.css">
+  <!--Font Awesome CDN-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
 </head>
 <body>
-$END$
+<div id="menu-icon" class="menu-icon">
+  <div class="hamburger"></div>
+</div>
+
+<!--Vertical Navigation Bar-->
+<div id="menu" class="menu"><a href="index.html"><img src="images/logo-web.png" alt="GDDC" class="logo"></a>
+  <nav id="nav" class="nav">
+    <ul>
+      <li class="nav-home"><a href="index.html">Home</a></li>
+      <li class="nav-whatwedo"><a href="events.html">What We Do</a></li>
+      <li class="nav-whoweare"><a href="whoweare.html">Who We Are</a></li>
+      <!--<li class="nav-portfolio"><a href="/portfolio.html">Projects</a></li>-->
+      <!--Calendar Events page here-->
+      <li class="nav-calendar"><a href="calendar-events.html">Events</a></li>
+      <!--Gallery Page Here-->
+      <li class="nav-calendar"><a href="event-photos.html">Photos</a></li>
+      <li class="nav-contact"><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  <!--Social Media Links-->
+  <section id="sm" class="sm">
+    <ul>
+      <li><a href="https://www.facebook.com/groups/cppgamedev/" target="_blank"><img src="images/facebook.png" alt="facebook"></a></li>
+      <li><a href="https://instagram.com/cppgamedev" target="_blank"><img src="images/insta.png" alt="instagram"></a></li>
+    </ul>
+  </section>
+</div>
+<!--Body Content-->
+
+<div class="container">
+  <!--For the Events, the latest events go right at the top, oldest are at the bottom-->
+  <!--Also remember to change the ID for the href of the Event otherwise it will keep expanding the very first one-->
+
+  <!--Event No. ## or #n-->
+  <div class="row content-background p-3">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+      <p class="date lead mt-3"> <span class="fa fa-calendar mr-3"></span>
+        <span class="mr-3 font-weight-bold btn-success p-2 event-start">Starts</span>
+        <span class="mr-3 font-weight-bold btn-danger p-2 event-end">Ended</span>
+        00-00-0000
+      </p>
+      <p class="display-4">Event Title Here</p>
+      <div class="event-manager-pic col-md-2 col-sm-2 col-xs-2 text-center img-fluid">
+        <img src="images/christopher-harris-160425.png" alt="event-manager" class="animated infinite pulse">
+      </div>
+      <div class="event-description col-md-10 col-sm-10 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
+        blanditiis consequatur cumque, cupiditate doloremque ducimus laudantium necessitatibus quaerat quam voluptate.
+        Asperiores commodi corporis distinctio eaque earum esse impedit modi, necessitatibus nisi non odit optio quam
+        quos recusandae repellendus ullam voluptate?
+        <br>
+        <div class="d-inline-block more-info p-2 mt-3 font-weight-bold" role="button" data-toggle="collapse" href="#collapseExample-4" aria-expanded="false" aria-controls="collapseExample">More Information <i class="fa fa-plus"></i> </div>
+
+        <!--More Information Content Goes Here-->
+        <div class="collapse" id="collapseExample-4">
+          <div class="well" style="font-size: .5em; color:black;">
+
+            <form method="POST" action="">
+
+              <h3 class="Lead mt-3"> Event Information Goes Here</h3>
+              <div >
+                <img src="images/teemu-paananen.jpg" alt="Event Picture" class="img-fluid p-3 rounded img-thumbnail mt-3 mb-3">
+              </div>
+              <p class="lead font-weight-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aspernatur autem, consequatur
+                consequuntur cumque cupiditate debitis dignissimos distinctio doloremque eaque eum eveniet ex
+                excepturi explicabo facilis fugiat hic impedit iure iusto laudantium magnam minima necessitatibus non
+                nostrum numquam placeat praesentium quas quasi quis recusandae repudiandae suscipit tenetur totam?
+                Laborum, quidem!</p>
+
+              <div class="form-group">
+
+                <label for="exampleInputName1">Your Name</label>
+                <input type="text" class="form-control input-lg" id="exampleInputName1" placeholder="Your Name" name = "name"/>
+
+              </div>
+
+              <div class="form-group">
+
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" class="form-control input-lg" id="exampleInputEmail1" name ="email" placeholder="Email">
+
+              </div>
+
+              <label for="comment">Your Comment</label>
+              <textarea class="form-control" rows="9" style="font-size: .75em" name = "comment"></textarea>
+
+              <br>
+
+              <div class="d-inline-block more-info p-2 mt-3 font-weight-bold">External Link &rarr;</div>
+
+            </form>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="col-md-12">
+      <hr class="horizontal-rule">
+    </div> <!-- Event No # Ends -->
+
+  <!--Event No. ## or #n-->
+  <div class="row content-background p-3">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+      <p class="date lead mt-3"> <span class="fa fa-calendar mr-3"></span>
+        <span class="mr-3 font-weight-bold btn-success p-2 event-start">Starts</span>
+        <span class="mr-3 font-weight-bold btn-danger p-2 event-end">Ended</span>
+        00-00-0000
+      </p>
+      <p class="display-4">Event Title Here</p>
+      <div class="event-manager-pic col-md-2 col-sm-2 col-xs-2 text-center img-fluid">
+        <img src="images/christopher-harris-160425.png" alt="event-manager" class="animated infinite pulse">
+      </div>
+      <div class="event-description col-md-10 col-sm-10 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
+        blanditiis consequatur cumque, cupiditate doloremque ducimus laudantium necessitatibus quaerat quam voluptate.
+        Asperiores commodi corporis distinctio eaque earum esse impedit modi, necessitatibus nisi non odit optio quam
+        quos recusandae repellendus ullam voluptate?
+        <br>
+        <div class="d-inline-block more-info p-2 mt-3 font-weight-bold" role="button" data-toggle="collapse" href="#collapseExample-3" aria-expanded="false" aria-controls="collapseExample">More Information <i class="fa fa-plus"></i> </div>
+
+        <!--More Information Content Goes Here-->
+        <div class="collapse" id="collapseExample-3">
+          <div class="well" style="font-size: .5em; color:black;">
+
+            <form method="POST" action="">
+
+              <h3 class="Lead mt-3"> Event Information Goes Here</h3>
+              <div >
+                <img src="images/teemu-paananen.jpg" alt="Event Picture" class="img-fluid p-3 rounded img-thumbnail mt-3 mb-3">
+              </div>
+              <p class="lead font-weight-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aspernatur autem, consequatur
+                consequuntur cumque cupiditate debitis dignissimos distinctio doloremque eaque eum eveniet ex
+                excepturi explicabo facilis fugiat hic impedit iure iusto laudantium magnam minima necessitatibus non
+                nostrum numquam placeat praesentium quas quasi quis recusandae repudiandae suscipit tenetur totam?
+                Laborum, quidem!</p>
+
+              <div class="form-group">
+
+                <label for="exampleInputName1">Your Name</label>
+                <input type="text" class="form-control input-lg" id="exampleInputName1" placeholder="Your Name" name = "name"/>
+
+              </div>
+
+              <div class="form-group">
+
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" class="form-control input-lg" id="exampleInputEmail1" name ="email" placeholder="Email">
+
+              </div>
+
+              <label for="comment">Your Comment</label>
+              <textarea class="form-control" rows="9" style="font-size: .75em" name = "comment"></textarea>
+
+              <br>
+
+              <div class="d-inline-block more-info p-2 mt-3 font-weight-bold">External Link &rarr;</div>
+
+            </form>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="col-md-12">
+      <hr class="horizontal-rule">
+    </div> <!-- Event No # Ends -->
+
+  <!--Event No. 2 or #n-->
+  <div class="row content-background p-3">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+      <p class="date lead mt-3"> <span class="fa fa-calendar mr-3"></span>
+        <span class="mr-3 font-weight-bold btn-success p-2 event-start">Starts</span>
+        <span class="mr-3 font-weight-bold btn-danger p-2 event-end">Ended</span>
+        00-00-0000
+      </p>
+      <p class="display-4">Event Title Here</p>
+      <div class="event-manager-pic col-md-2 col-sm-2 col-xs-2 text-center img-fluid">
+        <img src="images/christopher-harris-160425.png" alt="event-manager" class="animated infinite pulse">
+      </div>
+      <div class="event-description col-md-10 col-sm-10 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
+        blanditiis consequatur cumque, cupiditate doloremque ducimus laudantium necessitatibus quaerat quam voluptate.
+        Asperiores commodi corporis distinctio eaque earum esse impedit modi, necessitatibus nisi non odit optio quam
+        quos recusandae repellendus ullam voluptate?
+        <br>
+        <div class="d-inline-block more-info p-2 mt-3 font-weight-bold" role="button" data-toggle="collapse" href="#collapseExample-2" aria-expanded="false" aria-controls="collapseExample">More Information <i class="fa fa-plus"></i> </div>
+
+        <!--More Information Content Goes Here-->
+        <div class="collapse" id="collapseExample-2">
+          <div class="well" style="font-size: .5em; color:black;">
+
+            <form method="POST" action="">
+
+              <h3 class="Lead mt-3"> Event Information Goes Here</h3>
+              <div >
+                <img src="images/teemu-paananen.jpg" alt="Event Picture" class="img-fluid p-3 rounded img-thumbnail mt-3 mb-3">
+              </div>
+              <p class="lead font-weight-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aspernatur autem, consequatur
+                consequuntur cumque cupiditate debitis dignissimos distinctio doloremque eaque eum eveniet ex
+                excepturi explicabo facilis fugiat hic impedit iure iusto laudantium magnam minima necessitatibus non
+                nostrum numquam placeat praesentium quas quasi quis recusandae repudiandae suscipit tenetur totam?
+                Laborum, quidem!</p>
+
+              <div class="form-group">
+
+                <label for="exampleInputName1">Your Name</label>
+                <input type="text" class="form-control input-lg" id="exampleInputName1" placeholder="Your Name" name = "name"/>
+
+              </div>
+
+              <div class="form-group">
+
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" class="form-control input-lg" id="exampleInputEmail1" name ="email" placeholder="Email">
+
+              </div>
+
+              <label for="comment">Your Comment</label>
+              <textarea class="form-control" rows="9" style="font-size: .75em" name = "comment"></textarea>
+
+              <br>
+
+              <div class="d-inline-block more-info p-2 mt-3 font-weight-bold">External Link &rarr;</div>
+
+            </form>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="col-md-12">
+      <hr class="horizontal-rule">
+    </div> <!-- Event No # Ends -->
+
+    <!--Event No 1 Start-->
+    <div class="col-lg-12 col-md-12 col-sm-12">
+      <p class="date lead mt-3"> <span class="fa fa-calendar mr-3"></span>
+        <span class="mr-3 font-weight-bold btn-success p-2 event-start">Starts</span>
+        <span class="mr-3 font-weight-bold btn-danger p-2 event-end">Ended</span>
+        00-00-0000
+      </p>
+      <p class="display-4">Event Title Here</p>
+      <div class="event-manager-pic col-md-2 col-sm-2 col-xs-2 text-center img-fluid">
+        <img src="images/christopher-harris-160425.png" alt="event-manager" class="animated infinite pulse">
+      </div>
+      <div class="event-description col-md-10 col-sm-10 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
+        blanditiis consequatur cumque, cupiditate doloremque ducimus laudantium necessitatibus quaerat quam voluptate.
+        Asperiores commodi corporis distinctio eaque earum esse impedit modi, necessitatibus nisi non odit optio quam
+        quos recusandae repellendus ullam voluptate?
+        <br>
+        <div class="d-inline-block more-info p-2 mt-3 font-weight-bold" role="button" data-toggle="collapse" href="#event2" aria-expanded="false" aria-controls="collapseExample">More Information <i class="fa fa-plus"></i></div>
+
+        <!--More Information Content Goes Here-->
+        <!--Remember to change the DropDown Button Link or else they all point to the 1st event-->
+        <div class="collapse" id="event2">
+          <div class="well" style="font-size: .5em; color:black;">
+
+            <form method="POST" action="">
+
+              <h3 class="Lead mt-3"> Event Information Goes Here</h3>
+              <div >
+                <img src="images/teemu-paananen.jpg" alt="Event Picture" class="img-fluid p-3 rounded img-thumbnail mt-3 mb-3">
+              </div>
+              <p class="lead font-weight-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aspernatur autem, consequatur
+                consequuntur cumque cupiditate debitis dignissimos distinctio doloremque eaque eum eveniet ex
+                excepturi explicabo facilis fugiat hic impedit iure iusto laudantium magnam minima necessitatibus non
+                nostrum numquam placeat praesentium quas quasi quis recusandae repudiandae suscipit tenetur totam?
+                Laborum, quidem!</p>
+
+              <div class="form-group">
+
+                <label for="exampleInputName1">Your Name</label>
+                <input type="text" class="form-control input-lg" id="exampleInputName1" placeholder="Your Name" name = "name"/>
+
+              </div>
+
+              <div class="form-group">
+
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" class="form-control input-lg" id="exampleInputEmail1" name ="email" placeholder="Email">
+
+              </div>
+
+              <label for="comment">Your Comment</label>
+              <textarea class="form-control" rows="9" style="font-size: .75em" name = "comment"></textarea>
+
+              <br>
+
+              <div class="d-inline-block more-info p-2 mt-3 font-weight-bold">External Link &rarr;</div>
+
+            </form>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="col-md-12">
+      <hr class="horizontal-rule">
+    </div> <!-- Event No 2 Ends -->
+
+  </div> <!-- .row -->
+
+</div> <!--.container-->
+
+
+
+
+
+
+
+<!--Scripts Here-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+
+<!--Bootstrap Scripts-->
+<script src="js/B4JS/scripts.js"></script>
+<script src="js/B4JS/jquery.slim.js"></script>
+<script src="js/B4JS/tether.min.js"></script>
+<script src="js/B4JS/bootstrap.min.js"></script>
+
 </body>
 </html>

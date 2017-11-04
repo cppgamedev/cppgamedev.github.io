@@ -20,6 +20,15 @@
   <!--Font Awesome CDN-->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
+  <!--Lightbox CSS-->
+  <link rel="stylesheet" href="resources/lightbox2-master/dist/css/lightbox.css">
+
+  <!--Filterizer CSS-->
+  <link rel="stylesheet" href="resources/Filterizr-master/dev_example/css/index.css">
+
+  <!--Mixitup-->
+  <script src="resources/mixitup/dist/mixitup.min.js"></script>
+
 </head>
 <body>
 <div id="menu-icon" class="menu-icon">
@@ -36,6 +45,8 @@
       <!--<li class="nav-portfolio"><a href="/portfolio.html">Projects</a></li>-->
       <!--Calendar Events page here-->
       <li class="nav-calendar"><a href="calendar-events.html">Events</a></li>
+      <!--Gallery Page Here-->
+      <li class="nav-calendar"><a href="event-photos.html">Photos</a></li>
       <li class="nav-contact"><a href="contact.html">Contact</a></li>
     </ul>
   </nav>
@@ -49,152 +60,295 @@
 </div>
 <!--Body Content-->
 
-<div class="container">
+<!--Gallery Content Here-->
+<div class="container-fluid">
+  <div class="row">
+    
+    <!--Outer Container with the offset for the Vertical Navbar-->
+    <div class="col-md-11 col-md-offset-1 col-sm-12">
+      <div class="fixed-bottom photo-ui text-center p-3">
 
-  <!--Event No. ##-->
-  <div class="row content-background p-3">
-    <div class="col-lg-12 col-md-12 col-sm-12">
-      <p class="date lead mt-3"> <span class="fa fa-calendar mr-3"></span>
-        <span class="mr-3 font-weight-bold btn-success p-2 event-start">Starts</span>
-        <span class="mr-3 font-weight-bold btn-danger p-2 event-end">Ended</span>
-        00-00-0000
-      </p>
-      <p class="display-4">Event Title Here</p>
-      <div class="event-manager-pic col-md-2 col-sm-2 col-xs-2 text-center img-fluid">
-        <img src="images/christopher-harris-160425.png" alt="event-manager" class="animated infinite pulse">
-      </div>
-      <div class="event-description col-md-10 col-sm-10 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
-        blanditiis consequatur cumque, cupiditate doloremque ducimus laudantium necessitatibus quaerat quam voluptate.
-        Asperiores commodi corporis distinctio eaque earum esse impedit modi, necessitatibus nisi non odit optio quam
-        quos recusandae repellendus ullam voluptate?
-        <br>
-        <div class="d-inline-block more-info p-2 mt-3 font-weight-bold" role="button" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">More Information <i class="fa fa-plus"></i> </div>
+        <span class="col-md-12 col-sm-12 text-white">
+          <a class="text-white" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+            <i class="fa fa-photo fa-2x p-2" data-filter=".all-items"></i>
+          </a>
+        </span>
 
-        <!--More Information Content Goes Here-->
+        <!--Collapsing Photo UI Menu-->
         <div class="collapse" id="collapseExample">
-          <div class="well" style="font-size: .5em; color:black;">
 
-            <form method="POST" action="">
-
-              <h3 class="Lead mt-3"> Event Information Goes Here</h3>
-              <div >
-                <img src="images/teemu-paananen.jpg" alt="Event Picture" class="img-fluid p-3 rounded img-thumbnail mt-3 mb-3">
-              </div>
-              <p class="lead font-weight-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aspernatur autem, consequatur
-                consequuntur cumque cupiditate debitis dignissimos distinctio doloremque eaque eum eveniet ex
-                excepturi explicabo facilis fugiat hic impedit iure iusto laudantium magnam minima necessitatibus non
-                nostrum numquam placeat praesentium quas quasi quis recusandae repudiandae suscipit tenetur totam?
-                Laborum, quidem!</p>
-
-              <div class="form-group">
-
-                <label for="exampleInputName1">Your Name</label>
-                <input type="text" class="form-control input-lg" id="exampleInputName1" placeholder="Your Name" name = "name"/>
-
-              </div>
-
-              <div class="form-group">
-
-                <label for="exampleInputEmail1">Email address</label>
-                <input type="email" class="form-control input-lg" id="exampleInputEmail1" name ="email" placeholder="Email">
-
-              </div>
-
-              <label for="comment">Your Comment</label>
-              <textarea class="form-control" rows="9" style="font-size: .75em" name = "comment"></textarea>
-
-              <br>
-
-              <div class="d-inline-block more-info p-2 mt-3 font-weight-bold">External Link &rarr;</div>
-
-            </form>
-          </div>
+          <a href="#" class="col-md-4 col-sm-6 col-xs-12 p-2"  data-filter=".general">
+            <span>General Meetings</span>
+          </a>
+          <a href="#" class="col-md-4 col-sm-6 col-xs-12 p-2" data-filter=".workshop">
+            <span>Workshops</span>
+          </a>
+          <a href="#" class="col-md-4  col-sm-6 col-xs-12 p-2" data-filter=".community">
+            <span>Community Service</span>
+          </a>
+          <a href="#" class="col-md-4 col-sm-6 col-xs-12 p-2"  data-filter=".hackathon">
+            <span>Hackathons</span>
+          </a>
+          <a href="#" class="col-md-4 col-sm-6 col-xs-12 p-2" data-filter=".game-jams">
+            <span>Game Jams</span>
+          </a>
+          <a href="#" class="col-md-4 col-sm-6 col-xs-12 p-2" data-filter=".tech-tour">
+            <span>Tech Tours</span>
+          </a>
         </div>
       </div>
 
-    </div>
-    <div class="col-md-12">
-      <hr class="horizontal-rule">
-    </div> <!-- Event No # Ends -->
+      <!--Photo Content-->
+      <div class="container-fluid mt-md-1 mt-sm-1 photo-content">
+        <div class="row mixitup">
 
-    <!--Event No 2 Start-->
-    <div class="col-lg-12 col-md-12 col-sm-12">
-      <p class="date lead mt-3"> <span class="fa fa-calendar mr-3"></span>
-        <span class="mr-3 font-weight-bold btn-success p-2 event-start">Starts</span>
-        <span class="mr-3 font-weight-bold btn-danger p-2 event-end">Ended</span>
-        00-00-0000
-      </p>
-      <p class="display-4">Event Title Here</p>
-      <div class="event-manager-pic col-md-2 col-sm-2 col-xs-2 text-center img-fluid">
-        <img src="images/christopher-harris-160425.png" alt="event-manager" class="animated infinite pulse">
-      </div>
-      <div class="event-description col-md-10 col-sm-10 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
-        blanditiis consequatur cumque, cupiditate doloremque ducimus laudantium necessitatibus quaerat quam voluptate.
-        Asperiores commodi corporis distinctio eaque earum esse impedit modi, necessitatibus nisi non odit optio quam
-        quos recusandae repellendus ullam voluptate?
-        <br>
-        <div class="d-inline-block more-info p-2 mt-3 font-weight-bold" role="button" data-toggle="collapse" href="#event2" aria-expanded="false" aria-controls="collapseExample">More Information <i class="fa fa-plus"></i></div>
-
-        <!--More Information Content Goes Here-->
-        <!--Remember to change the DropDown Button Link or else they all point to the 1st event-->
-        <div class="collapse" id="event2">
-          <div class="well" style="font-size: .5em; color:black;">
-
-            <form method="POST" action="">
-
-              <h3 class="Lead mt-3"> Event Information Goes Here</h3>
-              <div >
-                <img src="images/teemu-paananen.jpg" alt="Event Picture" class="img-fluid p-3 rounded img-thumbnail mt-3 mb-3">
-              </div>
-              <p class="lead font-weight-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aspernatur autem, consequatur
-                consequuntur cumque cupiditate debitis dignissimos distinctio doloremque eaque eum eveniet ex
-                excepturi explicabo facilis fugiat hic impedit iure iusto laudantium magnam minima necessitatibus non
-                nostrum numquam placeat praesentium quas quasi quis recusandae repudiandae suscipit tenetur totam?
-                Laborum, quidem!</p>
-
-              <div class="form-group">
-
-                <label for="exampleInputName1">Your Name</label>
-                <input type="text" class="form-control input-lg" id="exampleInputName1" placeholder="Your Name" name = "name"/>
-
-              </div>
-
-              <div class="form-group">
-
-                <label for="exampleInputEmail1">Email address</label>
-                <input type="email" class="form-control input-lg" id="exampleInputEmail1" name ="email" placeholder="Email">
-
-              </div>
-
-              <label for="comment">Your Comment</label>
-              <textarea class="form-control" rows="9" style="font-size: .75em" name = "comment"></textarea>
-
-              <br>
-
-              <div class="d-inline-block more-info p-2 mt-3 font-weight-bold">External Link &rarr;</div>
-
-            </form>
+          <div class="col-md-3 col-sm-6 mb-2 mix general all-items">
+            <a href="images/mock-1.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-1.jpg" alt="" class="img-fluid">
+            </a>
           </div>
-        </div>
-      </div>
 
-    </div>
-    <div class="col-md-12">
-      <hr class="horizontal-rule">
-    </div> <!-- Event No 2 Ends -->
+          <div class="col-md-3 col-sm-6 mb-2 mix workshop all-items">
+            <a href="images/mock-2.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-2.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
 
-  </div> <!-- .row -->
+          <div class="col-md-3 col-sm-6 mb-2 mix game-jams all-items">
+            <a href="images/mock-1.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-1.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
 
+          <div class="col-md-3 col-sm-6 mb-2 mix tech-tour all-items">
+            <a href="images/mock-4.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-4.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix game-jams all-items">
+            <a href="images/mock-6.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-6.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix tech-tour all-items">
+            <a href="images/mock-9.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-9.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix general all-items">
+            <a href="images/mock-10.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-10.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix workshop all-items">
+            <a href="images/mock-2.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-2.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix community all-items">
+            <a href="images/mock-3.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-3.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix hackathon all-items">
+            <a href="images/mock-4.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-4.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix hackathon all-items">
+            <a href="images/mock-6.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-6.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix game-jams all-items">
+            <a href="images/mock-4.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-4.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix general all-items">
+            <a href="images/mock-5.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-5.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix workshop all-items">
+            <a href="images/mock-2.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-2.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix community all-items">
+            <a href="images/mock-7.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-7.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix hackathon all-items">
+            <a href="images/mock-4.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-4.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix community all-items">
+            <a href="images/mock-3.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-3.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+
+
+          <div class="col-md-3 col-sm-6 mb-2 mix tech-tour all-items">
+            <a href="images/mock-7.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-7.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix general all-items">
+            <a href="images/mock-8.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-8.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix workshop all-items">
+            <a href="images/mock-10.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-10.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix community all-items">
+            <a href="images/mock-9.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-9.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix hackathon all-items">
+            <a href="images/mock-4.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-4.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix game-jams all-items">
+            <a href="images/mock-4.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-4.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix tech-tour all-items">
+            <a href="images/mock-5.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-5.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix general all-items">
+            <a href="images/mock-1.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-1.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix workshop all-items">
+            <a href="images/mock-2.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-2.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix community all-items">
+            <a href="images/mock-6.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-6.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix hackathon all-items">
+            <a href="images/mock-9.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-9.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix game-jams all-items">
+            <a href="images/mock-4.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-4.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix tech-tour all-items">
+            <a href="images/mock-10.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-10.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix general all-items">
+            <a href="images/mock-3.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-3.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix workshop all-items">
+            <a href="images/mock-2.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-2.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix community all-items">
+            <a href="images/mock-8.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-8.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix hackathon all-items">
+            <a href="images/mock-4.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-4.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix game-jams all-items">
+            <a href="images/mock-4.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-4.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-3 col-sm-6 mb-2 mix tech-tour all-items">
+            <a href="images/mock-4.jpg" data-lightbox="eventPicture">
+              <img src="images/mock-4.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+
+        </div> <!-- .row -->
+      </div> <!-- .photo-content -->
+
+      <!--<nav id="navbar"></nav>-->
+
+      <!--<div class="container">-->
+      <!--<ul id="gallery">-->
+
+      <!--<li data-tags="General Meetings, Workshop">-->
+      <!--<a class="fancybox" rel="group" href="images/mock-1.jpg">-->
+      <!--<img src="images/mock-1.jpg" style="width: 25%">-->
+      <!--</a>-->
+      <!--</li>-->
+
+      <!--<li data-tags="Community Service, Hackathons"><a class="fancybox" rel="group" href="images/mock-2.jpg"><img src="images/mock-2.jpg" style="width: 25%"></a></li>-->
+      <!--<li data-tags="Game Jams"><a class="fancybox" rel="group" href="images/mock-2.jpg"><img src="images/mock-3.jpg" style="width: 25%"></a></li>-->
+      <!--<li data-tags="Tech Tours"><a class="fancybox" rel="group" href="images/mock-3.jpg"><img src="images/mock-3.jpg" style="width: 25%"></a></li>-->
+      <!--<li data-tags="Genera Meetings, Game Jams"><a class="fancybox" rel="group" href="images/mock-5.jpg"><img src="images/mock-5.jpg" style="width: 25%"></a></li>-->
+      <!--</ul>-->
+      <!--</div>-->
+
+
+    </div> <!-- .container-fluid "INNER" -->
+  </div> <!-- .container-fluid "OUTER" -->
 </div> <!--.container-->
 
 
 
-
-
-
-
 <!--Scripts Here-->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
 <script type="text/javascript" src="js/index.js"></script>
 
@@ -203,6 +357,21 @@
 <script src="js/B4JS/jquery.slim.js"></script>
 <script src="js/B4JS/tether.min.js"></script>
 <script src="js/B4JS/bootstrap.min.js"></script>
+
+<!--Filterizr-->
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
+<!--<script src="resources/Filterizr-master/src/jquery.filterizr.js"></script>-->
+
+<!--Lightbox JS-->
+<script src="resources/lightbox2-master/dist/js/lightbox-plus-jquery.js"></script>
+
+<!--Start up Mixitup-->
+<script>
+  var mixer = mixitup('.mixitup');
+</script>
+
+<!-- Quicksand Plugin -->
+<!--<script src="dependencies/AnimatedImageGallery/js/jquery.quicksand.js"></script>-->
 
 </body>
 </html>

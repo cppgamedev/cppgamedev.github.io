@@ -1,0 +1,7823 @@
+{
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"buildSteps": [
+	{
+		"name": "Process All Remaining Files and Folders",
+		"stepType": 1,
+		"uuidString": "515EDCDD-A794-4FBA-A773-4960D70BA9E8"
+		}
+	],
+"creatorBuild": "25900",
+"files": {
+	"\/.idea\/cppgamedev.github.io.iml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/cppgamedev.github.io.iml",
+		"oF": 0
+		},
+	"\/.idea\/modules.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/modules.xml",
+		"oF": 0
+		},
+	"\/.idea\/vcs.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/vcs.xml",
+		"oF": 0
+		},
+	"\/.idea\/workspace.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/workspace.xml",
+		"oF": 0
+		},
+	"\/calendar-events.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/calendar-events.html",
+		"oF": 0
+		},
+	"\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CNAME",
+		"oF": 0
+		},
+	"\/contact.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/contact.html",
+		"oF": 0
+		},
+	"\/css\/assets\/_settings.styl": {
+		"aP": 0,
+		"bl": 0,
+		"dS": 0,
+		"ft": 8,
+		"iC": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/assets\/_settings.css",
+		"oF": 0,
+		"oS": 0,
+		"rrU": 0
+		},
+	"\/css\/assets\/index.styl": {
+		"aP": 0,
+		"bl": 0,
+		"dS": 0,
+		"ft": 8,
+		"iC": 0,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/assets\/index.css",
+		"oF": 0,
+		"oS": 0,
+		"rrU": 0
+		},
+	"\/css\/assets\/master.styl": {
+		"aP": 0,
+		"bl": 0,
+		"dS": 0,
+		"ft": 8,
+		"iC": 0,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/assets\/master.css",
+		"oF": 0,
+		"oS": 0,
+		"rrU": 0
+		},
+	"\/css\/B4CSS\/animate.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/B4CSS\/animate-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/B4CSS\/bootstrap.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/B4CSS\/bootstrap.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/B4CSS\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/B4CSS\/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/contact.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/contact-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/events.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/events-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/fonts\/CODE Bold.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/fonts\/CODE Bold.otf",
+		"oF": 0
+		},
+	"\/css\/fonts\/CODE Light.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/fonts\/CODE Light.otf",
+		"oF": 0
+		},
+	"\/css\/fonts\/Geometos.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/fonts\/Geometos.ttf",
+		"oF": 0
+		},
+	"\/css\/fonts\/pixelmix.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/fonts\/pixelmix.ttf",
+		"oF": 0
+		},
+	"\/css\/fonts\/pixelmix_bold.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/fonts\/pixelmix_bold.ttf",
+		"oF": 0
+		},
+	"\/css\/fonts\/Porter Bold.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/fonts\/Porter Bold.ttf",
+		"oF": 0
+		},
+	"\/css\/index.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/index-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/lib\/grid.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/lib\/grid-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/master.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/master-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/portfolio.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/portfolio-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/whoweare.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/whoweare-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/event-photos.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/event-photos.html",
+		"oF": 0
+		},
+	"\/events.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/events.html",
+		"oF": 0
+		},
+	"\/images\/christopher-harris-160425.jpg": {
+		"ft": 16384,
+		"iS": 3517433,
+		"oA": 0,
+		"oAP": "\/images\/christopher-harris-160425.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/christopher-harris-160425.png": {
+		"ft": 32768,
+		"iS": 2136435,
+		"oA": 0,
+		"oAP": "\/images\/christopher-harris-160425.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/community.jpg": {
+		"ft": 16384,
+		"iS": 72452,
+		"oA": 0,
+		"oAP": "\/images\/community.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/email.png": {
+		"ft": 32768,
+		"iS": 4458,
+		"oA": 0,
+		"oAP": "\/images\/email.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/facebook.png": {
+		"ft": 32768,
+		"iS": 3018,
+		"oA": 0,
+		"oAP": "\/images\/facebook.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/giphy.gif": {
+		"ft": 4194304,
+		"iS": 1876194,
+		"oA": 0,
+		"oAP": "\/images\/giphy.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/hackathon.jpg": {
+		"ft": 16384,
+		"iS": 87449,
+		"oA": 0,
+		"oAP": "\/images\/hackathon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/insta.png": {
+		"ft": 32768,
+		"iS": 3304,
+		"oA": 0,
+		"oAP": "\/images\/insta.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/jam.jpg": {
+		"ft": 16384,
+		"iS": 1893972,
+		"oA": 0,
+		"oAP": "\/images\/jam.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/jam333.jpg": {
+		"ft": 16384,
+		"iS": 86015,
+		"oA": 0,
+		"oAP": "\/images\/jam333.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/logo-web.png": {
+		"ft": 32768,
+		"iS": 315063,
+		"oA": 0,
+		"oAP": "\/images\/logo-web.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/logo.png": {
+		"ft": 32768,
+		"iS": 316661,
+		"oA": 0,
+		"oAP": "\/images\/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/meeting.jpg": {
+		"ft": 16384,
+		"iS": 59041,
+		"oA": 0,
+		"oAP": "\/images\/meeting.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-1.jpg": {
+		"ft": 16384,
+		"iS": 64843,
+		"oA": 0,
+		"oAP": "\/images\/mock-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-10.jpg": {
+		"ft": 16384,
+		"iS": 295214,
+		"oA": 0,
+		"oAP": "\/images\/mock-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-11.jpg": {
+		"ft": 16384,
+		"iS": 347086,
+		"oA": 0,
+		"oAP": "\/images\/mock-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-12.jpg": {
+		"ft": 16384,
+		"iS": 303637,
+		"oA": 0,
+		"oAP": "\/images\/mock-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-2.jpg": {
+		"ft": 16384,
+		"iS": 68573,
+		"oA": 0,
+		"oAP": "\/images\/mock-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-3.jpg": {
+		"ft": 16384,
+		"iS": 144413,
+		"oA": 0,
+		"oAP": "\/images\/mock-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-4.jpg": {
+		"ft": 16384,
+		"iS": 84065,
+		"oA": 0,
+		"oAP": "\/images\/mock-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-5.jpg": {
+		"ft": 16384,
+		"iS": 129175,
+		"oA": 0,
+		"oAP": "\/images\/mock-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-6.jpg": {
+		"ft": 16384,
+		"iS": 69301,
+		"oA": 0,
+		"oAP": "\/images\/mock-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-7.jpg": {
+		"ft": 16384,
+		"iS": 402185,
+		"oA": 0,
+		"oAP": "\/images\/mock-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-8.jpg": {
+		"ft": 16384,
+		"iS": 295166,
+		"oA": 0,
+		"oAP": "\/images\/mock-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/mock-9.jpg": {
+		"ft": 16384,
+		"iS": 284165,
+		"oA": 0,
+		"oAP": "\/images\/mock-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/new logo.png": {
+		"ft": 32768,
+		"iS": 164242,
+		"oA": 0,
+		"oAP": "\/images\/new logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/officers\/15-16\/andrew.jpg": {
+		"ft": 16384,
+		"iS": 742289,
+		"oA": 0,
+		"oAP": "\/images\/officers\/15-16\/andrew.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/15-16\/keno.jpg": {
+		"ft": 16384,
+		"iS": 616405,
+		"oA": 0,
+		"oAP": "\/images\/officers\/15-16\/keno.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/15-16\/kim.jpg": {
+		"ft": 16384,
+		"iS": 747563,
+		"oA": 0,
+		"oAP": "\/images\/officers\/15-16\/kim.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/15-16\/lung.jpg": {
+		"ft": 16384,
+		"iS": 706299,
+		"oA": 0,
+		"oAP": "\/images\/officers\/15-16\/lung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/15-16\/natasha.jpg": {
+		"ft": 16384,
+		"iS": 716189,
+		"oA": 0,
+		"oAP": "\/images\/officers\/15-16\/natasha.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/15-16\/sam.jpg": {
+		"ft": 16384,
+		"iS": 588244,
+		"oA": 0,
+		"oAP": "\/images\/officers\/15-16\/sam.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/15-16\/shaina.jpg": {
+		"ft": 16384,
+		"iS": 768205,
+		"oA": 0,
+		"oAP": "\/images\/officers\/15-16\/shaina.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/15-16\/thuy.jpg": {
+		"ft": 16384,
+		"iS": 660772,
+		"oA": 0,
+		"oAP": "\/images\/officers\/15-16\/thuy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/16-17\/andrew.jpg": {
+		"ft": 16384,
+		"iS": 556529,
+		"oA": 0,
+		"oAP": "\/images\/officers\/16-17\/andrew.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/16-17\/group.jpg": {
+		"ft": 16384,
+		"iS": 7964239,
+		"oA": 0,
+		"oAP": "\/images\/officers\/16-17\/group.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/16-17\/jonathan.jpg": {
+		"ft": 16384,
+		"iS": 656951,
+		"oA": 0,
+		"oAP": "\/images\/officers\/16-17\/jonathan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/16-17\/justin.jpg": {
+		"ft": 16384,
+		"iS": 633809,
+		"oA": 0,
+		"oAP": "\/images\/officers\/16-17\/justin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/16-17\/kyle_turchik.jpg": {
+		"ft": 16384,
+		"iS": 698032,
+		"oA": 0,
+		"oAP": "\/images\/officers\/16-17\/kyle_turchik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/16-17\/kyle_valino.jpg": {
+		"ft": 16384,
+		"iS": 738195,
+		"oA": 0,
+		"oAP": "\/images\/officers\/16-17\/kyle_valino.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/16-17\/lyvon.jpg": {
+		"ft": 16384,
+		"iS": 617881,
+		"oA": 0,
+		"oAP": "\/images\/officers\/16-17\/lyvon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/16-17\/natasha.jpg": {
+		"ft": 16384,
+		"iS": 713666,
+		"oA": 0,
+		"oAP": "\/images\/officers\/16-17\/natasha.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/officers\/16-17\/shaina.jpg": {
+		"ft": 16384,
+		"iS": 677013,
+		"oA": 0,
+		"oAP": "\/images\/officers\/16-17\/shaina.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/old photos\/10502539_961890987157279_2533322701167592144_n.jpg": {
+		"ft": 16384,
+		"iS": 81674,
+		"oA": 0,
+		"oAP": "\/images\/old photos\/10502539_961890987157279_2533322701167592144_n.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/old photos\/10980702_10202383836676846_3073409498602984781_n.jpg": {
+		"ft": 16384,
+		"iS": 52503,
+		"oA": 0,
+		"oAP": "\/images\/old photos\/10980702_10202383836676846_3073409498602984781_n.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/old photos\/10981736_10202414326439071_2132823791145041855_n.jpg": {
+		"ft": 16384,
+		"iS": 86341,
+		"oA": 0,
+		"oAP": "\/images\/old photos\/10981736_10202414326439071_2132823791145041855_n.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/old photos\/1184766_10202252551874808_974545285082227789_n.jpg": {
+		"ft": 16384,
+		"iS": 144818,
+		"oA": 0,
+		"oAP": "\/images\/old photos\/1184766_10202252551874808_974545285082227789_n.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/old photos\/11885363_10203205042366475_1470543865710097774_n.jpg": {
+		"ft": 16384,
+		"iS": 33426,
+		"oA": 0,
+		"oAP": "\/images\/old photos\/11885363_10203205042366475_1470543865710097774_n.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/old photos\/1613959_10202470416361284_280890893185952999_n.jpg": {
+		"ft": 16384,
+		"iS": 52895,
+		"oA": 0,
+		"oAP": "\/images\/old photos\/1613959_10202470416361284_280890893185952999_n.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/old photos\/community2.jpg": {
+		"ft": 16384,
+		"iS": 159340,
+		"oA": 0,
+		"oAP": "\/images\/old photos\/community2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/old photos\/hackathon2.jpg": {
+		"ft": 16384,
+		"iS": 104206,
+		"oA": 0,
+		"oAP": "\/images\/old photos\/hackathon2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/old photos\/jam2.jpg": {
+		"ft": 16384,
+		"iS": 80189,
+		"oA": 0,
+		"oAP": "\/images\/old photos\/jam2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/old photos\/old logo.png": {
+		"ft": 32768,
+		"iS": 210280,
+		"oA": 0,
+		"oAP": "\/images\/old photos\/old logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/old photos\/techtour2.jpg": {
+		"ft": 16384,
+		"iS": 90457,
+		"oA": 0,
+		"oAP": "\/images\/old photos\/techtour2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/placeholder-user.jpg": {
+		"ft": 16384,
+		"iS": 216568,
+		"oA": 0,
+		"oAP": "\/images\/placeholder-user.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/techtour.jpg": {
+		"ft": 16384,
+		"iS": 67934,
+		"oA": 0,
+		"oAP": "\/images\/techtour.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/teemu-paananen.jpg": {
+		"ft": 16384,
+		"iS": 331472,
+		"oA": 0,
+		"oAP": "\/images\/teemu-paananen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop.jpg": {
+		"ft": 16384,
+		"iS": 97588,
+		"oA": 0,
+		"oAP": "\/images\/workshop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/js\/B4JS\/bootstrap.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/B4JS\/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/B4JS\/jquery.slim.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/B4JS\/jquery.slim-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/B4JS\/parallax.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/B4JS\/parallax-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/B4JS\/scripts.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/B4JS\/scripts-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/B4JS\/tether.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/B4JS\/tether.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/events.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/events-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/index.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/index-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/main-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/main-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/main.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/NotifierJS\/notifier.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/NotifierJS\/notifier-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/portfolio.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/portfolio-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/portfolio.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio.html",
+		"oF": 0
+		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/AnimatedImageGallery\/css\/fancybox\/jquery.fancybox-buttons.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/css\/fancybox\/jquery.fancybox-buttons-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/AnimatedImageGallery\/css\/fancybox\/jquery.fancybox-thumbs.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/css\/fancybox\/jquery.fancybox-thumbs-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/AnimatedImageGallery\/css\/fancybox\/jquery.fancybox.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/css\/fancybox\/jquery.fancybox-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/AnimatedImageGallery\/css\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/css\/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/AnimatedImageGallery\/img\/1.jpg": {
+		"ft": 16384,
+		"iS": 8627,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/10.jpg": {
+		"ft": 16384,
+		"iS": 3388,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/11.jpg": {
+		"ft": 16384,
+		"iS": 5159,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/12.jpg": {
+		"ft": 16384,
+		"iS": 10550,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/13.jpg": {
+		"ft": 16384,
+		"iS": 8330,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/14.jpg": {
+		"ft": 16384,
+		"iS": 6934,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/15.jpg": {
+		"ft": 16384,
+		"iS": 7101,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/16.jpg": {
+		"ft": 16384,
+		"iS": 4553,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/16.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/16.png": {
+		"ft": 32768,
+		"iS": 134073,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/17.jpg": {
+		"ft": 16384,
+		"iS": 6802,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/17.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/18.jpg": {
+		"ft": 16384,
+		"iS": 7084,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/18.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/19.jpg": {
+		"ft": 16384,
+		"iS": 6078,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/19.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/19.png": {
+		"ft": 32768,
+		"iS": 102027,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/19.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/2.jpg": {
+		"ft": 16384,
+		"iS": 6798,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/20.jpg": {
+		"ft": 16384,
+		"iS": 7085,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/20.png": {
+		"ft": 32768,
+		"iS": 22506,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/20.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/21.jpg": {
+		"ft": 16384,
+		"iS": 7372,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/21.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/22.jpg": {
+		"ft": 16384,
+		"iS": 4358,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/22.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/23.jpg": {
+		"ft": 16384,
+		"iS": 7675,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/23.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/3.jpg": {
+		"ft": 16384,
+		"iS": 6245,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/4.jpg": {
+		"ft": 16384,
+		"iS": 4719,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/5.jpg": {
+		"ft": 16384,
+		"iS": 6698,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/6.jpg": {
+		"ft": 16384,
+		"iS": 5243,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/7.jpg": {
+		"ft": 16384,
+		"iS": 5736,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/8.jpg": {
+		"ft": 16384,
+		"iS": 8395,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/9.jpg": {
+		"ft": 16384,
+		"iS": 7509,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/fancybox\/blank.gif": {
+		"ft": 4194304,
+		"iS": 43,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/fancybox\/blank.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_buttons.png": {
+		"ft": 32768,
+		"iS": 1080,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_buttons.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_loading.gif": {
+		"ft": 4194304,
+		"iS": 6567,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_loading@2x.gif": {
+		"ft": 4194304,
+		"iS": 13984,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_loading@2x.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_overlay.png": {
+		"ft": 32768,
+		"iS": 1003,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_overlay.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_sprite.png": {
+		"ft": 32768,
+		"iS": 1362,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_sprite.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_sprite@2x.png": {
+		"ft": 32768,
+		"iS": 6553,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/fancybox\/fancybox_sprite@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/img\/gallery.png": {
+		"ft": 32768,
+		"iS": 724859,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/img\/gallery.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/AnimatedImageGallery\/js\/fancybox\/jquery.fancybox-buttons.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/js\/fancybox\/jquery.fancybox-buttons-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/AnimatedImageGallery\/js\/fancybox\/jquery.fancybox-media.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/js\/fancybox\/jquery.fancybox-media-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/AnimatedImageGallery\/js\/fancybox\/jquery.fancybox-thumbs.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/js\/fancybox\/jquery.fancybox-thumbs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/AnimatedImageGallery\/js\/fancybox\/jquery.fancybox.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/js\/fancybox\/jquery.fancybox-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/AnimatedImageGallery\/js\/fancybox\/jquery.fancybox.pack.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/js\/fancybox\/jquery.fancybox.pack-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/AnimatedImageGallery\/js\/jquery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/js\/jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/AnimatedImageGallery\/js\/jquery.quicksand.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/js\/jquery.quicksand-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/AnimatedImageGallery\/js\/script.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/AnimatedImageGallery\/js\/script-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/CLNDR dependencies\/MomentJS\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/resources\/CLNDR dependencies\/MomentJS\/node_modules",
+		"oF": 0
+		},
+	"\/resources\/CLNDR dependencies\/MomentJS\/package-lock.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/resources\/CLNDR dependencies\/MomentJS\/package-lock-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/resources\/CLNDR dependencies\/UnderscoreJS\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/resources\/CLNDR dependencies\/UnderscoreJS\/node_modules",
+		"oF": 0
+		},
+	"\/resources\/CLNDR dependencies\/UnderscoreJS\/package-lock.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/resources\/CLNDR dependencies\/UnderscoreJS\/package-lock-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/resources\/CLNDR\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/CLNDR\/.gitignore",
+		"oF": 0
+		},
+	"\/resources\/CLNDR\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/resources\/CLNDR\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/resources\/CLNDR\/CHANGELOG.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/CLNDR\/CHANGELOG.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/CLNDR\/clndr.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/CLNDR\/clndr.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/CLNDR\/demo\/css\/clndr.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/CLNDR\/demo\/css\/clndr-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/CLNDR\/demo\/css\/clndr.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/resources\/CLNDR\/demo\/css\/clndr.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/resources\/CLNDR\/demo\/demo.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/CLNDR\/demo\/demo-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/CLNDR\/demo\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/CLNDR\/demo\/index.html",
+		"oF": 0
+		},
+	"\/resources\/CLNDR\/Gruntfile.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/CLNDR\/Gruntfile-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/CLNDR\/ISSUE_TEMPLATE.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/CLNDR\/ISSUE_TEMPLATE.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/CLNDR\/LICENSE.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/CLNDR\/LICENSE.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/CLNDR\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/resources\/CLNDR\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/resources\/CLNDR\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/CLNDR\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/CLNDR\/src\/clndr.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/CLNDR\/src\/clndr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/CLNDR\/tests\/test.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/CLNDR\/tests\/test.html",
+		"oF": 0
+		},
+	"\/resources\/CLNDR\/tests\/test.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/CLNDR\/tests\/test-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/Filterizr-master\/.npmignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/Filterizr-master\/.npmignore",
+		"oF": 0
+		},
+	"\/resources\/Filterizr-master\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/resources\/Filterizr-master\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/resources\/Filterizr-master\/CHANGELOG.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/CHANGELOG.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/Filterizr-master\/dev_example\/css\/index.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/css\/index-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/Filterizr-master\/dev_example\/filterizr\/jquery.filterizr.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/filterizr\/jquery.filterizr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/Filterizr-master\/dev_example\/filterizr\/jquery.filterizr.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/filterizr\/jquery.filterizr.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/Filterizr-master\/dev_example\/img\/city_1.jpg": {
+		"ft": 16384,
+		"iS": 97802,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/img\/city_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/Filterizr-master\/dev_example\/img\/city_2.jpg": {
+		"ft": 16384,
+		"iS": 86374,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/img\/city_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/Filterizr-master\/dev_example\/img\/city_3.jpg": {
+		"ft": 16384,
+		"iS": 40704,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/img\/city_3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/Filterizr-master\/dev_example\/img\/industrial_1.jpg": {
+		"ft": 16384,
+		"iS": 69546,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/img\/industrial_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/Filterizr-master\/dev_example\/img\/industrial_2.jpg": {
+		"ft": 16384,
+		"iS": 50574,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/img\/industrial_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/Filterizr-master\/dev_example\/img\/industrial_3.jpg": {
+		"ft": 16384,
+		"iS": 43280,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/img\/industrial_3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/Filterizr-master\/dev_example\/img\/nature_1.jpg": {
+		"ft": 16384,
+		"iS": 50425,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/img\/nature_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/Filterizr-master\/dev_example\/img\/nature_2.jpg": {
+		"ft": 16384,
+		"iS": 17819,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/img\/nature_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/Filterizr-master\/dev_example\/img\/nature_3.jpg": {
+		"ft": 16384,
+		"iS": 81348,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/img\/nature_3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/Filterizr-master\/dev_example\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/index.html",
+		"oF": 0
+		},
+	"\/resources\/Filterizr-master\/dev_example\/js\/controls.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dev_example\/js\/controls-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/Filterizr-master\/dist\/jquery.filterizr.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/dist\/jquery.filterizr.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/Filterizr-master\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/Filterizr-master\/LICENSE",
+		"oF": 0
+		},
+	"\/resources\/Filterizr-master\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/resources\/Filterizr-master\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/resources\/Filterizr-master\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/Filterizr-master\/src\/jquery.filterizr.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/Filterizr-master\/src\/jquery.filterizr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/lightbox2-master\/.editorconfig": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/lightbox2-master\/.editorconfig",
+		"oF": 0
+		},
+	"\/resources\/lightbox2-master\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/lightbox2-master\/.gitignore",
+		"oF": 0
+		},
+	"\/resources\/lightbox2-master\/.jscsrc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/lightbox2-master\/.jscsrc",
+		"oF": 0
+		},
+	"\/resources\/lightbox2-master\/.jshintrc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/lightbox2-master\/.jshintrc",
+		"oF": 0
+		},
+	"\/resources\/lightbox2-master\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/resources\/lightbox2-master\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/resources\/lightbox2-master\/CONTRIBUTING.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/CONTRIBUTING.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/lightbox2-master\/DEPLOY.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/DEPLOY.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/lightbox2-master\/dist\/css\/lightbox.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/dist\/css\/lightbox-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/lightbox2-master\/dist\/css\/lightbox.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/dist\/css\/lightbox.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/lightbox2-master\/dist\/images\/close.png": {
+		"ft": 32768,
+		"iS": 280,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/dist\/images\/close.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/lightbox2-master\/dist\/images\/loading.gif": {
+		"ft": 4194304,
+		"iS": 8476,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/dist\/images\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/lightbox2-master\/dist\/images\/next.png": {
+		"ft": 32768,
+		"iS": 1350,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/dist\/images\/next.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/lightbox2-master\/dist\/images\/prev.png": {
+		"ft": 32768,
+		"iS": 1360,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/dist\/images\/prev.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/lightbox2-master\/dist\/js\/lightbox-plus-jquery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/dist\/js\/lightbox-plus-jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/lightbox2-master\/dist\/js\/lightbox-plus-jquery.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/dist\/js\/lightbox-plus-jquery.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/lightbox2-master\/dist\/js\/lightbox-plus-jquery.min.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/lightbox2-master\/dist\/js\/lightbox-plus-jquery.min.map",
+		"oF": 0
+		},
+	"\/resources\/lightbox2-master\/dist\/js\/lightbox.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/dist\/js\/lightbox-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/lightbox2-master\/dist\/js\/lightbox.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/dist\/js\/lightbox.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/lightbox2-master\/dist\/js\/lightbox.min.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/lightbox2-master\/dist\/js\/lightbox.min.map",
+		"oF": 0
+		},
+	"\/resources\/lightbox2-master\/examples\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/lightbox2-master\/examples\/index.html",
+		"oF": 0
+		},
+	"\/resources\/lightbox2-master\/Gruntfile.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/Gruntfile-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/lightbox2-master\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/lightbox2-master\/LICENSE",
+		"oF": 0
+		},
+	"\/resources\/lightbox2-master\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/resources\/lightbox2-master\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/resources\/lightbox2-master\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/lightbox2-master\/ROADMAP.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/ROADMAP.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/lightbox2-master\/src\/css\/lightbox.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/src\/css\/lightbox-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/lightbox2-master\/src\/images\/close.png": {
+		"ft": 32768,
+		"iS": 280,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/src\/images\/close.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/lightbox2-master\/src\/images\/loading.gif": {
+		"ft": 4194304,
+		"iS": 8476,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/src\/images\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/resources\/lightbox2-master\/src\/images\/next.png": {
+		"ft": 32768,
+		"iS": 1350,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/src\/images\/next.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/lightbox2-master\/src\/images\/prev.png": {
+		"ft": 32768,
+		"iS": 1360,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/src\/images\/prev.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/lightbox2-master\/src\/js\/lightbox.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/lightbox2-master\/src\/js\/lightbox-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/.gitignore",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/.jscsrc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/.jscsrc",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/.jshintrc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/.jshintrc",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/.travis.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/.travis.yml",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/CHANGELOG.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/CHANGELOG.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/mixitup\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/resources\/mixitup\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/resources\/mixitup\/demos\/attribute-selectors\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/attribute-selectors\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/attribute-selectors\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/attribute-selectors\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/basic-ie-8\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/basic-ie-8\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/basic-ie-8\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/basic-ie-8\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/basic\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/basic\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/basic\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/basic\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/dataset-empty-container\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/dataset-empty-container\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/dataset-empty-container\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/dataset-empty-container\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/dataset-pre-rendered-targets\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/dataset-pre-rendered-targets\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/dataset-pre-rendered-targets\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/dataset-pre-rendered-targets\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/filtering-by-text-input\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/filtering-by-text-input\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/filtering-by-text-input\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/filtering-by-text-input\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/filtering-by-url\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/filtering-by-url\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/filtering-by-url\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/filtering-by-url\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/grid-columns\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/grid-columns\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/grid-columns\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/grid-columns\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/grid-flex-box-matching-heights\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/grid-flex-box-matching-heights\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/grid-flex-box-matching-heights\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/grid-flex-box-matching-heights\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/grid-flex-box\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/grid-flex-box\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/grid-flex-box\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/grid-flex-box\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/grid-floats\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/grid-floats\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/grid-floats\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/grid-floats\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/grid-inline-block\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/grid-inline-block\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/grid-inline-block\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/grid-inline-block\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/insertion-non-target-elements\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/insertion-non-target-elements\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/insertion-non-target-elements\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/insertion-non-target-elements\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/loading-animation\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/loading-animation\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/loading-animation\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/loading-animation\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/mixitup.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/mixitup.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/demos\/mock-api.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/mock-api-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/demos\/multiple-instances-global-control-scoping\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/multiple-instances-global-control-scoping\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/multiple-instances-global-control-scoping\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/multiple-instances-global-control-scoping\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/multiple-instances-local-control-scoping\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/multiple-instances-local-control-scoping\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/multiple-instances-local-control-scoping\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/multiple-instances-local-control-scoping\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/removal-by-reference\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/removal-by-reference\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/removal-by-reference\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/removal-by-reference\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/reset.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/reset-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/sorting-by-attribute\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/sorting-by-attribute\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/sorting-by-attribute\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/sorting-by-attribute\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/sorting-by-default\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/sorting-by-default\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/sorting-by-default\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/sorting-by-default\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/sorting-by-multiple-attributes\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/sorting-by-multiple-attributes\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/sorting-by-multiple-attributes\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/sorting-by-multiple-attributes\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/toggle-filtering-and-logic\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/toggle-filtering-and-logic\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/toggle-filtering-and-logic\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/toggle-filtering-and-logic\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/demos\/toggle-filtering-or-logic\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/demos\/toggle-filtering-or-logic\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/demos\/toggle-filtering-or-logic\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/demos\/toggle-filtering-or-logic\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/dist\/mixitup.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/dist\/mixitup-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/dist\/mixitup.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/dist\/mixitup.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/docs\/mixitup-3-migration-guide.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/docs\/mixitup-3-migration-guide.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/mixitup\/docs\/mixitup.Config.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/docs\/mixitup.Config.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/mixitup\/docs\/mixitup.Events.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/docs\/mixitup.Events.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/mixitup\/docs\/mixitup.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/docs\/mixitup.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/mixitup\/docs\/mixitup.Mixer.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/docs\/mixitup.Mixer.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/mixitup\/docs\/mixitup.State.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/docs\/mixitup.State.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/mixitup\/gulpfile.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/gulpfile-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/resources\/mixitup\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/resources\/mixitup\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/resources\/mixitup\/src\/banner.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/banner-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/base-static.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/base-static-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/base.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/base-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/collection.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/collection-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/command-change-layout.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/command-change-layout-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/command-dataset.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/command-dataset-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/command-filter.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/command-filter-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/command-insert.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/command-insert-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/command-multimix.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/command-multimix-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/command-remove.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/command-remove-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/command-sort.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/command-sort-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-animation.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-animation-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-behavior.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-behavior-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-callbacks.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-callbacks-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-class-names.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-class-names-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-controls.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-controls-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-data.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-data-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-debug.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-debug-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-layout.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-layout-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-load.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-load-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-render.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-render-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-selectors.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-selectors-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config-templates.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-templates-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/config.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/config-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/control-definition.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/control-definition-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/control.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/control-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/events.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/events-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/facade.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/facade-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/factory.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/factory-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/features.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/features-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/h.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/h-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/i-move-data.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/i-move-data-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/messages.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/messages-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/mixer-dom.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/mixer-dom-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/mixer.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/mixer-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/module-definitions.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/module-definitions-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/operation.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/operation-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/polyfills.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/polyfills-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/queue-item.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/queue-item-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/state.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/state-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/style-data.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/style-data-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/target-dom.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/target-dom-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/target.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/target-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/transform-data.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/transform-data-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/transform-defaults.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/transform-defaults-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/ui-class-names.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/ui-class-names-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/user-instruction.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/src\/user-instruction-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/src\/wrapper.hbs": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/src\/wrapper.hbs",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/tests\/functional\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/mixitup\/tests\/functional\/index.html",
+		"oF": 0
+		},
+	"\/resources\/mixitup\/tests\/functional\/main.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/functional\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/functional\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/functional\/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/mixitup\/tests\/mock\/dataset.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/resources\/mixitup\/tests\/mock\/dataset-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/resources\/mixitup\/tests\/mock\/dom.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/mock\/dom-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/mock\/extension.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/mock\/extension-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/callbacks.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/callbacks-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/controls-filter.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/controls-filter-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/controls-live.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/controls-live-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/controls-multimix.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/controls-multimix-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/controls-sort.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/controls-sort-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/controls-toggle.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/controls-toggle-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/extension.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/extension-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/factory.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/factory-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/h.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/h-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/main.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/mixer-change-layout.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/mixer-change-layout-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/mixer-dataset.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/mixer-dataset-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/mixer-filter.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/mixer-filter-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/mixer-get-config.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/mixer-get-config-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/mixer-get-state.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/mixer-get-state-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/mixer-insert.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/mixer-insert-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/mixer-multimix.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/mixer-multimix-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/mixer-remove.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/mixer-remove-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/mixer-sort.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/mixer-sort-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/mixitup\/tests\/unit\/queue.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/mixitup\/tests\/unit\/queue-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/accordion.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/accordion.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/accordion.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/accordion.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/accordion.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/accordion-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/accordion.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/accordion.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/accordion.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/accordion.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/accordion.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/accordion.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/autocomplete.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/autocomplete.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/autocomplete.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/autocomplete.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/autocomplete.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/autocomplete-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/autocomplete.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/autocomplete.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/autocomplete.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/autocomplete.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/autocomplete.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/autocomplete.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/datepicker.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/datepicker.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/datepicker.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/datepicker.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/datepicker.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/datepicker-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/datepicker.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/datepicker.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/datepicker.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/datepicker.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/datepicker.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/datepicker.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/dotnav.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/dotnav.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/dotnav.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/dotnav.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/dotnav.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/dotnav-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/dotnav.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/dotnav.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/dotnav.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/dotnav.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/dotnav.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/dotnav.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-advanced.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-advanced.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-advanced.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-advanced.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-advanced.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-advanced-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-advanced.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-advanced.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-advanced.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-advanced.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-advanced.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-advanced.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-file.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-file.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-file.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-file.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-file.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-file-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-file.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-file.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-file.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-file.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-file.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-file.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-password.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-password.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-password.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-password.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-password.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-password-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-password.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-password.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-password.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-password.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-password.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-password.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-select.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-select.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-select.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-select.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-select.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-select-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-select.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-select.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-select.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-select.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/form-select.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/form-select.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/htmleditor.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/htmleditor.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/htmleditor.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/htmleditor.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/htmleditor.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/htmleditor-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/htmleditor.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/htmleditor.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/htmleditor.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/htmleditor.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/htmleditor.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/htmleditor.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/nestable.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/nestable.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/nestable.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/nestable.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/nestable.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/nestable-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/nestable.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/nestable.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/nestable.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/nestable.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/nestable.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/nestable.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/notify.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/notify.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/notify.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/notify.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/notify.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/notify-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/notify.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/notify.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/notify.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/notify.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/notify.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/notify.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/placeholder.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/placeholder.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/placeholder.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/placeholder.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/placeholder.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/placeholder-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/placeholder.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/placeholder.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/placeholder.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/placeholder.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/placeholder.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/placeholder.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/progress.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/progress.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/progress.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/progress.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/progress.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/progress-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/progress.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/progress.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/progress.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/progress.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/progress.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/progress.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/search.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/search.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/search.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/search.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/search.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/search-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/search.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/search.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/search.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/search.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/search.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/search.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slidenav.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slidenav.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slidenav.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slidenav.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slidenav.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slidenav-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slidenav.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slidenav.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slidenav.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slidenav.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slidenav.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slidenav.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slider.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slider.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slider.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slider.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slider.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slider-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slider.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slider.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slider.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slider.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slider.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slider.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slideshow.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slideshow.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slideshow.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slideshow.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slideshow.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slideshow-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slideshow.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slideshow.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slideshow.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slideshow.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/slideshow.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/slideshow.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sortable.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sortable.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sortable.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sortable.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sortable.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sortable-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sortable.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sortable.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sortable.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sortable.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sortable.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sortable.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sticky.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sticky.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sticky.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sticky.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sticky.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sticky-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sticky.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sticky.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sticky.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sticky.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/sticky.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/sticky.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/tooltip.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/tooltip.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/tooltip.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/tooltip.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/tooltip.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/tooltip-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/tooltip.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/tooltip.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/tooltip.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/tooltip.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/tooltip.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/tooltip.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/upload.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/upload.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/upload.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/upload.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/upload.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/upload-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/upload.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/upload.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/upload.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/upload.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/components\/upload.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/components\/upload.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/uikit.almost-flat.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/uikit.almost-flat-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/uikit.almost-flat.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/uikit.almost-flat.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/uikit.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/uikit-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/uikit.gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/uikit.gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/uikit.gradient.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/uikit.gradient.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/css\/uikit.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/css\/uikit.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/resources\/uikit-2.27.4\/fonts\/fontawesome-webfont.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/uikit-2.27.4\/fonts\/fontawesome-webfont.ttf",
+		"oF": 0
+		},
+	"\/resources\/uikit-2.27.4\/fonts\/fontawesome-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/uikit-2.27.4\/fonts\/fontawesome-webfont.woff",
+		"oF": 0
+		},
+	"\/resources\/uikit-2.27.4\/fonts\/fontawesome-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/uikit-2.27.4\/fonts\/fontawesome-webfont.woff2",
+		"oF": 0
+		},
+	"\/resources\/uikit-2.27.4\/fonts\/FontAwesome.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/uikit-2.27.4\/fonts\/FontAwesome.otf",
+		"oF": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/accordion.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/accordion-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/accordion.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/accordion.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/autocomplete.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/autocomplete-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/autocomplete.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/autocomplete.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/datepicker.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/datepicker-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/datepicker.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/datepicker.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/form-password.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/form-password-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/form-password.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/form-password.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/form-select.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/form-select-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/form-select.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/form-select.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/grid-parallax.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/grid-parallax-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/grid-parallax.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/grid-parallax.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/grid.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/grid-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/grid.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/grid.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/htmleditor.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/htmleditor-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/htmleditor.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/htmleditor.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/lightbox.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/lightbox-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/lightbox.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/lightbox.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/nestable.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/nestable-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/nestable.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/nestable.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/notify.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/notify-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/notify.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/notify.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/pagination.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/pagination-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/pagination.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/pagination.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/parallax.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/parallax-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/parallax.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/parallax.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/search.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/search-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/search.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/search.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/slider.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/slider-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/slider.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/slider.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/slideset.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/slideset-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/slideset.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/slideset.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/slideshow-fx.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/slideshow-fx-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/slideshow-fx.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/slideshow-fx.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/slideshow.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/slideshow-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/slideshow.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/slideshow.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/sortable.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/sortable-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/sortable.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/sortable.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/sticky.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/sticky-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/sticky.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/sticky.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/timepicker.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/timepicker-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/timepicker.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/timepicker.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/tooltip.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/tooltip-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/tooltip.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/tooltip.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/upload.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/upload-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/components\/upload.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/components\/upload.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/alert.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/alert-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/alert.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/alert.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/button.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/button-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/button.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/button.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/core.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/core-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/core.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/core.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/cover.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/cover-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/cover.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/cover.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/dropdown.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/dropdown-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/dropdown.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/dropdown.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/grid.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/grid-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/grid.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/grid.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/modal.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/modal-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/modal.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/modal.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/nav.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/nav-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/nav.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/nav.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/offcanvas.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/offcanvas-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/offcanvas.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/offcanvas.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/scrollspy.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/scrollspy-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/scrollspy.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/scrollspy.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/smooth-scroll.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/smooth-scroll-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/smooth-scroll.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/smooth-scroll.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/switcher.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/switcher-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/switcher.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/switcher.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/tab.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/tab-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/tab.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/tab.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/toggle.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/toggle-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/toggle.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/toggle.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/touch.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/touch-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/touch.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/touch.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/utility.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/utility-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/core\/utility.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/core\/utility.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/uikit.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/uikit-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/resources\/uikit-2.27.4\/js\/uikit.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/resources\/uikit-2.27.4\/js\/uikit.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/whoweare.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/whoweare.html",
+		"oF": 0
+		}
+	},
+"hooks": [
+	],
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"creationDate": 530515714,
+	"displayValue": "cppgamedev.github.io",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "meme-daenerys"
+	},
+"projectSettings": {
+	"abortBuildOnError": 1,
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoBuildNewItems": 1,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"babelAuxiliaryCommentAfter": "",
+	"babelAuxiliaryCommentBefore": "",
+	"babelConfigFileHandlingType": 0,
+	"babelCustomPluginsList": "",
+	"babelCustomPresetsList": "",
+	"babelInsertModuleIDs": 0,
+	"babelModuleID": "",
+	"babelNoComments": 0,
+	"babelPlugins": {
+		"async-generator-functions": {
+			"active": 0
+			},
+		"async-to-generator": {
+			"active": 0
+			},
+		"async-to-module-method": {
+			"active": 0
+			},
+		"class-properties": {
+			"active": 0
+			},
+		"decorators": {
+			"active": 0
+			},
+		"decorators-legacy": {
+			"active": 0
+			},
+		"do-expressions": {
+			"active": 0
+			},
+		"es2015-arrow-functions": {
+			"active": 0
+			},
+		"es2015-block-scoped-functions": {
+			"active": 0
+			},
+		"es2015-block-scoping": {
+			"active": 0
+			},
+		"es2015-classes": {
+			"active": 0
+			},
+		"es2015-computed-properties": {
+			"active": 0
+			},
+		"es2015-constants": {
+			"active": 0
+			},
+		"es2015-destructuring": {
+			"active": 0
+			},
+		"es2015-duplicate-keys": {
+			"active": 0
+			},
+		"es2015-for-of": {
+			"active": 0
+			},
+		"es2015-function-name": {
+			"active": 0
+			},
+		"es2015-literals": {
+			"active": 0
+			},
+		"es2015-modules-amd": {
+			"active": 0
+			},
+		"es2015-modules-commonjs": {
+			"active": 0
+			},
+		"es2015-modules-systemjs": {
+			"active": 0
+			},
+		"es2015-modules-umd": {
+			"active": 0
+			},
+		"es2015-object-super": {
+			"active": 0
+			},
+		"es2015-parameters": {
+			"active": 0
+			},
+		"es2015-shorthand-properties": {
+			"active": 0
+			},
+		"es2015-spread": {
+			"active": 0
+			},
+		"es2015-sticky-regex": {
+			"active": 0
+			},
+		"es2015-template-literals": {
+			"active": 0
+			},
+		"es2015-typeof-symbol": {
+			"active": 0
+			},
+		"es2015-unicode-regex": {
+			"active": 0
+			},
+		"es3-member-expression-literals": {
+			"active": 0
+			},
+		"es3-property-literals": {
+			"active": 0
+			},
+		"es5-property-mutators": {
+			"active": 0
+			},
+		"eval": {
+			"active": 0
+			},
+		"exponentiation-operator": {
+			"active": 0
+			},
+		"export-extensions": {
+			"active": 0
+			},
+		"external-helpers": {
+			"active": 0
+			},
+		"flow-comments": {
+			"active": 0
+			},
+		"flow-strip-types": {
+			"active": 0
+			},
+		"function-bind": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
+		"jscript": {
+			"active": 0
+			},
+		"member-expression-literals": {
+			"active": 0
+			},
+		"merge-sibling-variables": {
+			"active": 0
+			},
+		"minify-booleans": {
+			"active": 0
+			},
+		"node-env-inline": {
+			"active": 0
+			},
+		"object-assign": {
+			"active": 0
+			},
+		"object-rest-spread": {
+			"active": 0
+			},
+		"object-set-prototype-of-to-assign": {
+			"active": 0
+			},
+		"property-literals": {
+			"active": 0
+			},
+		"proto-to-assign": {
+			"active": 0
+			},
+		"react-constant-elements": {
+			"active": 0
+			},
+		"react-display-name": {
+			"active": 0
+			},
+		"react-inline-elements": {
+			"active": 0
+			},
+		"react-jsx": {
+			"active": 0
+			},
+		"react-jsx-compat": {
+			"active": 0
+			},
+		"react-jsx-self": {
+			"active": 0
+			},
+		"react-jsx-source": {
+			"active": 0
+			},
+		"regenerator": {
+			"active": 0
+			},
+		"remove-console": {
+			"active": 0
+			},
+		"remove-debugger": {
+			"active": 0
+			},
+		"runtime": {
+			"active": 0
+			},
+		"simplify-comparison-operators": {
+			"active": 0
+			},
+		"strict-mode": {
+			"active": 0
+			},
+		"syntax-async-generators": {
+			"active": 0
+			},
+		"syntax-class-properties": {
+			"active": 0
+			},
+		"syntax-decorators": {
+			"active": 0
+			},
+		"syntax-do-expressions": {
+			"active": 0
+			},
+		"syntax-export-extensions": {
+			"active": 0
+			},
+		"syntax-flow": {
+			"active": 0
+			},
+		"syntax-function-bind": {
+			"active": 0
+			},
+		"syntax-function-sent": {
+			"active": 0
+			},
+		"syntax-jsx": {
+			"active": 0
+			},
+		"syntax-object-rest-spread": {
+			"active": 0
+			},
+		"undeclared-variables-check": {
+			"active": 0
+			},
+		"undefined-to-void": {
+			"active": 0
+			}
+		},
+	"babelPresetType": 193,
+	"babelRetainLines": 0,
+	"bowerAbbreviatedPath": "bower_components",
+	"bowerAutoCreateInfoFile": 1,
+	"bowerInstallDevDependencies": 0,
+	"bowerSaveDependencies": 1,
+	"bowerSaveDevDependencies": 0,
+	"bowerUseExactVersion": 0,
+	"browserRefreshDelay": 0,
+	"buildFolderActive": 0,
+	"buildFolderName": "build",
+	"cleanBuild": 1,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"esLintConfigFileHandlingType": 0,
+	"esLintECMAVersion": 7,
+	"esLintEnvironmentsMask": 1,
+	"esLintRules": {
+		"accessor-pairs": {
+			"active": 0,
+			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
+			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
+		"array-bracket-spacing": {
+			"active": 0,
+			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
+			},
+		"array-callback-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-body-style": {
+			"active": 0,
+			"optionString": "'as-needed', {'requireReturnForObjectLiteral': false}"
+			},
+		"arrow-parens": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true}"
+			},
+		"block-scoped-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"block-spacing": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"brace-style": {
+			"active": 0,
+			"optionString": "'1tbs', {'allowSingleLine': true}"
+			},
+		"callback-return": {
+			"active": 0,
+			"optionString": "['callback', 'cb', 'next']"
+			},
+		"camelcase": {
+			"active": 0,
+			"optionString": "{'properties': 'always'}"
+			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
+		"class-methods-use-this": {
+			"active": 0,
+			"optionString": "{'exceptMethods': []}"
+			},
+		"comma-dangle": {
+			"active": 1,
+			"optionString": "'never'"
+			},
+		"comma-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"comma-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"complexity": {
+			"active": 0,
+			"optionString": "20"
+			},
+		"computed-property-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"consistent-return": {
+			"active": 0,
+			"optionString": "{'treatUndefinedAsUnspecified': false}"
+			},
+		"consistent-this": {
+			"active": 0,
+			"optionString": "'that'"
+			},
+		"constructor-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"curly": {
+			"active": 0,
+			"optionString": "'all'"
+			},
+		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"dot-location": {
+			"active": 0,
+			"optionString": "'object'"
+			},
+		"dot-notation": {
+			"active": 0,
+			"optionString": "{'allowKeywords': false}"
+			},
+		"eol-last": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"eqeqeq": {
+			"active": 0,
+			"optionString": "'always', {'null': 'always'}"
+			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
+		"func-call-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"func-name-matching": {
+			"active": 0,
+			"optionString": "'always', {'includeCommonJSModuleExports': false}"
+			},
+		"func-names": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"func-style": {
+			"active": 0,
+			"optionString": "'expression'"
+			},
+		"generator-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
+			},
+		"global-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"guard-for-in": {
+			"active": 0,
+			"optionString": ""
+			},
+		"handle-callback-err": {
+			"active": 0,
+			"optionString": "'err'"
+			},
+		"id-blacklist": {
+			"active": 0,
+			"optionString": "'data', 'err', 'e', 'cb', 'callback'"
+			},
+		"id-length": {
+			"active": 0,
+			"optionString": "{'min': 2, 'max': 1000, 'properties': 'always', 'exceptions': ['x', 'i', 'y']}"
+			},
+		"id-match": {
+			"active": 0,
+			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"indent": {
+			"active": 0,
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1, }"
+			},
+		"init-declarations": {
+			"active": 0,
+			"optionString": "'always',  {'ignoreForLoopInit': true}"
+			},
+		"jsx-quotes": {
+			"active": 0,
+			"optionString": "'prefer-double'"
+			},
+		"key-spacing": {
+			"active": 0,
+			"optionString": "{'singleLine': {'beforeColon': false, 'afterColon': true, 'mode':'strict'}, 'multiLine': {'beforeColon': false, 'afterColon': true, 'align': 'value', 'mode':'minimum'}}"
+			},
+		"keyword-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true, 'overrides': {}}"
+			},
+		"line-comment-position": {
+			"active": 0,
+			"optionString": "{'position': 'above'}"
+			},
+		"linebreak-style": {
+			"active": 0,
+			"optionString": "'unix'"
+			},
+		"lines-around-comment": {
+			"active": 0,
+			"optionString": "{'beforeBlockComment': true}"
+			},
+		"lines-around-directive": {
+			"active": 0,
+			"optionString": "{'before': 'always', 'after': 'always'}"
+			},
+		"max-depth": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-len": {
+			"active": 0,
+			"optionString": "{'code': 80, 'comments': 80, 'tabWidth': 4, 'ignoreUrls': true, 'ignoreStrings': true, 'ignoreTemplateLiterals': true, 'ignoreRegExpLiterals': true}"
+			},
+		"max-lines": {
+			"active": 0,
+			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-nested-callbacks": {
+			"active": 0,
+			"optionString": "{'max': 10}"
+			},
+		"max-params": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-statements": {
+			"active": 0,
+			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
+			},
+		"multiline-ternary": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"new-cap": {
+			"active": 0,
+			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
+			},
+		"new-parens": {
+			"active": 0,
+			"optionString": ""
+			},
+		"newline-after-var": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"newline-before-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"newline-per-chained-call": {
+			"active": 0,
+			"optionString": "{'ignoreChainWithDepth': 2}"
+			},
+		"no-alert": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-array-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-bitwise": {
+			"active": 0,
+			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-caller": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-case-declarations": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-catch-shadow": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-class-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-cond-assign": {
+			"active": 1,
+			"optionString": "'except-parens'"
+			},
+		"no-confusing-arrow": {
+			"active": 0,
+			"optionString": "{'allowParens': false}"
+			},
+		"no-console": {
+			"active": 1,
+			"optionString": "{'allow': ['warn', 'error']}"
+			},
+		"no-const-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-constant-condition": {
+			"active": 1,
+			"optionString": "{'checkLoops': true}"
+			},
+		"no-continue": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-control-regex": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-debugger": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-delete-var": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-div-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-dupe-args": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-keys": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-duplicate-imports": {
+			"active": 0,
+			"optionString": "{'includeExports': false}"
+			},
+		"no-else-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-empty": {
+			"active": 1,
+			"optionString": "{'allowEmptyCatch': false}"
+			},
+		"no-empty-character-class": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-empty-function": {
+			"active": 0,
+			"optionString": "{'allow': []}"
+			},
+		"no-empty-pattern": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-eq-null": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-eval": {
+			"active": 0,
+			"optionString": "{'allowIndirect': false}"
+			},
+		"no-ex-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extend-native": {
+			"active": 0,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-extra-bind": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-boolean-cast": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extra-labels": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-parens": {
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
+			},
+		"no-extra-semi": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-fallthrough": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-floating-decimal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-func-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-global-assign": {
+			"active": 1,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-implicit-coercion": {
+			"active": 0,
+			"optionString": "{'boolean': true, 'number': true, 'string': true, 'allow': []}"
+			},
+		"no-implicit-globals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-implied-eval": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inline-comments": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inner-declarations": {
+			"active": 1,
+			"optionString": "'functions'"
+			},
+		"no-invalid-regexp": {
+			"active": 1,
+			"optionString": "{'allowConstructorFlags': ['u', 'y']}"
+			},
+		"no-invalid-this": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-irregular-whitespace": {
+			"active": 1,
+			"optionString": "{'skipStrings': true, 'skipComments': false, 'skipRegExps': true, 'skipTemplates': true}"
+			},
+		"no-iterator": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-label-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-labels": {
+			"active": 0,
+			"optionString": "{'allowLoop': false, 'allowSwitch': false}"
+			},
+		"no-lone-blocks": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-lonely-if": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-loop-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-magic-numbers": {
+			"active": 0,
+			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
+			},
+		"no-mixed-operators": {
+			"active": 0,
+			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			},
+		"no-mixed-requires": {
+			"active": 0,
+			"optionString": "{'grouping': false, 'allowCall': false }"
+			},
+		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-spaces": {
+			"active": 0,
+			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
+			},
+		"no-multi-str": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multiple-empty-lines": {
+			"active": 0,
+			"optionString": "{'max': 2, 'maxBOF': 2, 'maxEOF': 2}"
+			},
+		"no-negated-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-nested-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-object": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-symbol": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-new-wrappers": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-obj-calls": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-param-reassign": {
+			"active": 0,
+			"optionString": "{'props': false}"
+			},
+		"no-path-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-plusplus": {
+			"active": 0,
+			"optionString": "{'allowForLoopAfterthoughts': false}"
+			},
+		"no-process-env": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-process-exit": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-redeclare": {
+			"active": 1,
+			"optionString": "{'builtinGlobals': false}"
+			},
+		"no-regex-spaces": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-restricted-globals": {
+			"active": 0,
+			"optionString": "'event', 'fdescribe'"
+			},
+		"no-restricted-imports": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-modules": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-properties": {
+			"active": 0,
+			"optionString": "[{'object': 'disallowedObjectName', 'property': 'disallowedPropertyName'}, {'object': 'disallowedObjectName', 'property': 'anotherDisallowedPropertyName', 'message': 'Please use allowedObjectName.allowedPropertyName.'}]"
+			},
+		"no-restricted-syntax": {
+			"active": 0,
+			"optionString": "'FunctionExpression', 'WithStatement'"
+			},
+		"no-return-assign": {
+			"active": 0,
+			"optionString": "'except-parens'"
+			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-script-url": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-self-assign": {
+			"active": 1,
+			"optionString": "{'props': false}"
+			},
+		"no-self-compare": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sequences": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-shadow": {
+			"active": 0,
+			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
+			},
+		"no-shadow-restricted-names": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sparse-arrays": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-sync": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-template-curly-in-string": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-this-before-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-throw-literal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-trailing-spaces": {
+			"active": 0,
+			"optionString": "{'skipBlankLines': false}"
+			},
+		"no-undef": {
+			"active": 1,
+			"optionString": "{'typeof': false}"
+			},
+		"no-undef-init": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-undefined": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-underscore-dangle": {
+			"active": 0,
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false}"
+			},
+		"no-unexpected-multiline": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unmodified-loop-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-unneeded-ternary": {
+			"active": 0,
+			"optionString": "{'defaultAssignment': true}"
+			},
+		"no-unreachable": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-finally": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-negation": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unused-expressions": {
+			"active": 0,
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
+			},
+		"no-unused-labels": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unused-vars": {
+			"active": 1,
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
+			},
+		"no-use-before-define": {
+			"active": 0,
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-call": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-computed-key": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-rename": {
+			"active": 0,
+			"optionString": "{'ignoreDestructuring': false, 'ignoreImport': false, 'ignoreExport': false}"
+			},
+		"no-useless-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-void": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-warning-comments": {
+			"active": 0,
+			"optionString": "{'terms': ['todo', 'fixme', 'xxx'], 'location': 'start'}"
+			},
+		"no-whitespace-before-property": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-with": {
+			"active": 0,
+			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
+		"object-curly-newline": {
+			"active": 0,
+			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
+			},
+		"object-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"object-property-newline": {
+			"active": 0,
+			"optionString": "{'allowMultiplePropertiesPerLine': true}"
+			},
+		"object-shorthand": {
+			"active": 0,
+			"optionString": "'always', {'avoidQuotes': false, 'ignoreConstructors': false}"
+			},
+		"one-var": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"one-var-declaration-per-line": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-assignment": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-linebreak": {
+			"active": 0,
+			"optionString": "'after', {'overrides': {'?': 'after', '+=': 'none'}}"
+			},
+		"padded-blocks": {
+			"active": 0,
+			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
+			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
+		"prefer-arrow-callback": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-const": {
+			"active": 0,
+			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-numeric-literals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-rest-params": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-spread": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-template": {
+			"active": 0,
+			"optionString": ""
+			},
+		"quote-props": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"quotes": {
+			"active": 0,
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
+			},
+		"radix": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"require-jsdoc": {
+			"active": 0,
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-yield": {
+			"active": 1,
+			"optionString": ""
+			},
+		"rest-spread-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"semi": {
+			"active": 0,
+			"optionString": "'always', {'omitLastInOneLineBlock': false}"
+			},
+		"semi-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"sort-imports": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
+			},
+		"sort-keys": {
+			"active": 0,
+			"optionString": "'asc', {'caseSensitive': true, 'natural': false}"
+			},
+		"sort-vars": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false}"
+			},
+		"space-before-blocks": {
+			"active": 0,
+			"optionString": "{'functions': 'always', 'keywords': 'always', 'classes': 'always'}"
+			},
+		"space-before-function-paren": {
+			"active": 0,
+			"optionString": "{'anonymous': 'always', 'named': 'never'}"
+			},
+		"space-in-parens": {
+			"active": 0,
+			"optionString": "'never', {'exceptions': []}"
+			},
+		"space-infix-ops": {
+			"active": 0,
+			"optionString": "{'int32Hint': false}"
+			},
+		"space-unary-ops": {
+			"active": 0,
+			"optionString": "{'words': true, 'nonwords': false, 'overrides': {}}"
+			},
+		"spaced-comment": {
+			"active": 0,
+			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			},
+		"strict": {
+			"active": 0,
+			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
+			},
+		"symbol-description": {
+			"active": 0,
+			"optionString": ""
+			},
+		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"unicode-bom": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"use-isnan": {
+			"active": 1,
+			"optionString": ""
+			},
+		"valid-jsdoc": {
+			"active": 0,
+			"optionString": "{'prefer': {'return': 'returns'}, 'requireReturn': true, 'requireReturnDescription': true, 'requireReturnType': true, 'requireParamDescription': true}"
+			},
+		"valid-typeof": {
+			"active": 1,
+			"optionString": "{'requireStringLiterals': true}"
+			},
+		"vars-on-top": {
+			"active": 0,
+			"optionString": ""
+			},
+		"wrap-iife": {
+			"active": 0,
+			"optionString": "'outside'"
+			},
+		"wrap-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"yield-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"yoda": {
+			"active": 0,
+			"optionString": "'never', {'exceptRange': false, 'onlyEquality': false}"
+			}
+		},
+	"esLintSourceType": 0,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"gitIgnoreBuildFolder": 1,
+	"hideConfigFile": 0,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"languageDefaultsCOFFEE": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1
+		},
+	"languageDefaultsCSS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.css",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsGIF": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.gif",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsHAML": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"escapeHTMLCharacters": 0,
+		"noEscapeInAttributes": 0,
+		"outputFormat": 2,
+		"outputStyle": 0,
+		"useCDATA": 0,
+		"useDoubleQuotes": 0,
+		"useUnixNewlines": 0
+		},
+	"languageDefaultsJPG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.jpg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"quality": 100
+		},
+	"languageDefaultsJS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.js",
+		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 0
+		},
+	"languageDefaultsJSON": {
+		"autoOutputAction": 1,
+		"autoOutputPathFilenamePattern": "*-min.json",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"orderOutput": 0,
+		"outputStyle": 1
+		},
+	"languageDefaultsKIT": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsLESS": {
+		"allowInsecureImports": 0,
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "less",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"ieCompatibility": 1,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"languageDefaultsMARKDOWN": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"maskEmailAddresses": 1,
+		"outputFormat": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"languageDefaultsOTHER": {
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*.*",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsPNG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.png",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
+		},
+	"languageDefaultsPUG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileDebug": 1,
+		"outputStyle": 0
+		},
+	"languageDefaultsSASS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "sass",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"languageDefaultsSLIM": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileOnly": 0,
+		"logicless": 0,
+		"outputFormat": 0,
+		"outputStyle": 1,
+		"railsCompatible": 0
+		},
+	"languageDefaultsSTYLUS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "stylus",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"importCSS": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsSVG": {
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*.svg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"pluginMask": 3758088159
+		},
+	"languageDefaultsTS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createDeclarationFile": 0,
+		"createSourceMap": 0,
+		"jsxMode": 0,
+		"minifyOutput": 0,
+		"moduleResolutionType": 0,
+		"moduleType": 2,
+		"noImplicitAny": 0,
+		"preserveConstEnums": 0,
+		"removeComments": 0,
+		"suppressImplicitAnyIndexErrors": 0,
+		"targetECMAVersion": 0
+		},
+	"languageDefaultsUserDefined": [
+		],
+	"overrideExternalServerCSS": 0,
+	"previewPathAddition": "",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"sourceFolderName": "source",
+	"susyVersion": 3,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "3"
+}
