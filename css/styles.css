@@ -167,3 +167,13 @@
 #collapseExample{
   transition: .80s ease-in;
 }
+
+.hover-effect:hover{
+  background: rgba(255,255,255, .2);
+}
+
+.all-items > a > img:hover{
+  opacity: .55;
+  transition:  ease-in 0.1s;
+  /*transform: scale(1.10, 1.10);*/
+}
