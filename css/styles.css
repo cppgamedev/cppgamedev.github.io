@@ -175,5 +175,6 @@
 .all-items > a > img:hover{
   opacity: .55;
   transition:  ease-in 0.1s;
+
   /*transform: scale(1.10, 1.10);*/
 }
