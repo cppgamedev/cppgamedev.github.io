@@ -9,3 +9,5 @@ Redesigned Cal Poly Pomona's Game Development and Design Club Website
 This page will display all the event titles and descriptions based on what type of event the club presented. Also the content inside of each event which can be reached by selecting the button can change to whatever desired such as videos, files for member to download such as tutorial files or just linking the user to other pages and content.
 ###### Index Page and Calendar setup
 The calendar will be brought up in the form of a modal window. This is still being worked out on including the design and functionality.
+######Future Features
+Still to be determined but we are considering a page for all of the club tutorials and resources all in one centralized location for members to access and download any files if necessary. This would be a great feature as it can contain all workshop videos in high quality recordings as well as documents and files linked to each repo for students to download and use.
