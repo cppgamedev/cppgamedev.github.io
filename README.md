@@ -11,3 +11,5 @@ This page will display all the event titles and descriptions based on what type 
 The calendar will be brought up in the form of a modal window. This is still being worked out on including the design and functionality.
 ###### Future Features
 Still to be determined but we are considering a page for all of the club tutorials and resources all in one centralized location for members to access and download any files if necessary. This would be a great feature as it can contain all workshop videos in high quality recordings as well as documents and files linked to each repo for students to download and use.
+###### Updated the Calendar feature on the index page
+Found a neat little library to use for our calendar that displays current date, days with events and so much more. Event better works alongside Bootstrap and Jquery.
