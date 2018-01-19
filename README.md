@@ -14,3 +14,5 @@ Still to be determined but we are considering a page for all of the club tutoria
 ###### Updated the Calendar feature on the index page
 Found a neat little library to use for our calendar that displays current date, days with events and so much more. Event better works alongside Bootstrap and Jquery.
 - **Future consideration : ** Instead of having a floating button with the calendar icon, this will be changed to a section side content that will have the calendar and some quick links like general club information and things of that nature.
+###### Updated Officer Profile Pictures
+Officer pictures were updated with 17-18 and appropriate roles. 
