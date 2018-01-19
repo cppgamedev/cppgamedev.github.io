@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="276e8d3d-dd82-4945-969a-2eeea3795e3c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.codekit3" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whoweare.html" afterPath="$PROJECT_DIR$/whoweare.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,8 +30,8 @@
       <file leaf-file-name="whoweare.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/whoweare.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="148" selection-end-column="16" />
+            <state relative-caret-position="529">
+              <caret line="143" column="84" lean-forward="true" selection-start-line="143" selection-start-column="84" selection-end-line="143" selection-end-column="84" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -262,12 +259,12 @@
       <workItem from="1516267325019" duration="66000" />
       <workItem from="1516297723112" duration="34000" />
       <workItem from="1516297868713" duration="22000" />
-      <workItem from="1516332628737" duration="2051000" />
+      <workItem from="1516332628737" duration="2121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81668000" />
+    <option name="totallyTimeSpent" value="81738000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -586,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/whoweare.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="148" selection-end-column="16" />
+        <state relative-caret-position="529">
+          <caret line="143" column="84" lean-forward="true" selection-start-line="143" selection-start-column="84" selection-end-line="143" selection-end-column="84" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
