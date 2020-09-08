@@ -1,0 +1,398 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: proxima-nova, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav{
+    position: fixed;
+    z-index: 10;
+    color: #0d0f21;
+    background-color: #89a6fb;
+    width: 100%;
+    height: 170px;
+    padding-left: 30px;
+}
+
+.title{
+    display: flex;
+}
+
+nav img{
+    margin-top: 44px;
+    width: 29px;
+    height: 20px;
+}
+
+nav h3{
+    margin: 0;
+    margin-top: 40px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 0px 20px;
+}
+
+nav hr{
+    margin-right: 4rem;
+    margin-bottom: 1.5rem;
+    height: 0.2rem;
+    background-color: #0d0f21;
+    border: none;
+}
+
+nav a{
+    font-size: 16px;
+    text-decoration: none;
+    color: #0d0f21;
+    padding: 0px 12px;
+}
+
+nav a:hover{
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.padding{
+    height: 170px;
+}
+
+main{
+    min-height: 100%;
+    background-color: #0d0f21;
+}
+
+
+.main-container{
+    position: relative;
+    width: 100%;
+    background-color: #0d0f21;
+}
+
+.slider-container{
+    width: 75%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.carousel-slider{
+    display: flex;
+    width: 100%;
+}
+
+.carousel-slider img{
+    max-width: 100%;
+}
+
+#prevBtn{
+    position: absolute;
+    transform: scale(3, 3);
+    color: #89a6fb;
+    z-index: 5;
+    top: 50%;
+    left: 5%;
+    cursor: pointer;
+    text-shadow: -0.5px 0.5px white;
+}
+
+#nextBtn{
+    position: absolute;
+    transform: scale(3, 3);
+    color: #89a6fb;
+    z-index: 5;
+    top: 50%;
+    right: 5%;
+    cursor: pointer;
+    text-shadow: 0.5px 0.5px white;
+}
+
+#prevBtn:hover{
+    text-shadow: none;
+}
+
+#nextBtn:hover{
+    text-shadow: none;
+}
+
+.logo{
+    position: absolute;
+    bottom: 47%;
+    right: 42%;
+    width: 15%;
+    background-color: #89a6fb;
+    padding: 1rem;
+    box-shadow: 3px 3px 15px 1px black;
+}
+
+.logo h5{
+    font-size: 1rem;
+    clear: both;
+    margin: 0;
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: #6287f9 1px 1px 4px 0px;
+}
+
+.logo:hover{
+    box-shadow: none;
+    cursor: pointer;
+    color: white;
+}
+
+.logo h5:hover{
+    text-shadow: none;
+}
+
+a{
+    color: black;
+}
+
+.section{
+    background-color: ghostwhite;
+    padding: 3% 5%;
+    padding-top: 1%;
+}
+
+.section h2{
+    padding-bottom: 1%;
+}
+
+.card-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 2%;
+}
+
+.card{
+    background-color: white;
+    padding: 1%;
+    box-shadow: 1px 1px 4px 0px lightgray;
+}
+
+.card img{
+    width: 100%;
+}
+
+.card div{
+    padding: 5% 5%;
+}
+
+.card p{
+    font-weight: normal;
+    padding: 0% 5%;
+    padding-bottom: 5%;
+}
+
+.more{
+    padding: 2%;
+    float: right;
+}
+
+.footer{
+    position: relative;
+    bottom: 0;
+    z-index: 10;
+    color: #0d0f21;
+    background-color: #89a6fb;
+    height: 100px;
+    padding-left: 30px;
+    padding-top: 2%;   
+}
+
+.footer h3{
+    font-weight: 900;
+}
+
+.profiles{
+    padding-right: 3%;
+    box-shadow: 1px 1px 4px 0px lightgray;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    grid-column-gap: 1rem;
+}
+
+#logoimg{
+    padding: 25%;
+}
+
+#about{
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.profiles img{
+    margin: auto 0px;
+    width: 70%;
+}
+
+.profiles p{
+    font-size: 0.9rem;
+    grid-column: 2/8;
+    margin: auto;
+}
+
+.pt{
+    padding-top: 2%;
+}
+
+.discord-container{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #0d0f21;
+    color: white;
+}
+
+#discordsvg{
+    width: 20%;
+    fill: white;
+}
+
+#discordsvg:hover {
+    fill: #89a6fb;
+}
+
+#discordsvg:visited {
+    fill: white;
+}
+
+#discordsvg:active{
+    fill: white;
+}
+
+.fc-prev-button.fc-button.fc-button-primary {
+    background-color: #89a6fb;
+    border-color: #89a6fb;
+}
+
+.fc-prev-button.fc-button.fc-button-primary:hover {
+    background-color: #6287f9;
+    border-color: #6287f9;
+}
+
+.fc-next-button.fc-button.fc-button-primary {
+    background-color: #89a6fb;
+    border-color: #89a6fb;
+}
+
+.fc-next-button.fc-button.fc-button-primary:hover {
+    background-color: #6287f9;
+    border-color: #6287f9;
+}
+
+.fc-today-button.fc-button.fc-button-primary {
+    background-color: #89a6fb;
+    border-color: #89a6fb;
+}
+
+.fc-today-button.fc-button.fc-button-primary:disabled{
+    background-color: #b1c4fc;
+    border-color: #b1c4fc;
+}
+
+.fc-today-button.fc-button.fc-button-primary:enabled:hover {
+    background-color: #6287f9;
+    border-color: #6287f9;
+}
+
+.fc-dayGridMonth-button.fc-button.fc-button-primary{
+    background-color: #89a6fb;
+    border-color: #89a6fb;
+}
+
+.fc-dayGridMonth-button.fc-button.fc-button-primary:hover {
+    background-color: #6287f9;
+    border-color: #6287f9;
+}
+
+.fc .fc-button-primary:not(:disabled):active, .fc .fc-button-primary:not(:disabled).fc-button-active{
+    background-color: #6287f9;
+    border-color: #6287f9;
+}
+
+.fc-listMonth-button.fc-button.fc-button-primary {
+    background-color: #89a6fb;
+    border-color: #89a6fb;
+}
+
+.fc-listMonth-button.fc-button.fc-button-primary:hover {
+    background-color: #6287f9;
+    border-color: #6287f9;
+}
+
+.fc .fc-toolbar-title {
+    font-size: 1.25rem;
+}
+
+.newsletter{
+    background-color: #92d3a6;
+    padding: 10px 0;
+}
+
+.newsletter table{
+    margin: auto;
+}
+
+#discordsvgcontact{
+    fill: black;
+    width: 10%;
+}
+
+#facebooksvg{
+    fill: black;
+    width: 10%;
+}
+
+#gmailsvg{
+    fill: black;
+    width: 9%;
+}
+
+.inputlabel{
+    font-size: medium;
+    width: 20%;
+    height: 4%;
+    border: none;
+    padding: 1%;
+}
+
+.inputlabel:focus{
+    border: none;
+    outline: none;
+}
+
+.textarea{
+    font-family: proxima-nova, sans-serif;
+    font-size: medium;
+    width: 40%;
+    height: 40%;
+    border: none;
+    padding: 1%;
+}
+
+.textarea:focus{
+    border: none;
+    outline: none;
+}
+
+.dbtn{
+    margin-top: 1%;
+    border: none;
+    outline: none;
+    background-color: #89a6fb;
+    padding: 1%;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.dbtn:hover{
+    background-color: #6287f9;
+    color: white;
+    cursor: pointer;
+}
