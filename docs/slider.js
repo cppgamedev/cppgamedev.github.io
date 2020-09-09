@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+window.addEventListener('load', (event) => {
     const carouselSlider = document.querySelector('.carousel-slider');
     const carouselImages = document.querySelectorAll('.carousel-slider img');
 
