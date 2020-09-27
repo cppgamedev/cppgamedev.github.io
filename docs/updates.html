@@ -1,47 +1,49 @@
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Updates</title>
     <link rel="shortcut icon" href="img/favicon_32.ico" type="image/x-icon">
-    
+
     <link href='fullcalendar/lib/main.css' rel='stylesheet' />
     <link rel="stylesheet" href="styles.css">
     <script src='fullcalendar/lib/main.js'></script>
     <script>
 
-      document.addEventListener('DOMContentLoaded', function() {
-        var calendarEl = document.getElementById('calendar');
-        var calendar = new FullCalendar.Calendar(calendarEl, {
-            buttonText: {
-                month: 'calendar',
-                list: 'schedule',
-                today: 'now'
-            },
-            headerToolbar: {
-                start: 'prev,next today',
-                center: 'title',
-                end: 'dayGridMonth,listMonth',
-            },
-            googleCalendarApiKey: 'AIzaSyAQnX3MKRmQWxkXxDdvoAGpJJNBfcO-7KE',
-            eventSources: [
-                {
-                    googleCalendarId: 'rn1a6utc0ur93kgp1t2472sojo@group.calendar.google.com'
+        document.addEventListener('DOMContentLoaded', function () {
+            var calendarEl = document.getElementById('calendar');
+            var calendar = new FullCalendar.Calendar(calendarEl, {
+                buttonText: {
+                    month: 'calendar',
+                    list: 'schedule',
+                    today: 'now'
                 },
-                {
-                    googleCalendarId: 'en.usa#holiday@group.v.calendar.google.com',
-                }
-            ], 
-            eventColor: '#89a6fb',
-            eventTextColor: '#0d0f21',
-            displayEventTime: true,
-            displayEventEnd: true,
+                headerToolbar: {
+                    start: 'prev,next today',
+                    center: 'title',
+                    end: 'dayGridMonth,listMonth',
+                },
+                googleCalendarApiKey: 'AIzaSyAQnX3MKRmQWxkXxDdvoAGpJJNBfcO-7KE',
+                eventSources: [
+                    {
+                        googleCalendarId: 'rn1a6utc0ur93kgp1t2472sojo@group.calendar.google.com'
+                    },
+                    {
+                        googleCalendarId: 'en.usa#holiday@group.v.calendar.google.com',
+                    }
+                ],
+                eventColor: '#89a6fb',
+                eventTextColor: '#0d0f21',
+                displayEventTime: true,
+                displayEventEnd: true,
+            });
+            calendar.render();
         });
-        calendar.render();
-      });
 
     </script>
 </head>
+
 <body>
     <nav>
         <div>
@@ -62,260 +64,701 @@
         <div class="section">
             <h2>Weekly Newsletter</h2>
             <div class="newsletter">
-            <td style="height:100%;margin:0;padding:10px;width:100%;border-top:0" valign="top" align="center"><table style="border-collapse:collapse;border:1px solid;max-width:600px!important" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td id="m_2778763232283313720m_8009866829553243052m_8809480233133672094m_-5496512912121974806m_5817068995570877002templatePreheader" style="background:#fafafa none no-repeat center/cover;background-color:#fafafa;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:9px;padding-bottom:9px" valign="top"><table style="min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="padding:9px" valign="top"><table style="min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td style="padding-right:9px;padding-left:9px;padding-top:0;padding-bottom:0;text-align:center" valign="top"><a href="http://www.cppgamedev.com" title="" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://www.cppgamedev.com&amp;source=gmail&amp;ust=1599639024798000&amp;usg=AFQjCNFap5h3-ZeiSaDZp1Ai1sNz-116mg"><img alt="" src="https://ci3.googleusercontent.com/proxy/uvOdXNOEr4WKoDtHlUVZBhTAtOCaeMy-1ppzSZRp8Xzlq8ze8ku4znaeksQLwIHX-DHwGJ-5Td6SIppyP1oOW4MsxbJSLTbedWrTOFIzR1BCoqSPjNdldx0y05lOzTm1U0sqyv7wLFb6lfxdlO72MnqwqqpGtaQDfCE=s0-d-e1-ft#https://gallery.mailchimp.com/7c56bacac21d5c99b3d330b1e/images/d85bbdea-59ea-4a6f-bb78-873a3b427b1e.png" style="max-width:1081px;padding-bottom:0;display:inline!important;vertical-align:bottom;border:0;height:auto;outline:none;text-decoration:none" width="540.5" align="middle" class="CToWUd">
-            </a>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody>
-            </table></td>
-            </tr>
-            <tr>
-            <td style="background:#ffffff none no-repeat center/cover;background-color:#ffffff;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:9px;padding-bottom:0" valign="top"><table style="min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody>
-            <tr>
-            <td style="padding-top:9px" valign="top">
-            <table style="max-width:100%;min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
-            <tbody><tr>
-            <td style="padding:0px 18px 9px;line-height:150%;word-break:break-word;color:#202020;font-family:Helvetica;font-size:16px;text-align:left" valign="top">
-            <div dir="ltr" style="text-align:justify"><span style="font-size:18px"><b>Greetings Developers,&nbsp;</b></span></div>
-            <div dir="ltr" style="text-align:left"><span style="font-size:14px">Sorry about last week! We had to figure out logistics, so we didn't have the newsletter ready for you guys. But we're back again this week! The Game Design and Development Club is your place to join the&nbsp;game development community. Our members build games together every semester. Whether you are looking to be an artist, programmer, writer, or designer, we provide&nbsp;the best environment to learn!</span></div>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody>
-            </table><table style="min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody>
-            <tr>
-            <td style="padding-top:9px" valign="top">
-            <table style="max-width:100%;min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
-            <tbody><tr>
-            <td style="padding-top:0;padding-right:18px;padding-bottom:9px;padding-left:18px;word-break:break-word;color:#202020;font-family:Helvetica;font-size:16px;line-height:150%;text-align:left" valign="top">
-            <div style="text-align:center"><a href="https://discord.gg/HnNjEsz" style="color:#007c89;font-weight:normal;text-decoration:underline" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://discord.gg/HnNjEsz&amp;source=gmail&amp;ust=1599639024798000&amp;usg=AFQjCNHfYwIj3LvBpvCjL5QpAvNi4L9kqw"><img alt="Discord" src="https://ci6.googleusercontent.com/proxy/4E5pVvq_PhgrbxtUVpzfkpcQNXxesgf4VPzUJ-JwsLTFSHtMssXwdttWm-4-ZJI81nkvW9k1ccmfH6e4QVhAQDfWRZu0xhG10k9u5TVrBsnkterEaEfTgVp6o5PVUj_g9mWUI_-QOj8GaDven_ygjO6Wy7z_lP6UEgQ=s0-d-e1-ft#https://gallery.mailchimp.com/7c56bacac21d5c99b3d330b1e/images/5e38e8f1-4836-4696-8adf-fda742aae201.png" style="border:0px;width:45px;height:45px;margin:0px;outline:none;text-decoration:none" width="45" height="45" align="none" class="CToWUd"></a>&nbsp;<br>
-            We use <a href="https://discord.gg/ns2QCHH" style="color:#007c89;font-weight:normal;text-decoration:underline" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://discord.gg/ns2QCHH&amp;source=gmail&amp;ust=1599639024798000&amp;usg=AFQjCNGSUc6-MhAmprSxtFzy-8mYXdsgug">Discord</a> for everything. Join the community!</div>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody>
-            </table></td>
-            </tr>
-            <tr>
-            <td style="background:#ffffff none no-repeat center/cover;background-color:#ffffff;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:9px;padding-bottom:0" valign="top"><table style="min-width:100%;border-collapse:collapse;table-layout:fixed!important" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody>
-            <tr>
-            <td style="min-width:100%;padding:18px">
-            <table style="min-width:100%;border-top:2px solid #eaeaea;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody><tr>
-            <td>
-            <span></span>
-            <br></td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody>
-            </table><table style="border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody>
-            <tr>
-            <td style="padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px" valign="top">
-            <table style="border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody><tr>
-            <td style="padding:0px;background-color:#ffffff;border:1px none" valign="top" align="center">
-            <table style="border-collapse:collapse" width="149" cellspacing="0" cellpadding="0" border="0" align="left">
-            <tbody><tr>
-            <td style="padding-top:0px;padding-right:0;padding-bottom:0px;padding-left:0px" valign="top" align="left">
-            <img alt="" src="https://ci4.googleusercontent.com/proxy/Ayl5Ebg1c7CqCk8ujaw8L5z0WAvIowgG_VgQOFbJ-gv01W7_Q6vKE3XvY0x5Z8hJazCZKlYYik-5QLhwBdxj2efEWW1Dw8oyBWTfrTRtrxDm1LcKX0rPa2BvMJXs-ht1s5WT2VeNxFb6rE0mJfZcI5uZ8-1qlLCmLFY=s0-d-e1-ft#https://gallery.mailchimp.com/7c56bacac21d5c99b3d330b1e/images/6d266707-841e-496a-ae96-0541118113f8.png" style="max-width:600px;border:0;height:auto;outline:none;text-decoration:none;vertical-align:bottom" width="147" class="CToWUd">
-            </td>
-            </tr>
-            </tbody></table>
-            <table style="border-collapse:collapse" width="396" cellspacing="0" cellpadding="0" border="0" align="right">
-            <tbody><tr>
-            <td style="padding-right:18px;padding-top:18px;padding-bottom:18px;color:#ffffff;font-family:Helvetica;font-size:14px;font-weight:normal;word-break:break-word;line-height:150%;text-align:left" valign="top">
-            <div style="text-align:left"><span style="font-size:18px"><span style="color:#000000"><b><u>Fourth General Meeting</u></b></span></span><br>
-            <br>
-            <font color="#000000"><b>Date:</b> <u><b>Tuesday</b></u>, September 22nd (Week 5)<br>
-            <b>Time:</b> 12PM - 12:50PM<br>
-            <b>Link:</b></font> <a href="https://cpp.zoom.us/j/92490260853" rel="noreferrer noopener" title="https://cpp.zoom.us/j/92490260853" style="color:#007c89;font-weight:normal;text-decoration:underline" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://cpp.zoom.us/j/92490260853&amp;source=gmail&amp;ust=1599639024798000&amp;usg=AFQjCNHoDQy9X8i76_1-lntIQWnZuwPKWg">https://cpp.zoom.us/j/<wbr>92490260853</a><br>
-            <br>
-            <span style="color:black;font-family:helvetica,sans-serif;font-size:10.5pt">Experienced developer or completely new,<br>
-            we welcome you to join us!<br>
-            <br>
-            We welcome students regardless of major, so long as you have an interest in some area related to game development.</span></div>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody>
-            </table><table style="border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody>
-            <tr>
-            <td style="padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px" valign="top">
-            <table style="border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody><tr>
-            <td style="padding:0px;background-color:#ffffff;border:1px none" valign="top" align="center">
-            <table style="border-collapse:collapse" width="149" cellspacing="0" cellpadding="0" border="0" align="left">
-            <tbody><tr>
-            <td style="padding-top:0px;padding-right:0;padding-bottom:0px;padding-left:0px" valign="top" align="left">
-            <img alt="" src="img/blender.jpg" style="max-width:1200px;border:0;height:auto;outline:none;text-decoration:none;vertical-align:bottom" width="147" class="CToWUd">
-            </td>
-            </tr>
-            </tbody></table>
-            <table style="border-collapse:collapse" width="396" cellspacing="0" cellpadding="0" border="0" align="right">
-            <tbody><tr>
-            <td style="padding-right:18px;padding-top:18px;padding-bottom:18px;color:#ffffff;font-family:Helvetica;font-size:14px;font-weight:normal;word-break:break-word;line-height:150%;text-align:left" valign="top">
-            <div style="text-align:left"><span style="font-size:18px"><span style="color:#000000"><b><u>Intro to Blender Workshop</u></b></span></span><br>
-            <br>
-            <font color="#000000"><b>Date:</b> <u><b>Friday</b></u>, September 25th (Week 5)<br>
-            <b>Time:</b> 3PM - 7PM (may end sooner)<br>
-            <b>Link:</b></font> <a href="https://cpp.zoom.us/j/92490260853" rel="noreferrer noopener" title="https://cpp.zoom.us/j/92490260853" style="color:#007c89;font-weight:normal;text-decoration:underline" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://cpp.zoom.us/j/92490260853&amp;source=gmail&amp;ust=1599639024798000&amp;usg=AFQjCNHoDQy9X8i76_1-lntIQWnZuwPKWg">https://cpp.zoom.us/j/<wbr>92490260853</a></div>
-            <br>
-            <font color="#000000">We'll learn the basics of Blender with modeling some cool stuff! Check it out!</font>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody>
-            </table><table style="min-width:100%;border-collapse:collapse;table-layout:fixed!important" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody>
-            <tr>
-            <td style="min-width:100%;padding:18px">
-            <table style="min-width:100%;border-top:2px solid #eaeaea;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody><tr>
-            <td>
-            <span></span>
-            <br></td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody>
-            </table><table style="min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody>
-            <tr>
-            <td style="padding-top:9px" valign="top">
-            <table style="max-width:100%;min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
-            <tbody><tr>
-            <td style="padding-top:0;padding-right:18px;padding-bottom:9px;padding-left:18px;word-break:break-word;color:#202020;font-family:Helvetica;font-size:16px;line-height:150%;text-align:left" valign="top">
-            <h4 style="text-align:center;display:block;margin:0;padding:0;color:#202020;font-family:Helvetica;font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:normal"><u>Lesson Of The Week</u></h4>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody>
-            </table><table style="border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody>
-            <tr>
-            <td style="padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px" valign="top">
-            <table style="background-color:#404040;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
-            <tbody><tr>
-            <td style="padding-top:0px;padding-right:0px;padding-bottom:0;padding-left:0px" valign="top" align="left">
-            <a href="https://www.youtube.com/watch?v=qxsEimJ_3bM&list=PLhyKYa0YJ_5C6QC36h5eApOyXtx98ehGi&index=4" title="" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://youtu.be/z06QR-tz1_o&amp;source=gmail&amp;ust=1599639024798000&amp;usg=AFQjCNES1vJiz54t5XXSQ222kRrB77bg6A">
-            <img alt="" src="img/3rdseries.png" style="max-width:640px;border:0;height:auto;outline:none;text-decoration:none;vertical-align:bottom" width="563" class="CToWUd">
-            </a>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody>
-            </table></td>
-            </tr>
-            <tr>
-            <td id="m_2778763232283313720m_8009866829553243052m_8809480233133672094m_-5496512912121974806m_5817068995570877002templateColumns" style="background:#ffffff none no-repeat center/cover;background-color:#ffffff;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:2px solid #eaeaea;padding-top:0;padding-bottom:9px" valign="top">
-            
-            <table style="border-collapse:collapse" width="300" cellspacing="0" cellpadding="0" border="0" align="left">
-                <tbody><tr>
-                    <td valign="top"><br></td>
-                </tr>
-            </tbody></table>
-            
-            <table style="border-collapse:collapse" width="300" cellspacing="0" cellpadding="0" border="0" align="left">
-                <tbody><tr>
-                    <td valign="top"><br></td>
-                </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            <tr>
-            <td id="m_2778763232283313720m_8009866829553243052m_8809480233133672094m_-5496512912121974806m_5817068995570877002templateFooter" style="background:#fafafa none no-repeat center/cover;background-color:#fafafa;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:9px;padding-bottom:9px" valign="top"><table style="min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody>
-            <tr>
-            <td style="padding:9px" valign="top" align="center">
-            <table style="min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody><tr>
-            <td style="padding-left:9px;padding-right:9px" align="center">
-            <table style="min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody><tr>
-            <td style="padding-top:9px;padding-right:9px;padding-left:9px" valign="top" align="center">
-            <table style="border-collapse:collapse" cellspacing="0" cellpadding="0" border="0" align="center">
-            <tbody><tr>
-            <td valign="top" align="center">    
-                    <table style="display:inline;border-collapse:collapse" cellspacing="0" cellpadding="0" border="0" align="left">
-                         
-                        <tbody><tr>
-                            <td style="padding-right:10px;padding-bottom:9px" valign="top" align="center">
-                                <a href="https://www.facebook.com/groups/cppgamedev/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.facebook.com/groups/cppgamedev/&amp;source=gmail&amp;ust=1599639024798000&amp;usg=AFQjCNG0IHh6iaekxgxiRI8U4imQcxpF3w"><img src="https://ci4.googleusercontent.com/proxy/qFht05wXKJYPVChSqXPNvc1fKWeX0ARJAOjh8GXW1FekOnnQWwgFxvi0sXmeC_gX7kPGmh9zqs_BK5qi-OggZUWwUDTVmFzl2nMLYVkeLOJG1GLy2GMDw2FSwi1lRUI=s0-d-e1-ft#https://cdn-images.mailchimp.com/icons/social-block-v2/color-facebook-96.png" alt="Facebook" style="width:48px;max-width:48px;display:block;border:0;height:auto;outline:none;text-decoration:none" width="48" class="CToWUd"></a>
-                            </td>
-                        </tr>            
-                    </tbody></table>  
-                    <table style="display:inline;border-collapse:collapse" cellspacing="0" cellpadding="0" border="0" align="left">
-                         
-                        <tbody><tr>
-                            <td style="padding-right:0;padding-bottom:9px" valign="top" align="center">
-                                <a href="http://cppgamedev.com" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://cppgamedev.com&amp;source=gmail&amp;ust=1599639024798000&amp;usg=AFQjCNGJQxOVnuRLCL_xkccTsidlZIBprQ"><img src="https://ci4.googleusercontent.com/proxy/FsqqIPY-Nm2D_Bf5k5DgsUKhKOEwTAS6vKaecLtDq_Tq6x2vbHC_vsCGW9RAFS9OP1aZvcKTwGg22EslrJNCslVk361E_pOQ541PKuxb84ZyXgRNw0WgDMiMaQ=s0-d-e1-ft#https://cdn-images.mailchimp.com/icons/social-block-v2/color-link-96.png" alt="Website" style="width:48px;max-width:48px;display:block;border:0;height:auto;outline:none;text-decoration:none" width="48" class="CToWUd"></a>
+                <table id="m_479589877403289653m_986647678737297698m_-7594506932274658116bodyTable"
+                    style="border-collapse:collapse;height:100%;margin:0;padding:0;width:100%;background-color:#92d3a6"
+                    width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tbody>
+                        <tr>
+                            <td id="m_479589877403289653m_986647678737297698m_-7594506932274658116bodyCell"
+                                style="height:100%;margin:0;padding:10px;width:100%;border-top:0" valign="top"
+                                align="center">
+
+
+                                <table style="border-collapse:collapse;border:1px solid;max-width:600px!important"
+                                    width="100%" cellspacing="0" cellpadding="0" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td id="m_479589877403289653m_986647678737297698m_-7594506932274658116templatePreheader"
+                                                style="background:#fafafa none no-repeat center/cover;background-color:#fafafa;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:9px;padding-bottom:9px"
+                                                valign="top">
+                                                <table style="min-width:100%;border-collapse:collapse" width="100%"
+                                                    cellspacing="0" cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding:9px" valign="top">
+                                                                <table style="min-width:100%;border-collapse:collapse"
+                                                                    width="100%" cellspacing="0" cellpadding="0"
+                                                                    border="0" align="left">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td style="padding-right:9px;padding-left:9px;padding-top:0;padding-bottom:0;text-align:center"
+                                                                                valign="top">
+
+                                                                                <a href="http://www.cppgamedev.com"
+                                                                                    title="" target="_blank"
+                                                                                    data-saferedirecturl="https://www.google.com/url?q=http://www.cppgamedev.com&amp;source=gmail&amp;ust=1601320146139000&amp;usg=AFQjCNE8jFA8VSuHH5QJJKXmYEckhGBKgg">
+                                                                                    <img alt=""
+                                                                                        src="https://ci3.googleusercontent.com/proxy/uvOdXNOEr4WKoDtHlUVZBhTAtOCaeMy-1ppzSZRp8Xzlq8ze8ku4znaeksQLwIHX-DHwGJ-5Td6SIppyP1oOW4MsxbJSLTbedWrTOFIzR1BCoqSPjNdldx0y05lOzTm1U0sqyv7wLFb6lfxdlO72MnqwqqpGtaQDfCE=s0-d-e1-ft#https://gallery.mailchimp.com/7c56bacac21d5c99b3d330b1e/images/d85bbdea-59ea-4a6f-bb78-873a3b427b1e.png"
+                                                                                        style="max-width:1081px;padding-bottom:0;display:inline!important;vertical-align:bottom;border:0;height:auto;outline:none;text-decoration:none"
+                                                                                        width="540.5" align="middle"
+                                                                                        class="CToWUd">
+                                                                                </a>
+
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td id="m_479589877403289653m_986647678737297698m_-7594506932274658116templateHeader"
+                                                style="background:#ffffff none no-repeat center/cover;background-color:#ffffff;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:9px;padding-bottom:0"
+                                                valign="top">
+                                                <table style="min-width:100%;border-collapse:collapse" width="100%"
+                                                    cellspacing="0" cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding-top:9px" valign="top">
+
+
+
+                                                                <table
+                                                                    style="max-width:100%;min-width:100%;border-collapse:collapse"
+                                                                    width="100%" cellspacing="0" cellpadding="0"
+                                                                    border="0" align="left">
+                                                                    <tbody>
+                                                                        <tr>
+
+                                                                            <td style="padding:0px 18px 9px;line-height:150%;word-break:break-word;color:#202020;font-family:Helvetica;font-size:16px;text-align:left"
+                                                                                valign="top">
+
+                                                                                <div dir="ltr"
+                                                                                    style="text-align:justify"><span
+                                                                                        style="font-size:18px"><b>Greetings
+                                                                                            Developers,&nbsp;</b></span>
+                                                                                </div>
+
+                                                                                <div dir="ltr" style="text-align:left">
+                                                                                    <span style="font-size:14px">I hope
+                                                                                        you all are doing well! As
+                                                                                        September is coming to a close,
+                                                                                        our game development teams have
+                                                                                        formed. If you're interested in
+                                                                                        joining in the development of a
+                                                                                        game, it's not too late! Whether
+                                                                                        you are looking to be an artist,
+                                                                                        programmer, writer, or designer,
+                                                                                        you can still hop in the Discord
+                                                                                        server and group up.<br>
+                                                                                        <br>
+                                                                                        For those of you who are
+                                                                                        interested in game jams, we're
+                                                                                        also planning on hosting one at
+                                                                                        the end of October (from 10/30
+                                                                                        to 11/1). For those of you who
+                                                                                        aren't familiar with the term, a
+                                                                                        'game jam' is an event where you
+                                                                                        get to make a game over the
+                                                                                        course of a weekend. It'll be a
+                                                                                        great chance to work with new
+                                                                                        and old friends alike! We'll be
+                                                                                        unveiling more details as we
+                                                                                        approach the jam's kickoff, so
+                                                                                        stay tuned!</span></div>
+
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+
+
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <table style="min-width:100%;border-collapse:collapse" width="100%"
+                                                    cellspacing="0" cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding-top:9px" valign="top">
+
+
+
+                                                                <table
+                                                                    style="max-width:100%;min-width:100%;border-collapse:collapse"
+                                                                    width="100%" cellspacing="0" cellpadding="0"
+                                                                    border="0" align="left">
+                                                                    <tbody>
+                                                                        <tr>
+
+                                                                            <td style="padding-top:0;padding-right:18px;padding-bottom:9px;padding-left:18px;word-break:break-word;color:#202020;font-family:Helvetica;font-size:16px;line-height:150%;text-align:left"
+                                                                                valign="top">
+
+                                                                                <div style="text-align:center"><a
+                                                                                        href="https://discord.gg/HnNjEsz"
+                                                                                        style="color:#007c89;font-weight:normal;text-decoration:underline"
+                                                                                        target="_blank"
+                                                                                        data-saferedirecturl="https://www.google.com/url?q=https://discord.gg/HnNjEsz&amp;source=gmail&amp;ust=1601320146139000&amp;usg=AFQjCNHbJbitzmrhmHa4iKpriXNg_SGNIA"><img
+                                                                                            alt="Discord"
+                                                                                            src="https://ci6.googleusercontent.com/proxy/4E5pVvq_PhgrbxtUVpzfkpcQNXxesgf4VPzUJ-JwsLTFSHtMssXwdttWm-4-ZJI81nkvW9k1ccmfH6e4QVhAQDfWRZu0xhG10k9u5TVrBsnkterEaEfTgVp6o5PVUj_g9mWUI_-QOj8GaDven_ygjO6Wy7z_lP6UEgQ=s0-d-e1-ft#https://gallery.mailchimp.com/7c56bacac21d5c99b3d330b1e/images/5e38e8f1-4836-4696-8adf-fda742aae201.png"
+                                                                                            style="border:0px;width:45px;height:45px;margin:0px;outline:none;text-decoration:none"
+                                                                                            width="45" height="45"
+                                                                                            align="none"
+                                                                                            class="CToWUd"></a>&nbsp;<br>
+                                                                                    We use <a
+                                                                                        href="https://discord.gg/ns2QCHH"
+                                                                                        style="color:#007c89;font-weight:normal;text-decoration:underline"
+                                                                                        target="_blank"
+                                                                                        data-saferedirecturl="https://www.google.com/url?q=https://discord.gg/ns2QCHH&amp;source=gmail&amp;ust=1601320146139000&amp;usg=AFQjCNEqUsY84Au5bqbxdDN0Wow5AIKQrg">Discord</a>
+                                                                                    for everything. Join the community!
+                                                                                </div>
+
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+
+
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td id="m_479589877403289653m_986647678737297698m_-7594506932274658116templateBody"
+                                                style="background:#ffffff none no-repeat center/cover;background-color:#ffffff;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:9px;padding-bottom:0"
+                                                valign="top">
+                                                <table
+                                                    style="min-width:100%;border-collapse:collapse;table-layout:fixed!important"
+                                                    width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="min-width:100%;padding:18px">
+                                                                <table
+                                                                    style="min-width:100%;border-top:2px solid #eaeaea;border-collapse:collapse"
+                                                                    width="100%" cellspacing="0" cellpadding="0"
+                                                                    border="0">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td>
+                                                                                <span></span>
+                                                                                <br></td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <table style="border-collapse:collapse" width="100%" cellspacing="0"
+                                                    cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px"
+                                                                valign="top">
+
+
+
+                                                                <table style="border-collapse:collapse" width="100%"
+                                                                    cellspacing="0" cellpadding="0" border="0">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td style="padding:0px;background-color:#ffffff;border:1px none"
+                                                                                valign="top" align="center">
+                                                                                <table style="border-collapse:collapse"
+                                                                                    width="149" cellspacing="0"
+                                                                                    cellpadding="0" border="0"
+                                                                                    align="left">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td style="padding-top:0px;padding-right:0;padding-bottom:0px;padding-left:0px"
+                                                                                                valign="top"
+                                                                                                align="left">
+
+
+
+                                                                                                <img alt=""
+                                                                                                    src="https://ci4.googleusercontent.com/proxy/Ayl5Ebg1c7CqCk8ujaw8L5z0WAvIowgG_VgQOFbJ-gv01W7_Q6vKE3XvY0x5Z8hJazCZKlYYik-5QLhwBdxj2efEWW1Dw8oyBWTfrTRtrxDm1LcKX0rPa2BvMJXs-ht1s5WT2VeNxFb6rE0mJfZcI5uZ8-1qlLCmLFY=s0-d-e1-ft#https://gallery.mailchimp.com/7c56bacac21d5c99b3d330b1e/images/6d266707-841e-496a-ae96-0541118113f8.png"
+                                                                                                    style="max-width:600px;border:0;height:auto;outline:none;text-decoration:none;vertical-align:bottom"
+                                                                                                    width="147"
+                                                                                                    class="CToWUd">
+
+
+
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                                <table style="border-collapse:collapse"
+                                                                                    width="396" cellspacing="0"
+                                                                                    cellpadding="0" border="0"
+                                                                                    align="right">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td style="padding-right:18px;padding-top:18px;padding-bottom:18px;color:#ffffff;font-family:Helvetica;font-size:14px;font-weight:normal;word-break:break-word;line-height:150%;text-align:left"
+                                                                                                valign="top">
+                                                                                                <div
+                                                                                                    style="text-align:left">
+                                                                                                    <span
+                                                                                                        style="font-size:18px"><span
+                                                                                                            style="color:#000000"><b><u>Fifth
+                                                                                                                    General
+                                                                                                                    Meeting</u></b></span></span><br>
+                                                                                                    <br>
+                                                                                                    <font
+                                                                                                        color="#000000">
+                                                                                                        <b>Date:</b>
+                                                                                                        <u><b>Tuesday</b></u>,
+                                                                                                        September 29th
+                                                                                                        (Week 6)<br>
+                                                                                                        <b>Time:</b>
+                                                                                                        12PM -
+                                                                                                        12:50PM<br>
+                                                                                                        <b>Link:</b>
+                                                                                                    </font> <a
+                                                                                                        href="https://cpp.zoom.us/j/92490260853"
+                                                                                                        rel="noreferrer noopener"
+                                                                                                        title="https://cpp.zoom.us/j/92490260853"
+                                                                                                        style="color:#007c89;font-weight:normal;text-decoration:underline"
+                                                                                                        target="_blank"
+                                                                                                        data-saferedirecturl="https://www.google.com/url?q=https://cpp.zoom.us/j/92490260853&amp;source=gmail&amp;ust=1601320146139000&amp;usg=AFQjCNFGdScVZXPHKlbzljsPp2BFBaGCdQ">https://cpp.zoom.us/j/<wbr>92490260853</a><br>
+                                                                                                    <br>
+                                                                                                    <span
+                                                                                                        style="color:black;font-family:helvetica,sans-serif;font-size:10.5pt">Experienced
+                                                                                                        developer or
+                                                                                                        completely
+                                                                                                        new,<br>
+                                                                                                        we welcome you
+                                                                                                        to join us!<br>
+                                                                                                        <br>
+                                                                                                        We welcome
+                                                                                                        students
+                                                                                                        regardless of
+                                                                                                        major, so long
+                                                                                                        as you have an
+                                                                                                        interest in some
+                                                                                                        area related to
+                                                                                                        game
+                                                                                                        development.</span>
+                                                                                                </div>
+
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <table style="border-collapse:collapse" width="100%" cellspacing="0"
+                                                    cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px"
+                                                                valign="top">
+
+
+
+                                                                <table style="border-collapse:collapse" width="100%"
+                                                                    cellspacing="0" cellpadding="0" border="0">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td style="padding:0px;background-color:#ffffff;border:1px none"
+                                                                                valign="top" align="center">
+                                                                                <table style="border-collapse:collapse"
+                                                                                    width="149" cellspacing="0"
+                                                                                    cellpadding="0" border="0"
+                                                                                    align="left">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td style="padding-top:0px;padding-right:0;padding-bottom:0px;padding-left:0px"
+                                                                                                valign="top"
+                                                                                                align="left">
+
+
+
+                                                                                                <img alt=""
+                                                                                                    src="https://ci6.googleusercontent.com/proxy/SJsaHDJkjZ0oc6pdpwhpimoU4UMRcpgXV0drffsCy-Fpaxo1z5Sijf8zgzKLOR_1-AdienWhejDdwFTHgFczDEv4_6fJV5QT94DQM765RkKkwuVc1nfA8jsKwaanrfxdGnr1QLn1SvgMuwanCFnrmUC1ZvsdLw=s0-d-e1-ft#https://mcusercontent.com/7c56bacac21d5c99b3d330b1e/images/9f19dc84-ba58-49ba-aa6b-8f89db1de3b8.jpg"
+                                                                                                    style="max-width:1200px;border:0;height:auto;outline:none;text-decoration:none;vertical-align:bottom"
+                                                                                                    width="147"
+                                                                                                    class="CToWUd">
+
+
+
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                                <table style="border-collapse:collapse"
+                                                                                    width="396" cellspacing="0"
+                                                                                    cellpadding="0" border="0"
+                                                                                    align="right">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td style="padding-right:18px;padding-top:18px;padding-bottom:18px;color:#ffffff;font-family:Helvetica;font-size:14px;font-weight:normal;word-break:break-word;line-height:150%;text-align:left"
+                                                                                                valign="top">
+                                                                                                <div
+                                                                                                    style="text-align:left">
+                                                                                                    <span
+                                                                                                        style="font-size:18px"><span
+                                                                                                            style="color:#000000"><b><u>Streaming
+                                                                                                                    to
+                                                                                                                    Learn
+                                                                                                                    (Java)</u></b></span></span><br>
+                                                                                                    <br>
+                                                                                                    <font
+                                                                                                        color="#000000">
+                                                                                                        <b>Date:</b>
+                                                                                                        <u><b>Friday</b></u>,
+                                                                                                        October 2nd
+                                                                                                        (Week 6)<br>
+                                                                                                        <b>Time:</b> 3PM
+                                                                                                        - 7PM (may end
+                                                                                                        sooner)<br>
+                                                                                                        <b>Link:</b>
+                                                                                                    </font> <a
+                                                                                                        href="https://cpp.zoom.us/j/92490260853"
+                                                                                                        rel="noreferrer noopener"
+                                                                                                        title="https://cpp.zoom.us/j/92490260853"
+                                                                                                        style="color:#007c89;font-weight:normal;text-decoration:underline"
+                                                                                                        target="_blank"
+                                                                                                        data-saferedirecturl="https://www.google.com/url?q=https://cpp.zoom.us/j/92490260853&amp;source=gmail&amp;ust=1601320146140000&amp;usg=AFQjCNFLg5H87pG57omGsJ0kxBzZWaar-g">https://cpp.zoom.us/j/<wbr>92490260853</a>
+                                                                                                </div>
+
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <table
+                                                    style="min-width:100%;border-collapse:collapse;table-layout:fixed!important"
+                                                    width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="min-width:100%;padding:18px">
+                                                                <table
+                                                                    style="min-width:100%;border-top:2px solid #eaeaea;border-collapse:collapse"
+                                                                    width="100%" cellspacing="0" cellpadding="0"
+                                                                    border="0">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td>
+                                                                                <span></span>
+                                                                                <br></td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <table style="min-width:100%;border-collapse:collapse" width="100%"
+                                                    cellspacing="0" cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding-top:9px" valign="top">
+
+
+
+                                                                <table
+                                                                    style="max-width:100%;min-width:100%;border-collapse:collapse"
+                                                                    width="100%" cellspacing="0" cellpadding="0"
+                                                                    border="0" align="left">
+                                                                    <tbody>
+                                                                        <tr>
+
+                                                                            <td style="padding-top:0;padding-right:18px;padding-bottom:9px;padding-left:18px;word-break:break-word;color:#202020;font-family:Helvetica;font-size:16px;line-height:150%;text-align:left"
+                                                                                valign="top">
+
+                                                                                <h4
+                                                                                    style="text-align:center;display:block;margin:0;padding:0;color:#202020;font-family:Helvetica;font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:normal">
+                                                                                    <u>Resource of the Week</u></h4>
+
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+
+
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <table style="border-collapse:collapse" width="100%" cellspacing="0"
+                                                    cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px"
+                                                                valign="top">
+
+                                                                <table
+                                                                    style="background-color:#404040;border-collapse:collapse"
+                                                                    width="100%" cellspacing="0" cellpadding="0"
+                                                                    border="0" align="left">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td style="padding-top:0px;padding-right:0px;padding-bottom:0;padding-left:0px"
+                                                                                valign="top" align="center">
+
+
+                                                                                <a href="https://www.youtube.com/watch?v=j48LtUkZRjU&amp;list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL&amp;index=1"
+                                                                                    title="Making Your First Game: Launching! - How to Market Your Game - Extra Credits"
+                                                                                    target="_blank"
+                                                                                    data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dj48LtUkZRjU%26list%3DPLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL%26index%3D1&amp;source=gmail&amp;ust=1601320146140000&amp;usg=AFQjCNEopfmqfvLMZ7p8HCp8wQVxcMzI5g">
+
+
+                                                                                    <img alt=""
+                                                                                        src="https://ci6.googleusercontent.com/proxy/N2mMGwvmyw_qI1zNKXAzdidexrbJI3dVgE0dfLmfB9OV_1VnWZ3TDghUTXy_tdTQXCnKz8IzwJlYWp4YzIVSCKCArGFIFFZUmnAg0e7MFwtWTB1kpdFYmdK2NpgoWK6jrOTIXjkQziGPGzVFrnjlBxxmGjDfjw=s0-d-e1-ft#https://mcusercontent.com/7c56bacac21d5c99b3d330b1e/images/cb9ceddc-22e9-4f98-94cc-18abc8966f8d.png"
+                                                                                        style="max-width:698px;border-radius:0%;border:0;height:auto;outline:none;text-decoration:none;vertical-align:bottom"
+                                                                                        width="563" class="CToWUd">
+                                                                                </a>
+
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="padding:9px 18px;color:#f2f2f2;font-family:Helvetica;font-size:14px;font-weight:normal;text-align:center;word-break:break-word;line-height:150%"
+                                                                                width="545" valign="top">
+                                                                                Brackeys' Intro to Unity Gamedev<br>
+                                                                                (Brackeys is a fabulous resource. Though
+                                                                                he recently announced that he will no
+                                                                                longer be making videos, his channel has
+                                                                                hundreds of excellent guides. No matter
+                                                                                what your focus is, there's probably
+                                                                                something for you!)
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+
+
+
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td id="m_479589877403289653m_986647678737297698m_-7594506932274658116templateColumns"
+                                                style="background:#ffffff none no-repeat center/cover;background-color:#ffffff;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:2px solid #eaeaea;padding-top:0;padding-bottom:9px"
+                                                valign="top">
+
+                                                <table style="border-collapse:collapse" width="300" cellspacing="0"
+                                                    cellpadding="0" border="0" align="left">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td valign="top"><br></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+
+                                                <table style="border-collapse:collapse" width="300" cellspacing="0"
+                                                    cellpadding="0" border="0" align="left">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td valign="top"><br></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td id="m_479589877403289653m_986647678737297698m_-7594506932274658116templateFooter"
+                                                style="background:#fafafa none no-repeat center/cover;background-color:#fafafa;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:9px;padding-bottom:9px"
+                                                valign="top">
+                                                <table style="min-width:100%;border-collapse:collapse" width="100%"
+                                                    cellspacing="0" cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding:9px" valign="top" align="center">
+                                                                <table style="min-width:100%;border-collapse:collapse"
+                                                                    width="100%" cellspacing="0" cellpadding="0"
+                                                                    border="0">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td style="padding-left:9px;padding-right:9px"
+                                                                                align="center">
+                                                                                <table
+                                                                                    style="min-width:100%;border-collapse:collapse"
+                                                                                    width="100%" cellspacing="0"
+                                                                                    cellpadding="0" border="0">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td style="padding-top:9px;padding-right:9px;padding-left:9px"
+                                                                                                valign="top"
+                                                                                                align="center">
+                                                                                                <table
+                                                                                                    style="border-collapse:collapse"
+                                                                                                    cellspacing="0"
+                                                                                                    cellpadding="0"
+                                                                                                    border="0"
+                                                                                                    align="center">
+                                                                                                    <tbody>
+                                                                                                        <tr>
+                                                                                                            <td valign="top"
+                                                                                                                align="center">
+
+
+
+
+                                                                                                                <table
+                                                                                                                    style="display:inline;border-collapse:collapse"
+                                                                                                                    cellspacing="0"
+                                                                                                                    cellpadding="0"
+                                                                                                                    border="0"
+                                                                                                                    align="left">
+
+                                                                                                                    <tbody>
+                                                                                                                        <tr>
+                                                                                                                            <td style="padding-right:10px;padding-bottom:9px"
+                                                                                                                                valign="top"
+                                                                                                                                align="center">
+                                                                                                                                <a href="https://www.facebook.com/groups/cppgamedev/"
+                                                                                                                                    target="_blank"
+                                                                                                                                    data-saferedirecturl="https://www.google.com/url?q=https://www.facebook.com/groups/cppgamedev/&amp;source=gmail&amp;ust=1601320146140000&amp;usg=AFQjCNGIb3bjWFUiOAWVjbZt6r8HnuvzZA"><img
+                                                                                                                                        src="https://ci4.googleusercontent.com/proxy/qFht05wXKJYPVChSqXPNvc1fKWeX0ARJAOjh8GXW1FekOnnQWwgFxvi0sXmeC_gX7kPGmh9zqs_BK5qi-OggZUWwUDTVmFzl2nMLYVkeLOJG1GLy2GMDw2FSwi1lRUI=s0-d-e1-ft#https://cdn-images.mailchimp.com/icons/social-block-v2/color-facebook-96.png"
+                                                                                                                                        alt="Facebook"
+                                                                                                                                        style="width:48px;max-width:48px;display:block;border:0;height:auto;outline:none;text-decoration:none"
+                                                                                                                                        width="48"
+                                                                                                                                        class="CToWUd"></a>
+                                                                                                                            </td>
+                                                                                                                        </tr>
+
+
+                                                                                                                    </tbody>
+                                                                                                                </table>
+
+
+
+
+
+
+                                                                                                                <table
+                                                                                                                    style="display:inline;border-collapse:collapse"
+                                                                                                                    cellspacing="0"
+                                                                                                                    cellpadding="0"
+                                                                                                                    border="0"
+                                                                                                                    align="left">
+
+                                                                                                                    <tbody>
+                                                                                                                        <tr>
+                                                                                                                            <td style="padding-right:0;padding-bottom:9px"
+                                                                                                                                valign="top"
+                                                                                                                                align="center">
+                                                                                                                                <a href="http://cppgamedev.com"
+                                                                                                                                    target="_blank"
+                                                                                                                                    data-saferedirecturl="https://www.google.com/url?q=http://cppgamedev.com&amp;source=gmail&amp;ust=1601320146140000&amp;usg=AFQjCNHO1WQXsdBgRAusXK-uUvNcG3XJDA"><img
+                                                                                                                                        src="https://ci4.googleusercontent.com/proxy/FsqqIPY-Nm2D_Bf5k5DgsUKhKOEwTAS6vKaecLtDq_Tq6x2vbHC_vsCGW9RAFS9OP1aZvcKTwGg22EslrJNCslVk361E_pOQ541PKuxb84ZyXgRNw0WgDMiMaQ=s0-d-e1-ft#https://cdn-images.mailchimp.com/icons/social-block-v2/color-link-96.png"
+                                                                                                                                        alt="Website"
+                                                                                                                                        style="width:48px;max-width:48px;display:block;border:0;height:auto;outline:none;text-decoration:none"
+                                                                                                                                        width="48"
+                                                                                                                                        class="CToWUd"></a>
+                                                                                                                            </td>
+                                                                                                                        </tr>
+
+
+                                                                                                                    </tbody>
+                                                                                                                </table>
+
+
+
+
+
+                                                                                                            </td>
+                                                                                                        </tr>
+                                                                                                    </tbody>
+                                                                                                </table>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <table style="min-width:100%;border-collapse:collapse" width="100%"
+                                                    cellspacing="0" cellpadding="0" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding-top:9px" valign="top">
+
+
+
+                                                                <table
+                                                                    style="max-width:100%;min-width:100%;border-collapse:collapse"
+                                                                    width="100%" cellspacing="0" cellpadding="0"
+                                                                    border="0" align="left">
+                                                                    <tbody>
+                                                                        <tr>
+
+                                                                            <td style="padding-top:0;padding-right:18px;padding-bottom:9px;padding-left:18px;word-break:break-word;color:#656565;font-family:Helvetica;font-size:12px;line-height:150%;text-align:center"
+                                                                                valign="top">
+
+                                                                                <span style="font-size:10px">Daniel
+                                                                                    Edwards | Vice President<br>
+                                                                                    Nandan Vinjamury | Webmaster<br>
+                                                                                    CPP Game Design &amp; Development
+                                                                                    Club<br>
+                                                                                    <br>
+                                                                                    Register as a member on <a
+                                                                                        href="https://calpolypomona.collegiatelink.net/organization/gddc"
+                                                                                        style="color:#656565;font-weight:normal;text-decoration:underline"
+                                                                                        target="_blank"
+                                                                                        data-saferedirecturl="https://www.google.com/url?q=https://calpolypomona.collegiatelink.net/organization/gddc&amp;source=gmail&amp;ust=1601320146140000&amp;usg=AFQjCNFr30wmDxR9VHxi9N2SGTP7OegqSA"><span
+                                                                                            style="color:#0099ff">myBAR</span></a>.</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+
+
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+
                             </td>
                         </tr>
-                        
-                        
-                    </tbody></table>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody>
-            </table><table style="min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0">
-            <tbody>
-            <tr>
-            <td style="padding-top:9px" valign="top">
-            <table style="max-width:100%;min-width:100%;border-collapse:collapse" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
-            <tbody><tr>
-            <td style="padding-top:0;padding-right:18px;padding-bottom:9px;padding-left:18px;word-break:break-word;color:#656565;font-family:Helvetica;font-size:12px;line-height:150%;text-align:center" valign="top">
-            <span style="font-size:10px">Daniel Edwards | Vice President<br>Nandan Vinjamury | Webmaster<br>
-            CPP Game Design &amp; Development Club<br>
-            <br>
-            Register as a member on <a href="https://calpolypomona.collegiatelink.net/organization/gddc" style="color:#656565;font-weight:normal;text-decoration:underline" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://calpolypomona.collegiatelink.net/organization/gddc&amp;source=gmail&amp;ust=1599639024798000&amp;usg=AFQjCNHdes2LfJMBntvafeTcV-R7N0jp5Q"><span style="color:#0099ff">myBAR</span></a>.</span>
-            </td>
-            </tr>
-            </tbody></table>
-            </td>
-            </tr>
-            </tbody>
-            </table></td>
-            </tr>
-            </tbody></table>
-            </td>
+                    </tbody>
+                </table>
             </div>
             <!--<div>
                 <p>What's up members?<br><br>
@@ -334,7 +777,9 @@
         </div>
     </main>
     <div class="footer">
-        <h3>Copyright &copy; <script>document.write(new Date().getFullYear())</script>, CPP Game Dev Club</h3>
+        <h3>Copyright &copy;
+            <script>document.write(new Date().getFullYear())</script>, CPP Game Dev Club</h3>
     </div>
 </body>
+
 </html>
