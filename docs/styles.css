@@ -15,7 +15,7 @@ nav{
     position: fixed;
     z-index: 10;
     color: #0d0f21;
-    background-color: #89a6fb;
+    background-color: #4eb970;
     width: 100%;
     height: 170px;
     padding-left: 30px;
@@ -44,7 +44,7 @@ nav hr{
     margin-right: 4rem;
     margin-bottom: 1.5rem;
     height: 0.2rem;
-    background-color: #0d0f21;
+    background-color: #ffffff;
     border: none;
 }
 
@@ -66,14 +66,14 @@ nav a:hover{
 
 main{
     min-height: 100%;
-    background-color: #0d0f21;
+    background-color: #acfcc5;
 }
 
 
 .main-container{
     position: relative;
     width: 100%;
-    background-color: #0d0f21;
+    background-color: #acfcc5;
 }
 
 .slider-container{
@@ -94,7 +94,7 @@ main{
 #prevBtn{
     position: absolute;
     transform: scale(3, 3);
-    color: #89a6fb;
+    color: #0d0f21;
     z-index: 5;
     top: 50%;
     left: 5%;
@@ -105,7 +105,7 @@ main{
 #nextBtn{
     position: absolute;
     transform: scale(3, 3);
-    color: #89a6fb;
+    color: #0d0f21;
     z-index: 5;
     top: 50%;
     right: 5%;
@@ -126,7 +126,7 @@ main{
     bottom: 47%;
     right: 42%;
     width: 15%;
-    background-color: #89a6fb;
+    background-color: #0d0f21;
     padding: 1rem;
     box-shadow: 3px 3px 15px 1px black;
 }
@@ -137,7 +137,7 @@ main{
     margin: 0;
     text-align: center;
     font-weight: bolder;
-    text-shadow: #6287f9 1px 1px 4px 0px;
+    text-shadow: #acfcc5 1px 1px 4px 0px;
 }
 
 .logo:hover{
@@ -151,7 +151,7 @@ main{
 }
 
 a{
-    color: black;
+    color: white;
 }
 
 .section{
@@ -199,8 +199,8 @@ a{
     position: relative;
     bottom: 0;
     z-index: 10;
-    color: #0d0f21;
-    background-color: #89a6fb;
+    color: #ffffff;
+    background-color: #0d0f21;
     height: 100px;
     padding-left: 30px;
     padding-top: 2%;   
@@ -245,7 +245,7 @@ a{
 .discord-container{
     padding-top: 5%;
     padding-bottom: 5%;
-    background-color: #0d0f21;
+    background-color: #ffffff;
     color: white;
 }
 
@@ -255,7 +255,7 @@ a{
 }
 
 #discordsvg:hover {
-    fill: #89a6fb;
+    fill: #0d0f21;
 }
 
 #discordsvg:visited {
@@ -267,63 +267,63 @@ a{
 }
 
 .fc-prev-button.fc-button.fc-button-primary {
-    background-color: #89a6fb;
-    border-color: #89a6fb;
+    background-color: #0d0f21;
+    border-color: #0d0f21;
 }
 
 .fc-prev-button.fc-button.fc-button-primary:hover {
-    background-color: #6287f9;
-    border-color: #6287f9;
+    background-color: #4eb970;
+    border-color: #0d0f21;
 }
 
 .fc-next-button.fc-button.fc-button-primary {
-    background-color: #89a6fb;
-    border-color: #89a6fb;
+    background-color: #0d0f21;
+    border-color: #0d0f21;
 }
 
 .fc-next-button.fc-button.fc-button-primary:hover {
-    background-color: #6287f9;
-    border-color: #6287f9;
+    background-color: #4eb970;
+    border-color: #0d0f21;
 }
 
 .fc-today-button.fc-button.fc-button-primary {
-    background-color: #89a6fb;
-    border-color: #89a6fb;
+    background-color: #0d0f21;
+    border-color: #0d0f21;
 }
 
 .fc-today-button.fc-button.fc-button-primary:disabled{
-    background-color: #b1c4fc;
-    border-color: #b1c4fc;
+    background-color: #4eb970;
+    border-color: #0d0f21;
 }
 
 .fc-today-button.fc-button.fc-button-primary:enabled:hover {
-    background-color: #6287f9;
-    border-color: #6287f9;
+    background-color: #4eb970;
+    border-color: #0d0f21;
 }
 
 .fc-dayGridMonth-button.fc-button.fc-button-primary{
-    background-color: #89a6fb;
-    border-color: #89a6fb;
+    background-color: #0d0f21;
+    border-color: #0d0f21;
 }
 
 .fc-dayGridMonth-button.fc-button.fc-button-primary:hover {
-    background-color: #6287f9;
-    border-color: #6287f9;
+    background-color: #4eb970;
+    border-color: #0d0f21;
 }
 
 .fc .fc-button-primary:not(:disabled):active, .fc .fc-button-primary:not(:disabled).fc-button-active{
-    background-color: #6287f9;
-    border-color: #6287f9;
+    background-color: #4eb970;
+    border-color: #0d0f21;
 }
 
 .fc-listMonth-button.fc-button.fc-button-primary {
-    background-color: #89a6fb;
-    border-color: #89a6fb;
+    background-color: #0d0f21;
+    border-color: #0d0f21;
 }
 
 .fc-listMonth-button.fc-button.fc-button-primary:hover {
-    background-color: #6287f9;
-    border-color: #6287f9;
+    background-color: #4eb970;
+    border-color: #0d0f21;
 }
 
 .fc .fc-toolbar-title {
@@ -331,7 +331,7 @@ a{
 }
 
 .newsletter{
-    background-color: #92d3a6;
+    background-color: #acfcc5;
     padding: 10px 0;
 }
 
@@ -385,14 +385,14 @@ a{
     margin-top: 1%;
     border: none;
     outline: none;
-    background-color: #89a6fb;
+    background-color: #4eb970;
     padding: 1%;
     font-size: 1rem;
     font-weight: bold;
 }
 
 .dbtn:hover{
-    background-color: #6287f9;
+    background-color: #4eb970;
     color: white;
     cursor: pointer;
 }
