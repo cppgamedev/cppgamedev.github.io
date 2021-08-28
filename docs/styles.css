@@ -231,6 +231,26 @@ a{
     grid-column-gap: 1rem;
 }
 
+.profiles-advisor {
+    background-color: #0d0f21;
+    color: #ffffff;
+    padding-right: 3%;
+    box-shadow: 6px 6px 10px 0px #0d0f21;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-column-gap: 1rem;
+}
+
+.profiles-advisor img {
+    width: 50%;
+    margin: auto;
+}
+
+.profiles-advisor p {
+    font-size: 1rem;
+    margin: auto;
+}
+
 #logoimg{
     padding: 25%;
 }
