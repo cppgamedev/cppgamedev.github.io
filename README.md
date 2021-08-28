@@ -16,4 +16,4 @@ This page will display all the event titles and descriptions based on what type 
 - Twitch/Youtube Video Access
 
 ###### Updated Officer Profile Pictures
-Officer pictures were updated for years 20-21 and given appropriate roles + descriptions. 
+Officer pictures were updated for years 21-22 and given appropriate roles + descriptions. 
