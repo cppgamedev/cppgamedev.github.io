@@ -25,6 +25,10 @@ nav{
     display: flex;
 }
 
+.titleLarge{
+    font-size: large;   
+}
+
 nav img{
     margin-top: 44px;
     width: 29px;
