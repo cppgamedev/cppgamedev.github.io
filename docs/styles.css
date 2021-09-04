@@ -25,6 +25,10 @@ nav{
     display: flex;
 }
 
+.titleLarge{
+    font-size: large;   
+}
+
 nav img{
     margin-top: 44px;
     width: 29px;
@@ -445,4 +449,12 @@ a{
 
 .elfsight-app-2570a8a2-7a9a-4ce3-806c-0a74b19e9779{
     box-shadow: 1px 1px 4px 0px lightgray;
+}
+
+/* store styles go below here */
+.itemSquare {
+  height: 400px;
+  width: 300px;
+  background-color: grey;
+  opacity: 0.5;
 }
