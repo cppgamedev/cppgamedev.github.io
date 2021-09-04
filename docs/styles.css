@@ -267,7 +267,20 @@ a{
 
 .profiles p{
     font-size: 1rem;
-    grid-column: 2/8;
+    grid-column: 3/8;
+    margin: auto;
+}
+
+.card-ans {
+    background-color: #ffffff;
+    color: #0d0f21;
+    padding-right: 3%;
+    box-shadow: 6px 6px 10px 0px #0d0f21;
+}
+
+.card-ans p {
+    font-size: 20px;
+    padding: 25px;
     margin: auto;
 }
 
