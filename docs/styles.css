@@ -26,7 +26,7 @@ nav{
 }
 
 .titleLarge{
-    font-size: large;   
+    font-size: large;
 }
 
 nav img{
@@ -128,15 +128,16 @@ main{
 .logo{
     position: absolute;
     bottom: 47%;
-    right: 42%;
-    width: 15%;
-    background-color: #0d0f21;
+    right: 40%;
+    width: 20%;
+    background-color: #4EB96F;
     padding: 1rem;
     box-shadow: 3px 3px 15px 1px black;
 }
 
 .logo h5{
-    font-size: 1rem;
+    font-size: 2rem;
+    color: #0D0F21;
     clear: both;
     margin: 0;
     text-align: center;
@@ -151,11 +152,24 @@ main{
 }
 
 .logo h5:hover{
+    color: white;
     text-shadow: none;
 }
 
 a{
     color: white;
+}
+
+.link{
+    margin: 0% 30%;
+    width: 30%;
+    background-color: #4EB96F;
+    box-shadow: 3px 3px 15px 1px black;
+}
+
+.link:hover {
+  cursor: pointer;
+  color: #4EB96F;
 }
 
 .section{
@@ -177,6 +191,13 @@ a{
     color: #0d0f21;
     padding-bottom: 0%;
  }
+
+.section h4{
+    font-size: 25px;
+    color: #ffffff;
+    padding: 0% 5%;
+    padding-bottom: 0%;
+}
 
 .card-container{
     display: grid;
@@ -205,6 +226,28 @@ a{
     padding-bottom: 5%;
 }
 
+.card-pitches{
+    background-color: #0d0f21;
+    color: white;
+    padding: 1%;
+    box-shadow: 4px 4px 8px 0px #0d0f21;
+}
+
+.card-pitches img{
+    width: 100%;
+}
+
+.card-pitches div{
+    padding: 5% 5%;
+}
+
+.card-pitches p{
+    font-size: 20px;
+    font-weight: normal;
+    padding: 0% 5%;
+    padding-bottom: 5%;
+}
+
 .more{
     padding: 2%;
     float: right;
@@ -218,7 +261,7 @@ a{
     background-color: #4eb970;
     height: 100px;
     padding-left: 30px;
-    padding-top: 2%;   
+    padding-top: 2%;
 }
 
 .footer h3{
