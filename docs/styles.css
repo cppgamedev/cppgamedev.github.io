@@ -241,6 +241,12 @@ a{
     padding-bottom: 5%;
 }
 
+.card-pitches-empty{
+    background-color: #565c91;
+    color: white;
+    padding: 1%;
+}
+
 .card-pitches{
     background-color: #0d0f21;
     color: white;
