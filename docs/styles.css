@@ -156,8 +156,20 @@ main{
     text-shadow: none;
 }
 
-a{
-    color: white;
+.social-link{
+    font-size: 16px;
+}
+
+.social-link h6{
+    color: black;
+    font-size: 24px;
+    margin: 0px 0px 12px 0px;
+}
+
+.social-link h6:hover{
+    color: seagreen;
+    font-size: 24px;
+    margin: 0px 0px 12px 0px;
 }
 
 .link{
