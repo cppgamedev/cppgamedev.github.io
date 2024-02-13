@@ -21,8 +21,90 @@ nav{
     padding-left: 30px;
 }
 
-.calendar-weekdays{
+.calendar-container{
+    border-collapse: separate;
+    border-radius: 10px;
+    overflow: hidden;
+}
 
+.calendar-days{
+    background: #eee;
+    margin: 0;
+    padding: 10px 0;
+}
+
+.calendar-days li{
+    color: #777;
+    display: inline-block;
+    font-size: 12px;
+    list-style-type: none;
+    margin-bottom: 5px;
+    text-align: center;
+    width: 13.6%;
+}
+
+.calendar-days-active{
+    color: black;
+}
+
+.calendar-days-visible{
+}
+
+.calendar-event{
+}
+
+.calendar-info{
+    background: #eee;
+}
+
+.calendar-month{
+    background: #4eb970;
+    display: inline-block;
+    padding: 50px 25px;
+    text-align: center;
+    width: 93.3%;
+}
+
+.calendar-month ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.calendar-month-next{
+    background: #4eb970;
+    display: inline-block;
+    float: right;
+    font-size: 20px;
+    list-style-type: none;
+    padding-bottom: 45px;
+    padding-right: 10px;
+    padding-top: 50px;
+    text-align: right;
+}
+
+.calendar-month-previous{
+    background: #4eb970;
+    display: inline-block;
+    float: left;
+    font-size: 20px;
+    list-style-type: none;
+    padding-bottom: 45px;
+    padding-right: 10px;
+    padding-top: 50px;
+    text-align: left;
+}
+
+.calendar-weekdays{
+    background-color: #ddd;
+    margin: 0;
+    padding: 10px 0;
+}
+
+.calendar-weekdays li{
+    color: #666;
+    display: inline-block;
+    text-align: center;
+    width: 13.6%;
 }
 
 .title{
