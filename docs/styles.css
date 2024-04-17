@@ -107,6 +107,47 @@ nav{
     width: 13.6%;
 }
 
+.parallaxdez{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("img/2023-2024/GameDevelopment/DezHello.png");
+    min-height: 200px;
+    padding: 0% 3% 1% 3%;
+}
+
+.parallaxdez h2{
+    background-color: rgba(0, 0, 0, 0.6);
+    color: ghostwhite;
+    font-size: 46px;
+    padding-top: 1%;
+    text-shadow: 3px 3px #0d0f21;
+}
+
+.parallaxgdc{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("img/2023-2024/GameDevelopment/Logo_Design-only.png");
+    min-height: 200px;
+    padding: 0% 3% 0% 3%;
+}
+
+.parallaxgdc h2{
+    background-color: rgba(0, 0, 0, 0.6);
+    color: ghostwhite;
+    font-size: 42px;
+    padding-top: 1%;
+    text-shadow: 3px 3px #0d0f21;
+}
+
+.partition{
+    background-color: black;
+    min-height: 100px;
+}
+
 .title{
     display: flex;
 }
@@ -247,7 +288,7 @@ main{
 }
 
 .social-link h6{
-    color: black;
+    color: ghostwhite;
     font-size: 24px;
     margin: 0px 0px 12px 0px;
 }
