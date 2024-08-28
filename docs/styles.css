@@ -143,6 +143,17 @@ nav{
     text-shadow: 3px 3px #0d0f21;
 }
 
+.parallaxgdc h3{
+    background-color: rgba(0, 0, 0, 0.6);
+    color: ghostwhite;
+    padding-top: 1%;
+    text-shadow: 3px 3px #0d0f21;
+}
+
+.parallaxgdc label{
+    color: ghostwhite;
+}
+
 .partition{
     background-color: black;
     min-height: 100px;
@@ -478,14 +489,15 @@ main{
     margin: auto;
 }
 
-.card-ans {
-    background-color: #ffffff;
+.card-ans{
+    background-color: rgba(0, 0, 0, 0.6);
     color: #0d0f21;
     padding-right: 3%;
     box-shadow: 6px 6px 10px 0px #0d0f21;
 }
 
-.card-ans p {
+.card-ans p{
+    color: ghostwhite;
     font-size: 20px;
     padding: 25px;
     margin: auto;
