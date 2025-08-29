@@ -10,30 +10,48 @@
     <nav>
         <div>
             <div class="title">
-                <img src="img/gamedevicon.png" alt="gamedevicon.png">
+                <img class="icon" src="img/gamedevicon.png" alt="gamedevicon.png">
+                <!-- Navigation bar for smaller devices -->
+                <div class="dropdown">
+                    <button class="dropbtn">
+                        <div class="line"></div>
+                        <div class="line"></div>
+                        <div class="line"></div> 
+                    </button>
+                    <div class="dropdown-content">
+                        <a href="index.html">Home</a>
+                        <a href="#">About Us</a>
+                        <a href="pitches.html">Game Pitches</a>
+                        <a href="faq.html">FAQ</a>
+                    </div>
+                </div>
+                <!---->
                 <h3>CPP Game Development Club</h3>
             </div>
         </div>
         <hr>
-        <a href="index.html">Home</a>
-        <a href="#">About Us</a>
-        <a href="pitches.html">Game Pitches</a>
-        <a href="faq.html">FAQ</a>
-        <!-- <a href="updates.html">Updates</a> -->
-        <a href="contact.html">Contact</a>
+        <div class="navigation">
+            <a href="index.html">Home</a>
+            <a href="#">About Us</a>
+            <a href="pitches.html">Game Pitches</a>
+            <a href="faq.html">FAQ</a>
+            <!-- <a href="updates.html">Updates</a> -->
+            <a href="contact.html">Contact</a>
+        </div>
     </nav>
     <div class="padding"></div>
     <main>
-        <div class="parallaxgdc">
-            <h2>About the Club</h2>
-            <div class="profiles">
+        <!-- Edit the "About the Club" bio here -->
+            <div class="AboutHeader">
                 <img id="logoimg" src="img/gamedevlogo.png" alt="">
-                <p id="about">We are the CPP Game Development Club, formerly known as the CPP Game Design & Development Club.
-                Our club's purpose is to promote and educate students about the world of game design and development.
-                It welcomes students interested in different aspects of development whether it be creating art, writing stories, composing music,
-                programming, business and marketing, or simply playing games.</p>
+                <p>The CPP Game Development Club's purpose is to promote and educate students about the world of game design and development. </p>
             </div>
+            <p class="Tagline">
+                We welcome students interested in different aspects of development : <br> art, writing, composing music,
+                programming, business and marketing, or simply playing.
+            </p>
 
+        <div class="parallaxgdc">
             <h2>Current Board and Officers | 2023 - 2024</h2>
             <h3>PRESIDENT | Melvin Gitbumrugsin</h3>
             <div class="profiles">

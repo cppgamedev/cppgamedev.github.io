@@ -21,6 +21,65 @@ nav{
     padding-left: 30px;
 }
 
+/* Dropdown menu */
+.dropdown {
+  float: left;
+  overflow: hidden;
+  padding: 30px 0px 0px 0px; 
+  display: none;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: #0d0f21;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: #0d0f21;
+  padding: 12px 16px;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* hamburger menu icon */
+.line{
+    width: 35px;
+    height: 5px;
+    background-color: #0d0f21;
+    margin: 6px 0;
+}
+
+/**/
+
 .calendar-container{
     border-collapse: separate;
     border-radius: 10px;
@@ -152,6 +211,38 @@ nav{
 
 .parallaxgdc label{
     color: ghostwhite;
+}
+
+/* Edit About Bio Styling here */
+.AboutHeader{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.AboutHeader #logoimg{
+    width: 300px;
+    height: 100px;
+    float: left;
+    display: flex;
+    justify-content:flex-start;
+    align-items: baseline;
+    padding: 5% 5%;
+}
+
+.Tagline{
+    font-size: small;
+    color: white;
+    text-align: center;
+    padding: 3% 0% 0% 0%;
+}
+
+/**/
+
+#demoVideo{
+    width: 90%;
+    height: 90%;
 }
 
 .partition{
@@ -296,12 +387,25 @@ main{
 
 .social-link{
     font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: center;
 }
+
+.social-link-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
 
 .social-link h6{
     color: ghostwhite;
     font-size: 24px;
     margin: 0px 0px 12px 0px;
+    text-align: center;
 }
 
 .social-link h6:hover{
@@ -442,11 +546,12 @@ main{
 .profiles {
     background-color: #ffffff;
     color: #0d0f21;
-    padding-right: 3%;
+    padding: 5% 3%;
     box-shadow: 6px 6px 10px 0px #0d0f21;
     display: grid;
     grid-template-columns: auto auto auto auto auto auto auto;
     grid-column-gap: 1rem;
+    border-radius: 20px;
 }
 
 .profiles-advisor {
@@ -471,16 +576,15 @@ main{
 
 #logoimg{
     padding: 25%;
+    -webkit-filter:drop-shadow(3px 2px 2px #0d0f21);
+    filter: drop-shadow(2px 0px 2px #222);
 }
 
-#about{
-    font-size: 1.1rem;
-    text-align: center;
-}
 
 .profiles img{
     margin: auto 0px;
     width: 70%;
+    
 }
 
 .profiles p{
@@ -672,4 +776,76 @@ main{
   width: 300px;
   background-color: grey;
   opacity: 0.5;
+}
+
+
+/* control what it looks like on different sized devices 
+    EX) Control what it looks like when it's 650px or less*/
+@media (max-width: 650px) {
+  * {
+   
+  }
+
+  body{
+    overflow-x:hidden;
+  }
+
+  /* adjust about header to be in column instead of row */
+  .AboutHeader{
+    flex-direction: column;
+    justify-content: center;
+    padding: 3%;
+  }
+  .AboutHeader p{
+    padding: 0% 5%;
+    text-align: center;
+  }
+  .AboutHeader #logoimg{
+    width: 45vh;
+  }
+
+  /* activate navigation bar */
+  .navigation{
+    display: none;
+  }
+
+  .icon{
+    display: none;
+  }
+
+  .dropdown{
+    display: block;
+  }
+  
+  /* resize register bar*/
+  .logo {
+    display: flex;
+    justify-content: center;
+    bottom:25%;
+    left: 35%;
+    
+  }
+  .logo h5{
+    font-size: 90%;
+  }
+
+  /* resize calander*/
+  .calendar-container{
+    width: auto;
+    height: auto;
+    font-size: smaller;
+  }
+
+  .calendar-month{
+    padding: 0%;
+  }
+
+  /* resize social media */
+  .social-link{
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .social-link-row{
+    flex-direction: column;
+  }
 }

@@ -10,43 +10,69 @@
     <nav>
         <div>
             <div class="title">
-                <img src="img/gamedevicon.png" alt="gamedevicon.png">
+                <img class="icon" src="img/gamedevicon.png" alt="gamedevicon.png">
+                <!-- Navigation bar for smaller devices -->
+                <div class="dropdown">
+                    <button class="dropbtn">
+                        <div class="line"></div>
+                        <div class="line"></div>
+                        <div class="line"></div> 
+                    </button>
+                    <div class="dropdown-content">
+                        <a href="index.html">Home</a>
+                        <a href="aboutus.html">About Us</a>
+                        <a href="#">Game Pitches</a>
+                        <a href="faq.html">FAQ</a>
+                    </div>
+                </div>
+                <!---->
                 <h3>CPP Game Development Club</h3>
             </div>
         </div>
         <hr>
-        <a href="index.html">Home</a>
-        <a href="aboutus.html">About Us</a>
-        <a href="#">Game Pitches</a>
-        <a href="faq.html">FAQ</a>
-        <!-- <a href="updates.html">Updates</a> -->
-        <a href="contact.html">Contact</a>
+        <div class="navigation">
+            <a href="index.html">Home</a>
+            <a href="aboutus.html">About Us</a>
+            <a href="#">Game Pitches</a>
+            <a href="faq.html">FAQ</a>
+            <!-- <a href="updates.html">Updates</a> -->
+            <a href="contact.html">Contact</a>
+        </div>
     </nav>
 
     <div class="padding"></div>
 
     <main>
         <!-- Game Pitches Description Here -->
+        <div class="AboutHeader">
+            <img id="logoimg" src="img/gamedevlogo.png" alt="">
+            <p>Each semester, all  members have the opportunity to present their game idea.</p>
+        </div>
+        <p class="Tagline"> Members interested in your pitch can then team up to work on the project for the entire semester.<br>
+                            Goal is to have a minimum viable product ready to present at the Club Banquet!</p>                
+        </p>
+
         <div class="parallaxgdc">
-            <center><h2>About the Game Pitches</h2></center>
-            <div class="profiles">
-                <img id="logoimg" src="img/gamedevlogo.png" alt="">
-                <p id="about">Every semester, the CPP Game Development Clubs holds the Game Pitches! It's an opportunity for all members of the club
-                              to present an idea of a game to the other members, who then group together in teams to work on the project from the entire the semester.
-                              The goal is to have a minimum viable product ready to present at the Club Banquet!</p>
-            </div>
-            <br></br>
+
             <center><h2>Club Demo Reel</h2></center>
-            <center><iframe width="1600" height="900"
-                src="https://www.youtube.com/watch?v=agnyh5imZQs">
+            <center><iframe id="demoVideo" width="1600" height="900"
+                src="https://www.youtube.com/watch?v=agnyh5imZQs&list=PLbakardzQYDcaAfiQnhXQnEkGwM12i8RG&index=1">
             </iframe></center>
             <br></br>
             <div class="card-container">
-                <div class="card-pitches-empty">
-
+                <div class="card-pitches" id="guide-pitches">
+                    <img src="img/presentationboard.png" alt="empty">
+                    <center><h4>Check out how to prepare to pitch!</h4></center>
+                    <p>
+                        - This is a guide that will help you get started with your pitch, touching on presentations!
+                        <br><br>
+                        <a href="https://docs.google.com/document/d/1Z0Y5Ka34FizMp7_yORwbvLMrCv72cTEsNXo-uEdctaY/edit?usp=sharing"><div class="link">
+                            <h5>Visit the page here!</h5>
+                        </div></a>
+                    </p>
                 </div>
 
-                <div class="card-pitches">
+                <div class="card-pitches" id="itch-pitches">
                     <img src="img/pitches_blank.png" alt="empty">
                     <center><h4>Play these games down below!</h4></center>
                     <p>
@@ -58,9 +84,17 @@
                     </p>
                 </div>
 
-                <div class="card-pitches-empty">
-
-                </div>
+                <!--<div class="card-pitches-em" id="steam-pitches">
+                    <img src="img/pitches_blank.png" alt="empty">
+                    <center><h4>Play these games down below!</h4></center>
+                    <p>
+                        - We archive the club's game pitches over on our itch.io page! Click the link below to check them out!
+                        <br><br>
+                        <a href="https://cppgddc.itch.io/"><div class="link">
+                            <h5>Visit the page here!</h5>
+                        </div></a>
+                    </p>
+                </div>-->
             </div>
         </div>
 

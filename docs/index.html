@@ -13,17 +13,34 @@
     <nav>
         <div>
             <div class="title">
-                <img src="img/gamedevicon.png" alt="gamedevicon.png">
+                <img class="icon" src="img/gamedevicon.png" alt="gamedevicon.png">
+                <!-- Navigation bar for smaller devices -->
+                <div class="dropdown">
+                    <button class="dropbtn">
+                        <div class="line"></div>
+                        <div class="line"></div>
+                        <div class="line"></div> 
+                    </button>
+                    <div class="dropdown-content">
+                        <a href="#">Home</a>
+                        <a href="aboutus.html">About Us</a>
+                        <a href="pitches.html">Game Pitches</a>
+                        <a href="faq.html">FAQ</a>
+                    </div>
+                </div>
+                <!---->
                 <h3>CPP Game Development Club</h3>
             </div>
         </div>
         <hr>
-        <a href="#">Home</a>
-        <a href="aboutus.html">About Us</a>
-        <a href="pitches.html">Game Pitches</a>
-        <a href="faq.html">FAQ</a>
-        <!-- <a href="updates.html">Updates</a> -->
-        <a href="contact.html">Contact</a>
+        <div class="navigation">
+            <a href="#">Home</a>
+            <a href="aboutus.html">About Us</a>
+            <a href="pitches.html">Game Pitches</a>
+            <a href="faq.html">FAQ</a>
+            <!-- <a href="updates.html">Updates</a> -->
+            <a href="contact.html">Contact</a>
+        </div>
     </nav>
     <!-- padding so that the gallery is not covered -->
     <div class="padding"></div>
@@ -62,7 +79,7 @@
                     <div>
                         <u>Meeting Details</u><br>
                         <p>
-                            <b>Date:</b> Tuesday, April 16th<br>
+                            <b>Date:</b> Every Tuesday! <br>
                             <b>Time:</b> 12:00 PM - 12:50 PM<br>
                             <b>Location:</b> 008-004 or over Discord<br>
                         </p>
@@ -113,7 +130,9 @@
             </ul>
         </div> -->
                 <div>
-                    <span class="calendar-month-previous">&#10094</span><span class="calendar-month"></span><span class="calendar-month-next">&#10095</span>
+                    <span class="calendar-month-previous">&#10094</span>
+                    <span class="calendar-month"></span>
+                    <span class="calendar-month-next">&#10095</span>
                 </div>
                 <ul class="calendar-weekdays">
                     <li>Sunday</li>
@@ -143,15 +162,28 @@
             <!--<div class="elfsight-app-326fd571-c2a2-412a-921b-461b0ac7999a"></div>-->
 
             <div class="social-link">
-                <a href="https://www.instagram.com/cppgamedev/" target="_blank">
-                    <h6>Instagram</h6>
-                </a>
-                <a href="https://www.linkedin.com/company/cpp-game-development-club/" target="_blank">
-                    <h6>Linkedin</h6>
-                </a>
-                <a href="https://www.youtube.com/@cppgamedevelopmentclub2925" target="_blank">
-                    <h6>YouTube</h6>
-                </a>
+                <div class="social-link-row">
+                    <a href="https://www.instagram.com/cppgamedev/" target="_blank">
+                        <img src="img/Instagram.png" width="100px" alt="Instagram"> <h6>Instagram</h6>
+                    </a>
+                    <a href="https://www.linkedin.com/company/cpp-game-development-club/" target="_blank">
+                        <img src="img/Linkedin.png" width="100px" alt="Linkedin"> <h6>Linkedin</h6>
+                    </a>
+                    <a href="https://www.youtube.com/@cppgamedevelopmentclub2925" target="_blank">
+                        <img src="img/Youtube.png" width="100px" alt="Youtube"> <h6>YouTube</h6>
+                    </a>
+                </div>
+                <div class="social-link-row">
+                    <a href="http://steamcommunity.com/groups/cppgamedev" target="_blank">
+                        <img src="img/Steam.png" width="100px" alt="Steam"><h6>Steam</h6>
+                    </a>
+                    <a href="https://cppgdc.itch.io/" target="_blank">
+                        <img src="img/ItchIO.png" width="100px" alt="Itch.io"><h6>Itch.io</h6>
+                    </a>
+                </div>
+
+                
+
             </div>
         </div>
 
